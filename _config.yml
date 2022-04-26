@@ -6,6 +6,7 @@ email: info@swissclubtoronto.ca
 description: The website of the Swiss Club Toronto
 twitter_username: swissclubto
 github_username: swissclubto
+baseurl: /
 url: https://swissclubto.github.io
 
 # Build settings
