@@ -1,18 +1,32 @@
 # Global configuration
+# Conversion
+markdown: GFM
+
+# Outputting
 timezone: America/Toronto
 
-baseurl: /
-description: The website of the Swiss Club Toronto
-markdown: GFM
-title: Swiss Club Toronto
-url: https://swissclubto.github.io
-
-# Contact and social
-email: info@swissclubtoronto.ca
-twitter_username: swissclubto
-github_username: swissclubto
-
-# Build settings
+# Plugins
+# minima
 theme: minima
-plugins:
-  - jekyll-feed
+email: info@swissclubtoronto.ca
+facebook_username: swissclubtoronto
+github_username: swissclubto
+instagram_username: swissclubto
+rss: rss
+twitter_username: swissclubto
+
+# jekyll-seo-tag
+title: Swiss Club Toronto
+tagline: Website of the Swiss Club Toronto
+description: >
+  Website of the Swiss Club Toronto with information about the club, upcoming
+  events, and more
+url: https://swissclubto.github.io
+twitter:
+  username: swissclubto
+  card: summary
+social:
+  - https://twitter.com/swissclubto
+  - https://www.facebook.com/swissclubtoronto
+  - https://www.linkedin.com/company/swissclubto
+  - https://github.com/swissclubto
