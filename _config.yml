@@ -8,6 +8,9 @@ timezone: America/Toronto
 # Plugins
 # minima
 theme: minima
+header_pages:
+  - contact/index.md
+  - contact/officers.md
 email: info@swissclubtoronto.ca
 facebook_username: swissclubtoronto
 github_username: swissclubto
