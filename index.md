@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Welcome to the Swiss Club Toronto!
 ---
-
-*Welcome to the Swiss Club Toronto!*
 
 Check out our events list and join us at some or all of the events. We sponsor
 a variety of fun activities from our traditional annual theatre performance to
