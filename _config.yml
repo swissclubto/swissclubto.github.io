@@ -1,13 +1,16 @@
 # Global configuration
 timezone: America/Toronto
 
-title: Swiss Club Toronto
-email: info@swissclubtoronto.ca
+baseurl: /
 description: The website of the Swiss Club Toronto
+markdown: GFM
+title: Swiss Club Toronto
+url: https://swissclubto.github.io
+
+# Contact and social
+email: info@swissclubtoronto.ca
 twitter_username: swissclubto
 github_username: swissclubto
-baseurl: /
-url: https://swissclubto.github.io
 
 # Build settings
 theme: minima
