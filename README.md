@@ -1,7 +1,7 @@
 # swissclubto.github.io
 
 New website of the Swiss Club Toronto, to eventually replace
-<swissclubtoronto.ca>. Built with
+<https://swissclubtoronto.ca>. Built with
 
 - [GitHub pages][pages]
 - [Jekyll]
