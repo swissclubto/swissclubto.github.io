@@ -2,7 +2,6 @@
 layout: post
 title: Fondue de l'Amicale Romande 2020
 author: Thomas Guignard
-date: 2020-01-26 12:00:00 -0400
 categories: event
 images:
   - Amicale Romande 01
