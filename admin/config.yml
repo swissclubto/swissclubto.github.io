@@ -3,6 +3,7 @@ backend:
   repo: swissclubto/swissclubto.github.io
   branch: main
   site_domain: swissclubto.github.io
+  base_url: https://api.netlify.com
 publish_mode: editorial_workflow
 media_folder: /assets/img
 collections:
