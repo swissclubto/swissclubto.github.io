@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to the Swiss Club Toronto!
+title: ':switzerland: Welcome to the Swiss Club Toronto! :switzerland:'
 ---
 
 Check out our events list and join us at some or all of the events. We sponsor

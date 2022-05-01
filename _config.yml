@@ -6,6 +6,9 @@ markdown: GFM
 timezone: America/Toronto
 
 # Plugins
+plugins:
+  - jemoji
+
 # minima
 theme: minima
 header_pages:
