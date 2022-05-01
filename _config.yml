@@ -1,7 +1,4 @@
 # Global configuration
-# Conversion
-markdown: GFM
-
 # Outputting
 timezone: America/Toronto
 
