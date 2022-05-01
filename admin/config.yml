@@ -1,0 +1,39 @@
+backend:
+  name: github
+  repo: swissclubto/swissclubto.github.io
+  branch: main
+publish_mode: editorial_workflow
+media_folder: /assets/img
+collections:
+  - name: posts
+    label: Posts
+    folder: _posts
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Title
+        name: title
+        widget: string
+      - label: Author
+        name: author
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+        buttons:
+          - bold
+          - italic
+          - code
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - heading-five
+          - heading-six
+          - quote
+          - bulleted-list
+          - numbered-list
