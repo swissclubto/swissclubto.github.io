@@ -17,7 +17,12 @@ ul.gallery {
     max-height: 100%;
     min-width: 100%;
     object-fit: cover;
+    transition: transform .3s;
     vertical-align: bottom;
+}
+
+.gallery li img:hover {
+    transform: scale(1.05, 1.05);
 }
 </style>
 
