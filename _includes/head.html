@@ -5,8 +5,11 @@
   {% seo -%}
   <link rel="icon" href="{{ "/favicon.png" | relative_url }}" sizes="32x32" type="image/png">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {% if page.images -%}
+  <link rel="stylesheet" href="{{ "/assets/gallery.css" | relative_url }}">
+  {% endif -%}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {%- feed_meta -%}
+  {% feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
