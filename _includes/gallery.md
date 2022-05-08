@@ -9,7 +9,7 @@ ul.gallery {
 
 .gallery li {
     flex-grow: 1;
-    height: 13vh;
+    height: 160px;
     padding: 4px;
 }
 
