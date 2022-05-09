@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Important message to all Swiss Citizens residing in Ontario
 author: Swiss Club Toronto
 categories: announcement

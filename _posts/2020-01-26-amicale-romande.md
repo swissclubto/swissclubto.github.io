@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fondue de l'Amicale Romande 2020
 author: Thomas Guignard
 categories: event
