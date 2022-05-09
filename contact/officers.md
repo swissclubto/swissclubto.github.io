@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Club Officers
-permalink: /contact/officers/
 ---
 
 | Position         | Name               | Email                                    |

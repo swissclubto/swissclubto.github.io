@@ -1,5 +1,6 @@
 # Global configuration
 # Outputting
+permalink: pretty
 timezone: America/Toronto
 
 # Plugins
