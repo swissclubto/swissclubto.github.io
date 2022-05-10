@@ -17,4 +17,8 @@ images:
   - Amicale Romande 12
 ---
 
+{% comment %}
 {% include gallery.md %}
+{% endcomment %}
+
+Insert back the gallery here one day
