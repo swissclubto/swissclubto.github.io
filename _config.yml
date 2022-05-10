@@ -1,36 +1,113 @@
-# Global configuration
+# Plugins that aren't enabled in github-pages by default
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jemoji
+
+# Theme: Minimal Mistakes, fork with our customizations
+remote_theme: swissclubto/minimal-mistakes@customize
+
+# Skin
+minimal_mistakes_skin: air
+
+# Site locale
+locale: en-CA
+
+# Site title
+title: Swiss Club Toronto
+title_separator: '|'
+
+# Name for site author
+name: Swiss Club Toronto
+
+# Site description
+description: >
+  Website of the Swiss Club Toronto with information about the club, upcoming
+  events, and more
+
+# Site URL
+url: https://swissclubto.github.io
+
+# Site repository
+repository: swissclubto/swissclubto.github.io
+
+# Site scripts
+head_scripts:
+  # Netlify CMS
+  - https://identity.netlify.com/v1/netlify-identity-widget.js
+
+# Site default teaser image
+teaser: /assets/images/post-teaser.jpg
+
+# Site masthead logo
+logo: /assets/images/logo.jpg
+
+# SEO and social sharing
+twitter:
+  username: swissclubto
+facebook:
+  username: swissclubto
+# Open graph default image
+og_image: /assets/images/logo.jpg
+# Social profile information for Google Knowledge panel
+social:
+  type: Organization
+  name: Swiss Club Toronto
+  links:
+    - https://www.facebook.com/swissclubtoronto
+    - https://www.instagram.com/swissclubto/
+    - https://twitter.com/swissclubto
+    - https://www.linkedin.com/company/swissclubto/
+    - https://github.com/swissclubto
+
+# Site author
+
+# Site footer
+footer:
+  links:
+    - label: Facebook
+      icon: fab fa-fw fa-facebook
+      url: https://www.facebook.com/swissclubtoronto
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://www.instagram.com/swissclubto/
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/swissclubto
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/company/swissclubto/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/swissclubto
+
+# Reading files
+include:
+  - _pages
+exclude:
+  - .mailmap
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
 # Outputting
 permalink: pretty
 timezone: America/Toronto
 
-# Plugins
-plugins:
-  - jemoji
-
-# minima
-theme: minima
-header_pages:
-  - contact/index.md
-  - contact/officers.md
-email: info@swissclubtoronto.ca
-facebook_username: swissclubtoronto
-github_username: swissclubto
-instagram_username: swissclubto
-rss: rss
-twitter_username: swissclubto
-
-# jekyll-seo-tag
-title: Swiss Club Toronto
-tagline: Website of the Swiss Club Toronto
-description: >
-  Website of the Swiss Club Toronto with information about the club, upcoming
-  events, and more
-url: https://swissclubto.github.io
-twitter:
-  username: swissclubto
-  card: summary
-social:
-  - https://twitter.com/swissclubto
-  - https://www.facebook.com/swissclubtoronto
-  - https://www.linkedin.com/company/swissclubto
-  - https://github.com/swissclubto
+# Front matter defaults
+defaults:
+  # _posts
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: single
+      show_date: true
+  # _pages
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: single
