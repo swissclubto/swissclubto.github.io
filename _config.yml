@@ -5,8 +5,8 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-# Theme: Minimal Mistakes, fork with our customizations
-remote_theme: swissclubto/minimal-mistakes@customize
+# Theme: Minimal Mistakes
+remote_theme: mmistakes/minimal-mistakes@2.24.0
 
 # Skin
 minimal_mistakes_skin: air
