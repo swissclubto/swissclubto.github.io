@@ -41,7 +41,7 @@ head_scripts:
 teaser: /assets/images/post-teaser.jpg
 
 # Site masthead logo
-logo: /assets/images/logo.jpg
+logo: /assets/images/logo.png
 
 # SEO and social sharing
 twitter:
