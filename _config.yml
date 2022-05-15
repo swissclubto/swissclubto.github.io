@@ -117,3 +117,7 @@ defaults:
           The Swiss Flag in front of the Old City Hall and high rise buildings,
           seen from City Hall
         overlay_filter: 0.2
+
+# Collections
+collections:
+  officers:
