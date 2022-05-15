@@ -6,7 +6,7 @@ plugins:
   - jemoji
 
 # Theme: Minimal Mistakes
-remote_theme: mmistakes/minimal-mistakes@2.24.0
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 # Skin
 minimal_mistakes_skin: air
