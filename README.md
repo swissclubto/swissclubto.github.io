@@ -3,7 +3,7 @@
 New website of the Swiss Club Toronto, to eventually replace
 <https://swissclubtoronto.ca>. Built with
 
-- [GitHub pages][pages]
+- [GitHub Pages][pages]
 - [Jekyll] and the [Minimal Mistakes][mm] theme
 - [Netlify CMS][cms]
 
