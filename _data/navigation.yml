@@ -1,3 +1,5 @@
 main:
+  - title: Membership
+    url: /membership/
   - title: Contact
     url: /contact/
