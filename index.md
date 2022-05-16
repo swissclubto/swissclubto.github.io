@@ -1,6 +1,10 @@
 ---
 layout: home
 title: Welcome to the Swiss Club Toronto!
+header:
+  actions:
+    - label: Become a member
+      url: /membership/
 ---
 
 Check out our events list and join us at some or all of the events. We sponsor
