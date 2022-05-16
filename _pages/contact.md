@@ -6,11 +6,7 @@ classes: wide
 
 ## Address
 
-<address>
-Swiss Club Toronto<br>
-P.O. Box 823, Station Q<br>
-Toronto, ON M4T 2N7
-</address>
+{{ site.pobox_address }}
 
 ## Board members
 
