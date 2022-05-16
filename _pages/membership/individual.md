@@ -1,14 +1,9 @@
 ---
-title: Individual membership
+title: Individual membership sign-up
 permalink: /membership/individual/
 ---
 
-To pay online, fill out the application below, and choose “Credit Card”.
-
-To pay by cheque, fill out the application below, and choose “Pay by Cheque”.
-Cheques can be mail to the Swiss Club Toronto at
-
-{{ site.pobox_address }}
+{% include signup.md %}
 
 ---
 

@@ -20,7 +20,7 @@ a family (two partners and children). Membership is annual from the date you
 join, and can be renewed every year. Click below to sign up.
 
 [Individual membership]({% link _pages/membership/individual.md %}){: .btn .btn--info .btn--large}
-[Family membership](#){: .btn .btn--info .btn--large}
+[Family membership]({% link _pages/membership/family.md %}){: .btn .btn--info .btn--large}
 
 Joining the Swiss Club provides access to:
 
