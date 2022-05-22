@@ -4,7 +4,8 @@ author: Swiss Club Toronto
 categories: announcement
 ---
 
-**Please note that this event is now closed. Updated: August 29, 2019.**
+:warning: **Please note that this event is now closed. Updated: August 29,
+2019.**
 {: .notice--warning}
 
 Dear fellow citizens,
