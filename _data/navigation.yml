@@ -1,4 +1,6 @@
 main:
+  - title: Gallery
+    url: /gallery/
   - title: Membership
     url: /membership/
   - title: Contact
