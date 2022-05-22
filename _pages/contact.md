@@ -6,7 +6,7 @@ classes: wide
 
 ## Address
 
-{{ site.pobox_address }}
+{% include pobox-address.html %}
 
 ## Board members
 
