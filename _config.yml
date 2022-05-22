@@ -105,6 +105,15 @@ collections:
 
 # Front matter defaults
 defaults:
+  - scope:
+      path: ''
+    values:
+      header:
+        overlay_image: /assets/images/header.jpg
+        image_description: >
+          The Swiss Flag in front of the Old City Hall and high rise buildings,
+          seen from City Hall
+        overlay_filter: 0.2
   # _posts
   - scope:
       path: ''
@@ -118,12 +127,6 @@ defaults:
       type: pages
     values:
       layout: single
-      header:
-        overlay_image: /assets/images/header.jpg
-        image_description: >
-          The Swiss Flag in front of the Old City Hall and high rise buildings,
-          seen from City Hall
-        overlay_filter: 0.2
   # Membership pages
   - scope:
       path: _pages/membership*
