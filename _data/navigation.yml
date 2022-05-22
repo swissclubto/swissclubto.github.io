@@ -17,5 +17,7 @@ membership:
         url: /membership/individual/
       - title: Family membership sign-up
         url: /membership/family/
+      - title: Newsletter sign-up
+        url: /membership/newsletter/
       - title: Online billing
         url: /membership/billing/

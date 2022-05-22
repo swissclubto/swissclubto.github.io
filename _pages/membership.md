@@ -36,3 +36,11 @@ Joining the Swiss Club provides access to:
     Well, technically, if you dig into our bylaws, there's a rule that the
     "non-Swiss membership does not exceed at any time 20% of the total voting
     membership".
+
+## I'm not quite sure yet :thinking:
+
+Don't know if the Swiss Club is for you? How about signing up for our mailing
+list to get a better idea of what the club is about? You can always upgrade to
+a full membership later.
+
+[Newsletter]({% link _pages/membership/newsletter.md %}){: .btn .btn--info .btn--large}
