@@ -101,7 +101,7 @@ collections:
   officers:
   gallery:
     output: true
-    permalink: /:collection/:year/:name
+    permalink: /:collection/:year/:month/:slug
 
 # Front matter defaults
 defaults:
