@@ -21,7 +21,7 @@ classes: wide
 ## Section heads
 
 |   | Section | Name | Email |
-| - | -------- | ---- | ----- |
+| - | ------- | ---- | ----- |
 {%- assign section_heads = site.officers | where: 'is_section', true | sort: 'section' -%}
 {% for head in section_heads %}
   | ![{{ head.name }}]({{ head.image_url }}){: style="min-width: 60px"} |
