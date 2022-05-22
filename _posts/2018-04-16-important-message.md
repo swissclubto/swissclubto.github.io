@@ -2,10 +2,11 @@
 title: Important message to all Swiss Citizens residing in Ontario
 author: Swiss Club Toronto
 categories: announcement
+last_modified_at: 2019-08-29
 ---
 
-:warning: **Please note that this event is now closed. Updated: August 29,
-2019.**
+:warning: **Please note that this event is now closed. Updated: {{
+page.last_modified_at | date: "%B %-d, %Y" }}.**
 {: .notice--warning}
 
 Dear fellow citizens,
