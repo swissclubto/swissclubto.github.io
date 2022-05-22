@@ -96,12 +96,18 @@ exclude:
 permalink: pretty
 timezone: America/Toronto
 
+# Serve command options
+future: true
+
 # Collections
 collections:
-  officers:
+  events:
+    output: true
+    permalink: /:collection/:year/:month/:slug
   gallery:
     output: true
     permalink: /:collection/:year/:month/:slug
+  officers:
 
 # Front matter defaults
 defaults:
@@ -141,3 +147,11 @@ defaults:
     values:
       layout: gallery
       show_date: true
+  # _events
+  - scope:
+      path: ''
+      type: events
+    values:
+      layout: event
+      show_date: true
+      excerpt: ''

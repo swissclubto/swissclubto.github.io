@@ -1,0 +1,35 @@
+---
+layout: single
+---
+
+{{ page.date | date: "%B %-d, %Y" }}
+
+<table>
+  <tr>
+    <th>Where</th>
+    <td>{{ page.location }}</td>
+  </tr>
+  <tr>
+    <th>When</th>
+    <td>
+      {{- page.start_time | date: "%-I %p" -}}
+      {%- if page.end_time -%}
+        &ndash; {{- page.end_time | date: "%-I %p" -}}
+      {%- endif %}
+    </td>
+  </tr>
+  <tr>
+    <th>Address</th>
+    <td>{{ page.address }}</td>
+  </tr>
+  {%- if page.rsvp_url -%}
+    <tr>
+      <th>Registration/RSVP</th>
+      <td>
+        <a href="{{ page.rsvp_url }}">{{ page.rsvp_url_name | default: page.rsvp_url }}</a>
+      </td>
+    </tr>
+  {%- endif -%}
+</table>
+
+{{ content }}
