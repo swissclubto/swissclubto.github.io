@@ -4,6 +4,8 @@ layout: single
 
 {{ page.date | date: "%B %-d, %Y" }}
 
+{% if page.gallery %}{% include gallery %}{% endif %}
+
 <table>
   <tr>
     <th>Where</th>

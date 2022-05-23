@@ -7,6 +7,9 @@ rsvp_url_name: Eventbrite
 start_time: 12 pm
 end_time: 5 pm
 last_modified_at: 2022-05-22
+gallery:
+  - url: /assets/images/2022-07-24-national-day-teaser.jpg
+    image_path: /assets/images/2022-07-24-national-day-teaser-th.jpg
 ---
 
 Come celebrate Switzerland's 731st birthday with the Swiss Club Toronto! There
