@@ -2,6 +2,7 @@
 title: Important message to all Swiss Citizens residing in Ontario
 author: Swiss Club Toronto
 last_modified_at: 2019-08-29
+tag: info
 ---
 
 :warning: **Please note that this event is now closed. Updated: {{
