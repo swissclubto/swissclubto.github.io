@@ -8,8 +8,8 @@ start_time: 7 pm
 end_time: 8 pm
 last_modified_at: 2022-05-22
 gallery:
-  - url: /assets/images/2022-07-24-national-day-teaser.jpg
-    image_path: /assets/images/2022-07-24-national-day-teaser-th.jpg
+  - url: /assets/images/2021-11-25-pubnight-teaser.jpg
+    image_path: /assets/images/2021-11-25-pubnight-teaser-th.jpg
 ---
 
 Hi everyone!
