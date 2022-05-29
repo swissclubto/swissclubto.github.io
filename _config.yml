@@ -61,6 +61,12 @@ social:
     - https://www.linkedin.com/company/swissclubto/
     - https://github.com/swissclubto
 
+# Analytics
+analytics:
+  provider: custom
+  goatcounter:
+    code: swissclubto
+
 # Site author
 
 # Site footer
