@@ -4,7 +4,9 @@ layout: single
 
 {{ page.date | date: "%B %-d, %Y" }}
 
-{% if page.gallery %}{% include gallery %}{% endif %}
+{% if page.figure -%}
+  {%- include figure image_path=page.figure.image_path -%}
+{%- endif %}
 
 <table>
   <tr>
