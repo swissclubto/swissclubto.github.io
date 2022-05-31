@@ -41,7 +41,7 @@ head_scripts:
 teaser: /assets/images/post-teaser.jpg
 
 # Site masthead logo
-logo: /assets/images/logo.png
+logo: /assets/images/logo.svg
 
 # SEO and social sharing
 twitter:
@@ -49,7 +49,7 @@ twitter:
 facebook:
   username: swissclubto
 # Open graph default image
-og_image: /assets/images/logo.jpg
+og_image: /assets/images/logo.png
 # Social profile information for Google Knowledge panel
 social:
   type: Organization
