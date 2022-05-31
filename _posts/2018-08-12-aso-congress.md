@@ -3,15 +3,16 @@ title: Report from the ASO congress
 author: Florence Pasche Guignard
 last_modified_at: 2022-05-23
 tag: aso
-gallery:
-  - url: /assets/images/2018-08-12-aso-congress.jpg
-    image_path: /assets/images/2018-08-12-aso-congress-th.jpg
-    title: >
-      The Organization of the Swiss Abroad Canadian delegates to the 96th
-      Congress of the Swiss Abroad in Visp. Left to right: Käthi Lyon-Villiger
-      (Ottawa), Philippe Magnenat (Québec & Maritimes), Florence Pasche
-      Guignard (Toronto), Silvia Schoch & Heidi Lussi (BC, Alberta & Northern
-      Canada)
+figure:
+  image_path: /assets/images/2018-08-12-aso-congress.jpg
+  alt: >
+    The Organization of the Swiss Abroad Canadian delegates to the 96th
+    Congress of the Swiss Abroad in Visp
+  caption: >
+    The Organization of the Swiss Abroad Canadian delegates to the 96th
+    Congress of the Swiss Abroad in Visp. Left to right: Käthi Lyon-Villiger
+    (Ottawa), Philippe Magnenat (Québec & Maritimes), Florence Pasche Guignard
+    (Toronto), Silvia Schoch & Heidi Lussi (BC, Alberta & Northern Canada)
 ---
 
 Dear Members of the Swiss Club Toronto,
@@ -62,4 +63,7 @@ Florence Pasche Guignard, OSA Delegate for Ontario and Central Canada
 
 [ev]: <https://www.evoting2021.ch>
 
-{% include gallery %}
+{% include figure
+  image_path=page.figure.image_path alt=page.figure.alt caption=page.figure.caption
+-%}
+{: .full}
