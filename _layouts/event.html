@@ -22,10 +22,12 @@ layout: single
       {%- endif %}
     </td>
   </tr>
-  <tr>
-    <th>Address</th>
-    <td>{{ page.address }}</td>
-  </tr>
+  {%- if page.address -%}
+    <tr>
+      <th>Address</th>
+      <td>{{ page.address }}</td>
+    </tr>
+  {%- endif -%}
   {%- if page.rsvp_url -%}
     <tr>
       <th>Registration/RSVP</th>
