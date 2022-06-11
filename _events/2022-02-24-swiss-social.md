@@ -7,8 +7,7 @@ web_url_name: Facebook event
 start_time: 7 pm
 end_time: 8 pm
 last_modified_at: 2022-05-22
-figure:
-  image_path: /assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
 ---
 
 Hi everyone!

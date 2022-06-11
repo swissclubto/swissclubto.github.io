@@ -7,8 +7,7 @@ web_url_name: Google Form to RSVP
 start_time: 12 pm
 end_time: 5 pm
 last_modified_at: 2022-05-24
-figure:
-  image_path: /assets/images/2022-07-24-national-day-teaser.jpg
+teaser: /assets/images/2022-07-24-national-day-teaser.jpg
 ---
 
 Come celebrate Switzerland's 731st birthday with the Swiss Club Toronto! There

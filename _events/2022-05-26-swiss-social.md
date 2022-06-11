@@ -6,8 +6,7 @@ web_url: https://www.facebook.com/events/1173765380078022
 web_url_name: Facebook event
 start_time: 7 pm
 end_time: 8 pm
-figure:
-  image_path: /assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
 last_modified_at: 2022-06-11
 ---
 
