@@ -3,7 +3,7 @@ title: Swiss Social pub night Chrimas Edition
 location: Duke of York
 address: 39 Prince Arthur Ave, Toronto
 rsvp_url: https://www.facebook.com/events/583368679613571
-rsvp_url_name: Facebook
+rsvp_url_name: Facebook event
 start_time: 7 pm
 end_time: 8 pm
 last_modified_at: 2022-05-22
