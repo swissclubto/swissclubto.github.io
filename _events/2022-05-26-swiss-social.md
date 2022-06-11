@@ -8,6 +8,7 @@ start_time: 7 pm
 end_time: 8 pm
 figure:
   image_path: /assets/images/2021-11-25-pubnight-teaser.jpg
+last_modified_at: 2022-06-11
 ---
 
 Hi everyone!
