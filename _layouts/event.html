@@ -9,19 +9,40 @@ layout: single
 {%- endif %}
 
 <table>
-  <tr>
-    <th>Where</th>
-    <td>{{ page.location }}</td>
-  </tr>
-  <tr>
-    <th>When</th>
-    <td>
-      {{- page.start_time | date: "%-I %p" -}}
-      {%- if page.end_time -%}
-        &ndash; {{- page.end_time | date: "%-I %p" -}}
-      {%- endif %}
-    </td>
-  </tr>
+  {%- if page.location -%}
+    <tr>
+      <th>Where</th>
+      <td>{{ page.location }}</td>
+    </tr>
+  {%- endif -%}
+  {%- if page.start_time or page.end_date -%}
+    <tr>
+      <th>When</th>
+      <td>
+        {%- if page.end_date -%}
+          {{- page.date | date: "%B %-d" -}}
+          {%- if page.start_time -%}
+            ,&#32;
+          {%- endif -%}
+        {%- endif -%}
+        {%- if page.start_time -%}
+          {{- page.start_time | date: "%-I %p" -}}
+        {%- endif -%}
+        {%- if page.end_time or page.end_date -%}
+          &#32;&ndash;&#32; 
+        {%- endif -%}
+        {%- if page.end_date -%}
+          {{- page.end_date | date: "%B %-d" -}}
+          {%- if page.end_time -%}
+            ,&#32;
+          {%- endif -%}
+        {%- endif -%}
+        {%- if page.end_time -%}
+          {{- page.end_time | date: "%-I %p" -}}
+        {%- endif -%}
+      </td>
+    </tr>
+  {%- endif -%}
   {%- if page.address -%}
     <tr>
       <th>Address</th>
