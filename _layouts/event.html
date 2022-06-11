@@ -49,11 +49,11 @@ layout: single
       <td>{{ page.address }}</td>
     </tr>
   {%- endif -%}
-  {%- if page.rsvp_url -%}
+  {%- if page.web_url -%}
     <tr>
       <th>Web</th>
       <td>
-        <a href="{{ page.rsvp_url }}">{{ page.rsvp_url_name | default: page.rsvp_url }}</a>
+        <a href="{{ page.web_url }}">{{ page.web_url_name | default: page.web_url }}</a>
       </td>
     </tr>
   {%- endif -%}

@@ -2,8 +2,8 @@
 title: Swiss Social pub night May
 location: Duke of York
 address: 39 Prince Arthur Ave, Toronto
-rsvp_url: https://www.facebook.com/events/1173765380078022
-rsvp_url_name: Facebook event
+web_url: https://www.facebook.com/events/1173765380078022
+web_url_name: Facebook event
 start_time: 7 pm
 end_time: 8 pm
 figure:
