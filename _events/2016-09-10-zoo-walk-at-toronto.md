@@ -1,6 +1,7 @@
 ---
-title: Zoo Walk at Toronto Zoo – Cancelled Due To Inclimate Weather
+title: Zoo walk at Toronto Zoo
 location: Metro Toronto Zoo
-start_time: 12:00 am
-end_time: 12:00 am
 ---
+
+This event has been cancelled due to inclimate weather.
+{: .notice--danger}
