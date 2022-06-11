@@ -1,3 +1,3 @@
 ---
-title: Movie Matinee – Sunday Afternoon
+title: Movie matinée
 ---

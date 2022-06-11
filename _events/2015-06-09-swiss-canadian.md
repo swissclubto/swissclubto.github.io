@@ -1,4 +1,4 @@
 ---
-title: Swiss Canadian Chamber of Commerce Golf Tournament
+title: Swiss Canadian Chamber of Commerce golf tournament
 location: King's Riding Golf Club
 ---

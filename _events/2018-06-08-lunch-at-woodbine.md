@@ -1,4 +1,4 @@
 ---
-title: Lunch At Woodbine Racetrack
-location: Woodbine Racetrack
+title: Lunch at Woodbine racetrack
+location: Woodbine racetrack
 ---

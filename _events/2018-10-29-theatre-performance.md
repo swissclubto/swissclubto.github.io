@@ -1,4 +1,4 @@
 ---
-title: Theatre Performance
+title: Theatre performance
 location: Latvian Centre
 ---

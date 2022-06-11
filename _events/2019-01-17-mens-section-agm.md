@@ -1,5 +1,5 @@
 ---
-title: Men’s Section AGM
-location: St. Georges Golf and Country Club
+title: Men’s section annual general meeting
+location: St. George's Golf and Country Club
 start_time: 9:09 pm
 ---

@@ -1,4 +1,4 @@
 ---
-title: Autumn Train Ride
+title: Autumn train ride
 location: South Simcoe Heritage Railway
 ---

@@ -1,4 +1,4 @@
 ---
-title: Zoo Walk and Picnic
+title: Zoo walk and picnic
 location: Toronto Zoo
 ---

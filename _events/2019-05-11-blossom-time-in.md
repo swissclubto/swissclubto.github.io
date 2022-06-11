@@ -1,3 +1,4 @@
 ---
-title: Blossom Time in Niagara
+title: Blossom time
+location: Niagara Falls
 ---

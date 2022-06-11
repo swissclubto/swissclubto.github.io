@@ -1,4 +1,4 @@
 ---
-title: Lady Muskoka Anniversary Cruise
+title: Lady Muskoka anniversary cruise
 location: Bracebridge, Ontario
 ---

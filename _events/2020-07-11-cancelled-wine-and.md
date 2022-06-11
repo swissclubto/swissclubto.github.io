@@ -1,5 +1,5 @@
 ---
-title: Wine and Lavender tour
+title: Wine and lavender tour
 ---
 
 This event has been cancelled.

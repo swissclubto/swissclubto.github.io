@@ -1,5 +1,5 @@
 ---
-title: Annual General Meeting
-location: The Musket Restaurant, Banquet Room
+title: Annual general meeting 2016
+location: The Musket Restaurant, banquet room
 start_time: 7:00 pm
 ---

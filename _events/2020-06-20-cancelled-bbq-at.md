@@ -1,5 +1,6 @@
 ---
-title: BBQ at Egger Dairy Farm
+title: Annual BBQ
+location: Egger Dairy Farm
 ---
 
 This event has been cancelled.

@@ -1,4 +1,4 @@
 ---
-title: Niagara Falls Festival of lights & USA outlet
+title: Festival of Lights & USA outlet
 location: Niagara Falls
 ---

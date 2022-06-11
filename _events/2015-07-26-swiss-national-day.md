@@ -1,5 +1,5 @@
 ---
-title: Swiss National Day Celebration
+title: Swiss National Day celebration 2015
 location: Country Heritage Park
 start_time: 12:00 pm
 end_time: 6:00 pm

@@ -1,4 +1,4 @@
 ---
-title: Amicale Romande Raclette
+title: Amicale Romande raclette
 location: Simeon Park
 ---
