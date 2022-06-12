@@ -1,9 +1,9 @@
 ---
 title: Concert tour by Knabenkantorei Basel
-location: St. James Cathedral
-address: 65 Church Street, Toronto, ON M5C 2E9
-start_time: 7:00 pm
-end_time: 8:00 pm
+location: St. Paul's
+address: 227 Bloor Street East, Toronto, ON M4W
+start_time: 11 am
+end_time: 12 pm
 web_url: http://www.knabenkantorei.ch
 last_modified_at: 2022-06-11
 ---
