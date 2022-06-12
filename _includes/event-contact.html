@@ -1,0 +1,12 @@
+{%- if include.contact.name -%}
+  <i class="fas fa-user"></i>
+  {{ include.contact.name -}}<br>
+{%- endif -%}
+{%- if include.contact.email -%}
+  <i class="fas fa-envelope"></i>
+  <a href="mailto:{{ include.contact.email }}">{{ include.contact.email }}</a><br>
+{%- endif -%}
+{%- if include.contact.tel -%}
+  <i class="fas fa-phone"></i>
+  <a href="tel:{{ include.contact.tel }}">{{ include.contact.tel }}</a><br>
+{%- endif -%}

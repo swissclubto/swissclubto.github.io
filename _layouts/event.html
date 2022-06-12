@@ -57,22 +57,20 @@ layout: single
       </td>
     </tr>
   {%- endif -%}
-  {%- if page.contact -%}
+  {%- if page.contacts -%}
+    <tr>
+      <th>Contacts</th>
+      <td>
+        {%- for c in page.contacts -%}
+          {%- include event-contact.html contact=c -%}
+        {%- endfor -%}
+      </td>
+    </tr>
+  {%- elsif page.contact -%}
     <tr>
       <th>Contact</th>
       <td>
-        {%- if page.contact.name -%}
-          <i class="fas fa-user"></i>
-          {{ page.contact.name -}}<br>
-        {%- endif -%}
-        {%- if page.contact.email -%}
-          <i class="fas fa-envelope"></i>
-          <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a><br>
-        {%- endif -%}
-        {%- if page.contact.tel -%}
-          <i class="fas fa-phone"></i>
-          <a href="tel:{{ page.contact.tel }}">{{ page.contact.tel }}</a>
-        {%- endif -%}
+        {%- include event-contact.html contact=page.contact -%}
       </td>
     </tr>
   {%- endif -%}
