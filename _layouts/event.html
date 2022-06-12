@@ -62,7 +62,8 @@ layout: single
       <th>Contact</th>
       <td>
         {%- if page.contact.name -%}
-          {{- page.contact.name -}}<br>
+          <i class="fas fa-user"></i>
+          {{ page.contact.name -}}<br>
         {%- endif -%}
         {%- if page.contact.email -%}
           <i class="fas fa-envelope"></i>
