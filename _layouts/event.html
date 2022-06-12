@@ -57,6 +57,24 @@ layout: single
       </td>
     </tr>
   {%- endif -%}
+  {%- if page.contact -%}
+    <tr>
+      <th>Contact</th>
+      <td>
+        {%- if page.contact.name -%}
+          {{- page.contact.name -}}<br>
+        {%- endif -%}
+        {%- if page.contact.email -%}
+          <i class="fas fa-envelope"></i>
+          <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a><br>
+        {%- endif -%}
+        {%- if page.contact.tel -%}
+          <i class="fas fa-phone"></i>
+          <a href="tel:{{ page.contact.tel }}">{{ page.contact.tel }}</a>
+        {%- endif -%}
+      </td>
+    </tr>
+  {%- endif -%}
 </table>
 
 {{ content }}
