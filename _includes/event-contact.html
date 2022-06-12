@@ -1,3 +1,6 @@
+{%- if include.first != true -%}
+  <br>
+{%- endif -%}
 {%- if include.contact.name -%}
   <i class="fas fa-user"></i>
   {{ include.contact.name -}}<br>

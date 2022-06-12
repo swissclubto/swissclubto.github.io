@@ -62,7 +62,7 @@ layout: single
       <th>Contacts</th>
       <td>
         {%- for c in page.contacts -%}
-          {%- include event-contact.html contact=c -%}
+          {%- include event-contact.html contact=c first=forloop.first -%}
         {%- endfor -%}
       </td>
     </tr>
@@ -70,7 +70,7 @@ layout: single
     <tr>
       <th>Contact</th>
       <td>
-        {%- include event-contact.html contact=page.contact -%}
+        {%- include event-contact.html contact=page.contact first=true -%}
       </td>
     </tr>
   {%- endif -%}
