@@ -1,8 +1,9 @@
 ---
-title: Canadysli Toronto Swiss Carnival Band---costume ball
+title: Canadysli Toronto Swiss Carnival Band (Guggemusig) 40th anniversary
 location: The Musket Restaurant, banquet room
 address: 40 Advance Rd, Etobicoke, ON M8Z 2T4
-start_time: 7:00 pm
+start_time: 7:00 am
+end_time: 11:30 am
 web_url: https://www.canadysli.com
 web_url_name: Canadysli website
 last_modified_at: 2022-06-12

@@ -1,6 +1,19 @@
 ---
-title: Woodbine racetrack and casino
-location: Woodbine racetrack and casino
+title: Woodbine Racetrack and Casino
+location: Woodbine Racetrack and Casino
+address: 555 Rexdale Blvd, Etobicoke, ON M9W
 start_time: 12:00 pm
-last_modified_at: 2022-06-11
+contact:
+  name: Paula Rico
+  tel: 416-493-8025
+  email: paulajrico@gmail.com
+web_url: https://woodbine.com/dining-at-woodbine/
+web_url_name: Dining at Woodbine
+last_modified_at: 2022-06-12
 ---
+
+This event is some weeks away but you can register now with Paula.
+
+Open to all Swiss Club members.
+
+Meet on the 4th floor in the Post Parade Dining Room.
