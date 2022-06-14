@@ -1,6 +1,11 @@
 ---
 title: Men’s section annual general meeting
 location: St. George's Golf and Country Club
-start_time: 9:09 pm
-last_modified_at: 2022-06-11
+address: 1668 Islington Ave, Etobicoke, ON M9A 3M9
+start_time: 11:45 am
+last_modified_at: 2022-06-13
 ---
+
+Starting at about {{ page.start_time | date: "%-I.%M %P" }}, we will have a nice
+lunch at the St. George's Golf and Country Club, followed by our Annual General
+Meeting.

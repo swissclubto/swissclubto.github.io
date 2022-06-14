@@ -1,7 +1,11 @@
 ---
 title: 'Theatre group: "Im Meischter sini Geischter"'
 location: Toronto Latvian Centre
+address: 4 Credit Union Dr, North York, ON M4A 2N8
 start_time: 2:00 pm
 end_time: 6:00 pm
-last_modified_at: 2022-06-11
+teaser: /assets/images/2019-04-28-theatre-teaser.png
+last_modified_at: 2022-06-13
 ---
+
+Lunch is available from 12 noon.
