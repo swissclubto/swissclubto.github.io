@@ -6,13 +6,14 @@ start_time: 1:00 pm
 end_time: 4:00 pm
 web_url: http://www.marche-restaurants.com/en/march%C3%A9-brookfield-place-street-level
 web_url_name: Marché Brookfield Place
-last_modified_at: 2022-06-11
+cost: |
+  $10 per person\\
+  Kids are free
+last_modified_at: 2022-06-19
 ---
 
 Please join us for Grittibänze/Grättimänner, hot chocolate, tea, coffee, and
 just a great get-together. There will also be a magician for the kids.
-
-Cost: \$10 per person; kids are free. Seating is limited.
 
 Please RSVP: Denise Frassini / Entertainment Director / Swiss Club Toronto
 
