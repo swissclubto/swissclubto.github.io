@@ -74,6 +74,16 @@ layout: single
       </td>
     </tr>
   {%- endif -%}
+  {%- if page.cost -%}
+    <tr>
+      <th>Cost</th>
+      <td>
+        {%- for c in page.cost -%}
+          {{ c }}<br>
+        {%- endfor -%}
+      </td>
+    </tr>
+  {%- endif -%}
 </table>
 
 {{ content }}
