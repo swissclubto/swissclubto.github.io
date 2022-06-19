@@ -2,14 +2,20 @@
   <br>
 {%- endif -%}
 {%- if include.contact.name -%}
+  {%- assign contact = include.contact -%}
+{%- else -%}
+  {%- assign key = include.contact | downcase -%}
+  {%- assign contact = site.data.people[key] -%}
+{%- endif -%}
+{%- if contact.name -%}
   <i class="fas fa-user"></i>
-  {{ include.contact.name -}}<br>
+  {{ contact.name -}}<br>
 {%- endif -%}
-{%- if include.contact.email -%}
+{%- if contact.email -%}
   <i class="fas fa-envelope"></i>
-  <a href="mailto:{{ include.contact.email }}">{{ include.contact.email }}</a><br>
+  <a href="mailto:{{ contact.email }}">{{ contact.email }}</a><br>
 {%- endif -%}
-{%- if include.contact.tel -%}
+{%- if contact.tel -%}
   <i class="fas fa-phone"></i>
-  <a href="tel:{{ include.contact.tel }}">{{ include.contact.tel }}</a><br>
+  <a href="tel:{{ contact.tel }}">{{ contact.tel }}</a><br>
 {%- endif -%}
