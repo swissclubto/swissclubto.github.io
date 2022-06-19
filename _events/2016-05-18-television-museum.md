@@ -9,11 +9,12 @@ web_url_name: MZTV Museum of Television website
 contact:
   name: Paula Rico
   email: paulajrico@gmail.com
-last_modified_at: 2022-06-12
+cost: $5
+last_modified_at: 2022-06-19
 ---
 
 Visit to the Television Museum ([416-599-7339][tel]) located in the Liberty
-Village; admission is \$5.00 and parking is available. I am looking for a
-restaurant to have lunch before the visit at 1:00 p.m.
+Village; parking is available. I am looking for a restaurant to have lunch
+before the visit at 1:00 p.m.
 
 [tel]: <tel:416-599-7339>

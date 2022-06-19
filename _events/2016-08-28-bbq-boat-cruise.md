@@ -8,10 +8,11 @@ contact:
   name: Paula Rico
   email: paulajrico@gmail.com
   tel: 416-652-9067
-last_modified_at: 2022-06-12
+cost: |
+  $45 members\\
+  $50 non-members
+last_modified_at: 2022-06-19
 ---
-
-Cost: \$45 members • \$50 non-members
 
 We meet at the Jubilee Queen Cruise Ship gate Marina Quay West (Bathurst /
 Lower Spadina).
