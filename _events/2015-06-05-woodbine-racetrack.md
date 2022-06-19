@@ -6,10 +6,9 @@ start_time: 12:00 pm
 end_time: 6:00 pm
 web_url: https://web.archive.org/web/20150302043906/http://www.woodbineentertainment.com/WOODBINE/Pages/Default.aspx
 web_url_name: Woodbine
-last_modified_at: 2022-06-11
+cost: $40; includes delicious lunch and $10 to play slot machines
+last_modified_at: 2022-06-19
 ---
-
-Cost of \$40.00 includes delicious lunch and \$10.00 to play slot machines.
 
 Open to all Swiss club members.
 

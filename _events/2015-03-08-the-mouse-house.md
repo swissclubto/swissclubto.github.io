@@ -4,10 +4,11 @@ location: The Village Playhouse at Bloor West Village
 address: 2190 Bloor Street West, Toronto, ON M6S 1N3
 start_time: 2:00 pm
 end_time: 5:00 pm
+cost: $18
 last_modified_at: 2022-06-11
 ---
 
-Admission is \$18; limited tickets are available.
+Limited tickets are available.
 
 Contact Paula Rico at [416-652-9067][tel] or by e-mail <paulajrico@gmail.com>.
 
