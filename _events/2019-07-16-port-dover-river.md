@@ -7,7 +7,10 @@ contact:
   email: paulajrico@gmail.com
 start_time: 8:15 am
 end_time: 8:15 pm
-last_modified_at: 2022-06-13
+cost:
+  - $99 per person
+  - Includes motor coach transportation, cruise, lunch, all taxes, and meal tip
+last_modified_at: 2022-06-19
 ---
 
 Located on Ontario’s "south coast", the pretty lakeside town of Port Dover on
@@ -26,9 +29,6 @@ After lunch, you'll have time (2.45 pm -- 4.30 pm) to explore the town, stroll
 the beach and soak up the sun, or browse the shops, enjoy! En route home, we'll
 stop at the popular Hewitt's Dairy in Hagersville (5.00 pm -- 5.30 pm), where
 you can purchase a great ice cream, if you wish.
-
-**Just \$99.00 per person**; cost includes motor coach transportation, cruise,
-lunch, all taxes, and meal tip.
 
 | Bus pickups                            | Departs  | Returns |
 | -------------------------------------- | -------: | ------: |

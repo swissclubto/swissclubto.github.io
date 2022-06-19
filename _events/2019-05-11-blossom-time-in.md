@@ -5,7 +5,10 @@ contact:
   name: Paula Rico
   tel: 416-652-9067
 teaser: /assets/images/2019-05-11-blossom-teaser.jpg
-last_modified_at: 2022-06-13
+cost:
+  - 'Swiss Club Toronto members: $75'
+  - 'Guests: $82'
+last_modified_at: 2022-06-19
 ---
 
 ### It’s Blossom Time in Niagara
@@ -23,8 +26,6 @@ River all the way.
 
 There’s time for shopping and browsing in this charming town before we set our
 sights for home.
-
-**Swiss Club Toronto members: \$75---guests \$82 per person**
 
 Cost includes motorcoach transportation, winery visit and tastings, lunch, all
 taxes and meal tip.

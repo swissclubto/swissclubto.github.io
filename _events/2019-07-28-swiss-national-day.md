@@ -8,7 +8,10 @@ contact:
 start_time: 12:00 pm
 end_time: 6:00 pm
 teaser: /assets/images/2019-06-22-snd-teaser.jpg
-last_modified_at: 2022-06-13
+cost:
+  - 'Members and children: free'
+  - 'Non-members: $10'
+last_modified_at: 2022-06-19
 ---
 
 Please note that the location has changed from previous years. We will meet at

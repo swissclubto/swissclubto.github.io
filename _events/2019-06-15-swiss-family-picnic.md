@@ -9,7 +9,8 @@ contact:
   email: thomas.guignard@swissclubtoronto.ca
   tel: 647-872-4450
 teaser: /assets/images/2019-06-15-picnic-teaser.png
-last_modified_at: 2022-06-13
+cost:
+  - $5 per person
+  - Free for members and children
+last_modified_at: 2022-06-19
 ---
-
-Cost: \$5 per person---free for members and children
