@@ -1,7 +1,12 @@
 ---
 title: Amicale Romande fondue & dance
+teaser: /assets/images/2020-01-25-amicale-teaser.jpg
 location: St. Philip Neri Church
+address: 2100 Jane St, North York, ON M3M 1A1
 start_time: 7:00 pm
 end_time: 10:00 pm
-last_modified_at: 2022-06-11
+contact: Jean-Marc
+last_modified_at: 2022-06-19
 ---
+
+Please RSVP with Jean-Marc! More details, price, etc. to come.

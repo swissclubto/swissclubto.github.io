@@ -1,7 +1,13 @@
 ---
 title: 42nd annual Canadysli dinner & dance
+teaser: /assets/images/2018-02-24-canadysli-teaser.jpg
 location: Black Creek Pioneer Village
+address: 1000 Murray Ross Pkwy, North York, ON M3J 2P3
 start_time: 6:00 pm
 end_time: 10:00 pm
-last_modified_at: 2022-06-11
+contact: Philippe
+cost: |
+  $45 in advance\\
+  $50 at the door
+last_modified_at: 2022-06-19
 ---
