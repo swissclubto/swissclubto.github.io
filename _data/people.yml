@@ -1,3 +1,7 @@
+arno:
+  name: Arno Sigrist
+  email: arno.s@sympatico.ca
+
 jean-marc:
   name: Jean-Marc Velen
   email: jean-marc.velen@swissclubtoronto.ca
@@ -20,6 +24,11 @@ paula:
 philippe:
   name: Philippe Moser
   tel: 416-434-5837
+
+sascha:
+  name: Sascha Frassini
+  email: sascha.frassini@swissclubtoronto.ca
+  tel: 905-821-2392
 
 thomas:
   name: Thomas Guignard
