@@ -5,14 +5,18 @@ layout: single
 {{ page.date | date: "%B %-d, %Y" }}
 
 {% if page.teaser -%}
-  {%- include figure image_path=page.teaser -%}
+  {%- if page.teaser_caption -%}
+    {%- include figure image_path=page.teaser caption=page.teaser_caption -%}
+  {%- else -%}
+    {%- include figure image_path=page.teaser -%}
+  {%- endif -%}
 {%- endif %}
 
 <table>
   {%- if page.location -%}
     <tr>
       <th>Where</th>
-      <td>{{ page.location }}</td>
+      <td>{{ page.location | markdownify | remove: "<p>" | remove: "</p>" }}</td>
     </tr>
   {%- endif -%}
   {%- if page.start_time or page.end_date -%}
