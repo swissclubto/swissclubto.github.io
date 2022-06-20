@@ -7,7 +7,7 @@ end_time: 4:00 pm
 web_url: http://www.marche-restaurants.com/en/march%C3%A9-brookfield-place-street-level
 web_url_name: Marché Brookfield Place
 cost: |
-  $10 per person\\
+  $10 per person
   Kids are free
 last_modified_at: 2022-06-19
 ---

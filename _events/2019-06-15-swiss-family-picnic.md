@@ -10,7 +10,7 @@ contact:
   tel: 647-872-4450
 teaser: /assets/images/2019-06-15-picnic-teaser.png
 cost: |
-  $5 per person\\
+  $5 per person
   Free for members and children
 last_modified_at: 2022-06-19
 ---

@@ -12,7 +12,7 @@ contacts:
     tel: 647-231-0976
 teaser: /assets/images/2020-03-07-canadysli-teaser.png
 cost: |
-  $50 in advance\\
+  $50 in advance
   $55 at the door
 last_modified_at: 2022-06-19
 ---

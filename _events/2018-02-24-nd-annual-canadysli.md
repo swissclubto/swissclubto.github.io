@@ -7,7 +7,7 @@ start_time: 6:00 pm
 end_time: 10:00 pm
 contact: Philippe
 cost: |
-  $45 in advance\\
+  $45 in advance
   $50 at the door
 last_modified_at: 2022-06-19
 ---

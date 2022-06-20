@@ -5,7 +5,7 @@ address: 16750 Weston Rd, Kettleby, ON L0G 1J0
 start_time: 11:00 am
 end_time: 9:00 pm
 cost: |
-  $225 Individual\\
+  $225 Individual
   $450 Twosome
 last_modified_at: 2022-06-19
 ---

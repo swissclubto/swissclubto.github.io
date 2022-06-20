@@ -5,7 +5,7 @@ address: 60 Simcoe Street, Toronto, ON M5J 2H5
 start_time: 7:00 pm
 end_time: 10:00 pm
 cost: |
-  Seniors: $45.75\\
+  Seniors: $45.75
   Regular price: $61.00
 last_modified_at: 2022-06-19
 ---

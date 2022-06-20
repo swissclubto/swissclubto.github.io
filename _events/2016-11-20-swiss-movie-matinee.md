@@ -5,7 +5,7 @@ address: 5801 Leslie St, North York, ON M2H 1J8
 start_time: 2:30 pm
 end_time: 6:30 pm
 cost: |
-  Swiss Club members: free\\
+  Swiss Club members: free
   Non-members: $5
 last_modified_at: 2022-06-19
 ---

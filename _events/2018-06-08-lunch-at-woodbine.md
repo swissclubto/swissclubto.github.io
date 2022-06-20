@@ -5,7 +5,7 @@ location: Woodbine Racetrack
 address: 555 Rexdale Blvd, Etobicoke, ON M9W
 contact: Paula
 cost: |
-  $42 (members)\\
+  $42 (members)
   $47 (guests)
 last_modified_at: 2022-06-19
 ---

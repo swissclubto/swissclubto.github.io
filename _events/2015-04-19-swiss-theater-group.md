@@ -6,9 +6,9 @@ start_time: 2:00 pm
 end_time: 6:00 pm
 last_modified_at: 2022-06-19
 cost: |
-  Members: $15\\
-  Non-members: $20\\
-  Youth: $10\\
+  Members: $15
+  Non-members: $20
+  Youth: $10
   Children: free
 teaser: /assets/images/2015-04-19-nacht-teaser.png
 ---

@@ -9,7 +9,7 @@ contact:
   email: paulajrico@gmail.com
   tel: 416-652-9067
 cost: |
-  $45 members\\
+  $45 members
   $50 non-members
 last_modified_at: 2022-06-19
 ---

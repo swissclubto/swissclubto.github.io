@@ -8,7 +8,7 @@ contact:
 start_time: 8:15 am
 end_time: 8:15 pm
 cost: |
-  $99 per person\\
+  $99 per person
   Includes motor coach transportation, cruise, lunch, all taxes, and meal tip
 last_modified_at: 2022-06-19
 ---
