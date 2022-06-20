@@ -142,7 +142,12 @@ defaults:
       layout: single
   # Membership pages
   - scope:
-      path: _pages/membership*
+      path: _pages/membership.md
+    values:
+      sidebar:
+        nav: membership
+  - scope:
+      path: _pages/membership
     values:
       sidebar:
         nav: membership
