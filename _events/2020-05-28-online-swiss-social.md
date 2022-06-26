@@ -1,14 +1,12 @@
 ---
 title: Swiss Social pub night (virtual)
 location: Zoom Meeting
-contact:
-  name: Nadia Berger
-  email: info@swissclubtoronto.ca
+contact: Nadia
 web_url: https://www.facebook.com/events/613075645940231/
 web_url_name: Facebook event
 start_time: 6:00 pm
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
-last_modified_at: 2022-06-12
+last_modified_at: 2022-06-26
 ---
 
 Join us on Thursday, May 28th, 2020 from 6--8pm online for good company. This

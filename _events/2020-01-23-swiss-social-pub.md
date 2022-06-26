@@ -2,15 +2,13 @@
 title: Swiss Social pub night
 location: Duke of York Pub
 address: 39 Prince Arthur Ave, Toronto, ON M5R 1B2
-contact:
-  name: Nadia Berger
-  email: info@swissclubtoronto.ca
+contact: Nadia
 web_url: https://www.facebook.com/events/1201843243308223/
 web_url_name: Facebook event
 start_time: 6:00 pm
 end_time: 9 pm
 teaser: /assets/images/2020-01-23-pub-teaser.jpg
-last_modified_at: 2022-06-12
+last_modified_at: 2022-06-26
 ---
 
 Join us on Thursday, January 23rd, 2020 from 6--9 pm at the Duke of York for

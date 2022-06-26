@@ -1,13 +1,14 @@
 ---
-title: Swiss Social pub night Chrimas Edition
+title: Swiss Social pub night Christmas Edition
 location: Duke of York
 address: 39 Prince Arthur Ave, Toronto
 web_url: https://www.facebook.com/events/583368679613571
 web_url_name: Facebook event
 start_time: 7 pm
 end_time: 8 pm
-last_modified_at: 2022-05-22
+contact: Charlotte
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+last_modified_at: 2022-06-26
 ---
 
 Hi everyone!
