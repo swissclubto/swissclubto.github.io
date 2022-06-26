@@ -6,6 +6,7 @@ web_url: https://forms.gle/UhPzRc4Yv543TrUh8
 web_url_name: Google Form to RSVP
 start_time: 12 pm
 end_time: 5 pm
+contact: Nadia
 cost: Free; food and drinks sold separately
 teaser: /assets/images/2022-07-24-national-day-teaser.jpg
 last_modified_at: 2022-06-19
