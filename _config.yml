@@ -140,6 +140,12 @@ defaults:
       type: pages
     values:
       layout: single
+  # Event pages
+  - scope:
+      path: _pages/events
+    values:
+      sidebar:
+        nav: events
   # Membership pages
   - scope:
       path: _pages/membership.md
@@ -166,3 +172,5 @@ defaults:
       layout: event
       show_date: true
       excerpt: ''
+      sidebar:
+        nav: events
