@@ -27,5 +27,5 @@ Share with us information that may be of interest to the Swiss community in
 Greater Toronto. We’d like to [hear from you][contact] either by e-mail or
 regular mail.
 
-[events]: <{% link _pages/events.md %}>
+[events]: <{% link _pages/events/2022.md %}>
 [contact]: <{% link _pages/contact.md %}>
