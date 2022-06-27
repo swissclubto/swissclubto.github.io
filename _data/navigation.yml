@@ -32,20 +32,20 @@ events:
   - title: Events archive
     children:
       - title: 2022 events
-        url: /events/2022
+        url: /events/2022/
       - title: 2021 events
-        url: /events/2021
+        url: /events/2021/
       - title: 2020 events
-        url: /events/2020
+        url: /events/2020/
       - title: 2019 events
-        url: /events/2019
+        url: /events/2019/
       - title: 2018 events
-        url: /events/2018
+        url: /events/2018/
       - title: 2017 events
-        url: /events/2017
+        url: /events/2017/
       - title: 2016 events
-        url: /events/2016
+        url: /events/2016/
       - title: 2015 events
-        url: /events/2015
+        url: /events/2015/
       - title: 2014 events
-        url: /events/2014
+        url: /events/2014/
