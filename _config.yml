@@ -127,14 +127,14 @@ defaults:
           seen from City Hall
         overlay_filter: 0.2
         show_overlay_excerpt: false
-  # _posts
+  # Posts collection in _posts
   - scope:
       path: ''
       type: posts
     values:
       layout: single
       show_date: true
-  # _pages
+  # Pages collection in _pages
   - scope:
       path: ''
       type: pages
@@ -144,6 +144,8 @@ defaults:
   - scope:
       path: _pages/events
     values:
+      layout: collection-year
+      collection: events
       sidebar:
         nav: events
   # Membership pages
