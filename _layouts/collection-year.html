@@ -1,0 +1,16 @@
+---
+layout: archive
+---
+
+{%- assign posts = site[page.collection]
+  | group_by_exp: "item", "item.date | date: '%Y'"
+  | where: "name", page.year
+  | map: "items"
+  | first
+  | reverse -%}
+
+{%- for post in posts -%}
+  {%- unless post.hidden -%}
+    {% include archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
