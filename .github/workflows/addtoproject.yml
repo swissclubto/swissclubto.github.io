@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Add issue or PR to new SCT website project
-        uses: actions/add-to-project@v0.0.5
+        uses: actions/add-to-project@v0.1.0
         with:
           project-url: https://github.com/orgs/swissclubto/projects/1
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
