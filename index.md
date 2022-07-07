@@ -11,6 +11,7 @@ intro:
       at any of the activities or over dinner at the Annual General Meeting.
 feature_row:
   - image_path: /assets/images/events-teaser.jpg
+    image_caption: Swiss Social July 2021
     title: Events
     excerpt: >
       Check out our events list and join us at some or all of the events. We
@@ -19,6 +20,7 @@ feature_row:
     url: /events/2022/
     btn_class: btn--primary
   - image_path: /assets/images/tell-tale-teaser.jpg
+    image_caption: 1960s newsletter
     title: Tell Tale archive
     excerpt: >
       As a member you will receive our newsletter Tell Tale to keep you updated
@@ -27,6 +29,7 @@ feature_row:
     url: /telltale/
     btn_class: btn--primary
   - image_path: /assets/images/gallery-teaser.jpg
+    image_caption: Flag raising ceremony City Hall
     title: Gallery
     excerpt: >
       Have a look at pictures from past events!
@@ -41,6 +44,7 @@ membership:
     btn_class: btn--primary
 contact:
   - image_path: /assets/images/contact-teaser.jpg
+    image_caption: Christmas dinner 2021
     title: Contact
     excerpt: |
       Learn more about the board of directors and the heads of the various
