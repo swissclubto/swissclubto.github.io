@@ -1,4 +1,6 @@
 main:
+  - title: News
+    url: /news/
   - title: Events
     url: /events/2022/
   - title: Tell Tale
