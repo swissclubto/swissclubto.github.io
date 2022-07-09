@@ -29,14 +29,15 @@ feature_row:
     url: /telltale/
     btn_class: btn--primary
   - image_path: /assets/images/gallery-teaser.jpg
-    image_caption: Flag raising ceremony City Hall
+    image_caption: Flag raising ceremony City Hall 2018
     title: Gallery
     excerpt: >
       Have a look at pictures from past events!
     url: /gallery/
     btn_class: btn--primary
 membership:
-  - image_path: /assets/images/2018-03-01-social-teaser.jpg
+  - image_path: /assets/images/membership-teaser.jpg
+    image_caption: 25th anniversary brochure 1943
     title: Membership
     excerpt: >
       Become a member, or manage your profile, and see your invoices here.
