@@ -1,14 +1,12 @@
 ---
 title: Blossom time
 location: Niagara Falls
-contact:
-  name: Paula Rico
-  tel: 416-652-9067
+contact: Paula
 teaser: /assets/images/2019-05-11-blossom-teaser.jpg
 cost: |
   Swiss Club Toronto members: $75
   Guests: $82
-last_modified_at: 2022-06-19
+last_modified_at: 2022-07-09
 ---
 
 ### It’s Blossom Time in Niagara

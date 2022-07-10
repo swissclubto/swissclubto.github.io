@@ -2,13 +2,10 @@
 title: Annual family BBQ
 location: Egger Dairy Farm
 address: 5244 Steeles Ave W, Milton, ON L9T 2Y1
-contact:
-  name: Arno Sigrist
-  tel: 416-493-8025
-  email: arno.sigrist@swissclubtoronto.ca
+contact: Arno
 start_time: 1:00 pm
 end_time: 4:00 pm
-last_modified_at: 2022-06-12
+last_modified_at: 2022-07-10
 ---
 
 This Men’s section event is open to all Swiss Club members.

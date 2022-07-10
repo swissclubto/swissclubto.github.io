@@ -8,9 +8,7 @@ end_date: 2019-03-10
 cost: |
   Advance: $50
   At the door: $55
-contact:
-  name: Philippe Moser
-  tel: 416-434-5837
+contact: Philippe
 teaser: /assets/images/2019-03-09-canadysli-teaser.png
-last_modified_at: 2022-06-19
+last_modified_at: 2022-07-09
 ---

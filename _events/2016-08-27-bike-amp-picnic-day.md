@@ -1,12 +1,12 @@
 ---
 title: Bike & picnic day on Toronto Island
 location: Jack Layton ferry terminal
-contact:
-  name: Denise and Sascha Frassini
-  email: Sascha.Frassini@swissclubtoronto.ca
+contacts:
+  - Denise
+  - Sascha
 start_time: 10:30 am
 end_time: 3:00 pm
-last_modified_at: 2022-06-12
+last_modified_at: 2022-07-09
 ---
 
 Please come and join Denise and Sascha Frassini for a tour and picnic starting

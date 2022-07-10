@@ -2,16 +2,14 @@
 title: Swiss National Day celebration 2019
 location: Hansa Haus
 address: 6650 Hurontario St, Mississauga, ON L5W 1N3
-contact:
-  name: Thomas Guignard
-  email: thomas.guignard@swissclubtoronto.ca
+contact: Thomas
 start_time: 12:00 pm
 end_time: 6:00 pm
 teaser: /assets/images/2019-06-22-snd-teaser.jpg
 cost: |
   Members and children: free
   Non-members: $10
-last_modified_at: 2022-06-19
+last_modified_at: 2022-07-09
 ---
 
 Please note that the location has changed from previous years. We will meet at

@@ -3,13 +3,10 @@ title: Zoo walk at Toronto Zoo
 location: Metro Toronto Zoo
 address: 2000 Meadowvale Rd, Scarborough, ON M1B 5K7
 start_time: T10:30
-contact:
-  name: Denise Frassini
-  email: Denise.Frassini@swissclubtoronto.ca
-  tel: 905-821-2392
+contact: Denise
 web_url: https://www.torontozoo.com
 web_url_name: Toronto Zoo
-last_modified_at: 2022-06-12
+last_modified_at: 2022-07-09
 ---
 
 This event has been cancelled due to inclimate weather.

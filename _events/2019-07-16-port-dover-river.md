@@ -1,16 +1,13 @@
 ---
 title: Port Dover 'River Rider' cruise & luncheon
 location: Port Dover
-contact:
-  name: Paula Rico
-  tel: 416-652-9067
-  email: paulajrico@gmail.com
+contact: Paula
 start_time: 8:15 am
 end_time: 8:15 pm
 cost: |
   $99 per person
   Includes motor coach transportation, cruise, lunch, all taxes, and meal tip
-last_modified_at: 2022-06-19
+last_modified_at: 2022-07-09
 ---
 
 Located on Ontario’s "south coast", the pretty lakeside town of Port Dover on

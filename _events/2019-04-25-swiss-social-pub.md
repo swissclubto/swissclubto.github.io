@@ -4,13 +4,11 @@ location: Duke of York Pub
 address: 39 Prince Arthur Ave, Toronto, ON M5R 1B2
 start_time: 6:00 pm
 end_time: 9 pm
-contact:
-  name: Nadia Berger
-  email: info@swissclubtoronto.ca
+contact: Nadia
 web_url: https://www.facebook.com/events/2179175128795396/
 web_url_name: Facebook event
 teaser: /assets/images/2019-04-25-swiss-social-teaser.jpg
-last_modified_at: 2022-06-13
+last_modified_at: 2022-07-09
 ---
 
 Join us on {{ page.date | date: "%A" }}, {{ page.date | date_to_long_string:

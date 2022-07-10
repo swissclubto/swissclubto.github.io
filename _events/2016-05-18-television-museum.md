@@ -6,11 +6,9 @@ start_time: 1:00 pm
 end_time: 2:00 pm
 web_url: https://mztv.com
 web_url_name: MZTV Museum of Television website
-contact:
-  name: Paula Rico
-  email: paulajrico@gmail.com
+contact: Paula
 cost: $5
-last_modified_at: 2022-06-19
+last_modified_at: 2022-07-09
 ---
 
 Visit to the Television Museum ([416-599-7339][tel]) located in the Liberty
