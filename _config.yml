@@ -99,6 +99,8 @@ exclude:
   - README.md
 
 # Outputting
+paginate: 5
+paginate_path: /news/page:num/
 permalink: pretty
 timezone: America/Toronto
 
