@@ -9,7 +9,15 @@ intro:
   - excerpt: >
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
       at any of the activities or over dinner at the Annual General Meeting.
-feature_row:
+feature_row1:
+  - image_path: /assets/images/news-teaser.jpg
+    image_caption: Not really Swiss news!
+    title: News
+    excerpt: >
+      Read up on the latest information from the sections, early announcements
+      of upcoming events, and more.
+    url: /news/
+    btn_class: btn--primary
   - image_path: /assets/images/events-teaser.jpg
     image_caption: Swiss Social July 2021
     title: Events
@@ -28,6 +36,7 @@ feature_row:
       years.
     url: /telltale/
     btn_class: btn--primary
+feature_row2:
   - image_path: /assets/images/gallery-teaser.jpg
     image_caption: Flag raising ceremony City Hall 2018
     title: Gallery
@@ -35,7 +44,6 @@ feature_row:
       Have a look at pictures from past events!
     url: /gallery/
     btn_class: btn--primary
-membership:
   - image_path: /assets/images/membership-teaser.jpg
     image_caption: 25th anniversary brochure 1943
     title: Membership
@@ -43,7 +51,6 @@ membership:
       Become a member, or manage your profile, and see your invoices here.
     url: /membership/
     btn_class: btn--primary
-contact:
   - image_path: /assets/images/contact-teaser.jpg
     image_caption: Christmas dinner 2021
     title: Contact
@@ -60,8 +67,6 @@ contact:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" %}
 
-{% include feature_row id="membership" type="left" %}
-
-{% include feature_row id="contact" type="right" %}
+{% include feature_row id="feature_row2" %}
