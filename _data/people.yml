@@ -1,25 +1,57 @@
 albert:
   name: Albert Lenz
   email: albert.lenz@rogers.com
+  image_url: /assets/images/officers/albert.jpg
+  section: Jass Section
 
 arno:
   name: Arno Sigrist
   email: arno.sigrist@swissclubtoronto.ca
+  image_url: /assets/images/officers/arno.jpg
   tel: 416-493-8025
+  section: Men's Section
+
+auggie:
+  name: Augustin Werner
+  email: augustin.werner@swissclubtoronto.ca
+  image_url: /assets/images/officers/auggie.jpg
+  position: Treasurer
+
+ben:
+  name: Benjamin Wuethrich
+  email: membership@swissclubtoronto.ca
+  image_url: /assets/images/officers/ben.jpg
+  position: Memberships, Website
 
 charlotte:
   name: Charlotte Mariller
   email: charlotte.mariller@swissclubtoronto.ca
+  image_url: /assets/images/officers/charlotte.jpg
+  position: Vice President, Swiss Social
 
 denise:
   name: Denise Frassini
   email: denise.frassini@swissclubtoronto.ca
   tel: 905-821-2392
 
+heidy:
+  name: Heidy Lawrance
+  email: heidy.lawrance@swissclubtoronto.ca
+  image_url: /assets/images/officers/heidy.jpg
+  position: Tell Tale Editor
+
 jean-marc:
   name: Jean-Marc Velen
   email: jean-marc.velen@swissclubtoronto.ca
   tel: 416-488-6493
+  image_url: /assets/images/officers/jean-marc.jpg
+  section: Amicale Romande
+
+maggie:
+  name: Magdalena Hess
+  email: magdalena.hess@swissclubtoronto.ca
+  image_url: /assets/images/officers/maggie.jpg
+  section: Theatre Section
 
 monika:
   name: Monika Rueber
@@ -29,15 +61,21 @@ monika:
 nadia:
   name: Nadia Berger
   email: info@swissclubtoronto.ca
+  image_url: /assets/images/officers/nadia.jpg
+  position: President
 
 noemie:
   name: Noemie Steiner
   email: noemie.steiner@swissclubtoronto.ca
+  image_url: /assets/images/officers/noemie.jpg
+  section: Amicale Romande
 
 paula:
   name: Paula Rico
   email: paula.rico@swissclubtoronto.ca
   tel: 416-652-9067
+  image_url: /assets/images/officers/paula.jpg
+  section: Women's Section
 
 philippe:
   name: Philippe Moser
@@ -47,6 +85,19 @@ sascha:
   name: Sascha Frassini
   email: sascha.frassini@swissclubtoronto.ca
   tel: 905-821-2392
+
+simone:
+  name: Simone Höhn
+  email: simone.hohn@swissclubtoronto.ca
+  image_url: /assets/images/officers/simone.jpg
+  position: Secretary
+  section: Five Pin Bowling
+
+suzi:
+  name: Suzi Hubler
+  email: suzi.hubler@swissclubtoronto.ca
+  image_url: /assets/images/officers/suzi.jpg
+  section: Gym Section
 
 thomas:
   name: Thomas Guignard

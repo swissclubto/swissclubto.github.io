@@ -115,7 +115,6 @@ collections:
   gallery:
     output: true
     permalink: /:collection/:year/:month/:slug
-  officers:
 
 # Front matter defaults
 defaults:
