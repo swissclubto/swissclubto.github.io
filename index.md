@@ -10,8 +10,7 @@ intro:
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
       at any of the activities or over dinner at the Annual General Meeting.
 feature_row1:
-  - image_path: /assets/images/news-teaser.jpg
-    image_caption: Not really Swiss news!
+  - image_path: /assets/images/news-teaser.png
     title: News
     excerpt: >
       Read up on the latest information from the sections, early announcements
