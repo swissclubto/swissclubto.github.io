@@ -128,6 +128,7 @@ collections:
         allow_multiple: false
         required: false
         media_folder: /assets/images
+        hint: Image should be no wider than 700 pixels
       - label: Teaser caption
         name: teaser_caption
         widget: string
@@ -157,6 +158,35 @@ collections:
           - numbered-list
     editor:
       preview: false
+    summary: '{{year}}-{{month}}-{{day}} | {{title}}'
+    view_filters:
+      - label: '2022'
+        field: date
+        pattern: '2022'
+      - label: '2021'
+        field: date
+        pattern: '2021'
+      - label: '2020'
+        field: date
+        pattern: '2020'
+      - label: '2019'
+        field: date
+        pattern: '2019'
+      - label: '2018'
+        field: date
+        pattern: '2018'
+      - label: '2017'
+        field: date
+        pattern: '2017'
+      - label: '2016'
+        field: date
+        pattern: '2016'
+      - label: '2015'
+        field: date
+        pattern: '2015'
+      - label: '2014'
+        field: date
+        pattern: '2014'
     view_groups:
       - label: Year
         field: date
