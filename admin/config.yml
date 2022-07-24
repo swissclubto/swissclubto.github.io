@@ -3,8 +3,8 @@ backend:
   repo: swissclubto/swissclubto.github.io
   branch: main
 publish_mode: editorial_workflow
-media_folder: /assets
-logo: https://swissclubto.github.io/assets/images/logo.svg
+media_folder: /assets/images
+logo_url: https://swissclubto.github.io/assets/images/logo.svg
 
 collections:
   - name: posts
