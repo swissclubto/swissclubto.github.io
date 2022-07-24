@@ -6,9 +6,9 @@ address: 4 Credit Union Dr, North York, ON M4A
 start_time: 2:00 pm
 end_time: 4:00 pm
 contacts:
-  - name: Maggie Hess
+  - Maggie
   - Walter 
-last_modified_at: 2022-06-19
+last_modified_at: 2022-07-24
 ---
 
 Two additional performances are scheduled outside Toronto:
