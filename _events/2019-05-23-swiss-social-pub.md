@@ -7,7 +7,6 @@ end_time: 9 pm
 contact: Nadia
 web_url: https://www.facebook.com/events/654106255050156/
 web_url_name: Facebook event
-start_time: 6:00 pm
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
 last_modified_at: 2022-07-09
 date: 2019-05-23
