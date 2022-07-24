@@ -3,10 +3,12 @@ backend:
   repo: swissclubto/swissclubto.github.io
   branch: main
 publish_mode: editorial_workflow
-media_folder: /assets/img
+media_folder: /assets
+logo: https://swissclubto.github.io/assets/images/logo.svg
+
 collections:
   - name: posts
-    label: Posts
+    label: News
     folder: _posts
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -37,3 +39,125 @@ collections:
           - quote
           - bulleted-list
           - numbered-list
+
+  - name: events
+    label: Events
+    label_singular: Event
+    description: Posts that show up under the "Events" tab
+    folder: _events
+    create: true
+    delete: false
+    extension: md
+    format: yaml-frontmatter
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+      - label: Location
+        name: location
+        widget: string
+      - label: Address
+        name: address
+        widget: string
+        required: false
+      - label: Web URL
+        name: web_url
+        widget: string
+        required: false
+      - label: Web URL name
+        name: web_url_name
+        widget: string
+        required: false
+        hint: Link text for web URL
+      - label: Start time
+        name: start_time
+        widget: datetime
+        required: false
+        default:
+        format: hh.mm a
+        date_format: false
+        time_format: true
+      - label: End time
+        name: end_time
+        widget: datetime
+        required: false
+        default:
+        format: hh.mm a
+        date_format: false
+        time_format: true
+      - label: End date
+        name: end_date
+        widget: datetime
+        required: false
+        default:
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+      - label: Contacts
+        name: contacts
+        widget: select
+        multiple: true
+        options:
+          - Albert
+          - Arno
+          - Charlotte
+          - Jean-Marc
+          - Maggie
+          - Nadia
+          - Noemie
+          - Paula
+          - Suzi
+          - Walter
+        required: false
+      - label: Cost
+        name: cost
+        widget: text
+        required: false
+        hint: Put one price with description per line
+      - label: teaser
+        name: Teaser
+        widget: image
+        choose_url: false
+        allow_multiple: false
+        required: false
+        media_folder: /assets/images
+      - label: Teaser caption
+        name: teaser_caption
+        widget: string
+        required: false
+      - label: Last modified at
+        name: last_modified_at
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+      - label: Body
+        required: false
+        name: body
+        widget: markdown
+        buttons:
+          - bold
+          - italic
+          - code
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - heading-five
+          - heading-six
+          - quote
+          - bulleted-list
+          - numbered-list
+    editor:
+      preview: false
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
