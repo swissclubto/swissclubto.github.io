@@ -11,6 +11,7 @@ cost: |
   Youth: $10
   Children: free
 teaser: /assets/images/2015-04-19-nacht-teaser.png
+date: 2015-04-19
 ---
 
 Contact Walter Brunner or Maggie Hess, [905-508-8014][tel] or

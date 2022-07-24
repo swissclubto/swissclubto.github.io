@@ -8,6 +8,7 @@ contact: Monika
 web_url: http://www.chelseatoronto.com/
 web_url_name: Chelsea Hotel
 last_modified_at: 2022-06-26
+date: 2017-02-10
 ---
 
 ## Annual general meeting

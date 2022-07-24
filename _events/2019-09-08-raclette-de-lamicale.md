@@ -10,6 +10,7 @@ cost: |
   $30 for adults
   $10 for children under 12
 last_modified_at: 2022-06-19
+date: 2019-09-08
 ---
 
 Where else in the GTA can you enjoy traditional, wood-fired Swiss raclette?

@@ -6,6 +6,7 @@ start_time: 5:00 pm
 end_time: 8:00 pm
 contact: Denise
 last_modified_at: 2022-06-26
+date: 2017-12-09
 ---
 
 Come and join us on December the 9th (Saturday) at 5 pm for a stroll through

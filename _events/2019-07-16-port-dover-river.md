@@ -8,6 +8,7 @@ cost: |
   $99 per person
   Includes motor coach transportation, cruise, lunch, all taxes, and meal tip
 last_modified_at: 2022-07-09
+date: 2019-07-16
 ---
 
 Located on Ontario’s "south coast", the pretty lakeside town of Port Dover on

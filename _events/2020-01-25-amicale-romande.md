@@ -8,6 +8,7 @@ end_time: 10:00 pm
 teaser: /assets/images/2020-01-25-amicale-teaser.jpg
 cost: $35
 last_modified_at: 2022-07-10
+date: 2020-01-25
 ---
 
 L’Amicale Romande de Toronto invites you to their annual fondue & dance.

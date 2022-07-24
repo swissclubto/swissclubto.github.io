@@ -7,6 +7,7 @@ start_time: 1:00 pm
 end_time: 5:00 pm
 contact: Arno
 last_modified_at: 2022-06-19
+date: 2018-06-23
 ---
 
 On Saturday, June 23rd, starting at 1.00 pm, our annual Men’s Section family

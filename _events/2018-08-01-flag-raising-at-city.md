@@ -10,6 +10,7 @@ web_url_name: Event registration
 contact:
   name: Consulate of Switzerland in Toronto
 last_modified_at: 2022-06-19
+date: 2018-08-01
 ---
 
 On August 1, 2018 Switzerland will celebrate it’s 727th birthday. August 1

@@ -9,6 +9,7 @@ end_time: 8 pm
 contact: Charlotte
 last_modified_at: 2022-05-22
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+date: 2022-02-24
 ---
 
 Hi everyone!

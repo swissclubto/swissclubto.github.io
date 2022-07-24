@@ -6,6 +6,7 @@ start_time: 2:00 pm
 end_time: 5:00 pm
 cost: $18
 last_modified_at: 2022-06-11
+date: 2015-03-08
 ---
 
 Limited tickets are available.

@@ -8,6 +8,7 @@ contact: Nadia
 web_url: https://www.facebook.com/events/409584076077277/
 web_url_name: Facebook event
 last_modified_at: 2022-06-26
+date: 2017-05-31
 ---
 
 Come out and grab a drink with your fellow Swiss in Toronto!

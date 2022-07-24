@@ -4,6 +4,7 @@ end_date: 2022-08-01
 contact: Walter
 cost: About $80&ndash;$90
 last_modified_at: 2022-07-09
+date: 2016-07-30
 ---
 
 If you are interested, get in touch with Walter Brunner.

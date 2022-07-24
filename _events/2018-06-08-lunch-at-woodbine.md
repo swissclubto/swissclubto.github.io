@@ -8,6 +8,7 @@ cost: |
   $42 (members)
   $47 (guests)
 last_modified_at: 2022-06-19
+date: 2018-06-08
 ---
 
 The Woodbine Entertainment Group welcomes the Swiss Club Toronto to Woodbine

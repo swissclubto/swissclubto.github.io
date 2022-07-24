@@ -6,6 +6,7 @@ contact: Arno
 start_time: 1:00 pm
 end_time: 4:00 pm
 last_modified_at: 2022-07-10
+date: 2016-06-18
 ---
 
 This Men’s section event is open to all Swiss Club members.

@@ -9,6 +9,7 @@ end_time: 8 pm
 contact: Charlotte
 last_modified_at: 2022-06-26
 teaser: /assets/images/2022-04-07-pubnight-teaser.jpg
+date: 2022-04-07
 ---
 
 We are excited to announce the very first joint gathering of the SCCC and the

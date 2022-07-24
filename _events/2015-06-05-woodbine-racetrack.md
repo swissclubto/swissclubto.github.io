@@ -8,6 +8,7 @@ web_url: https://web.archive.org/web/20150302043906/http://www.woodbineentertain
 web_url_name: Woodbine
 cost: $40; includes delicious lunch and $10 to play slot machines
 last_modified_at: 2022-06-19
+date: 2015-06-05
 ---
 
 Open to all Swiss club members.

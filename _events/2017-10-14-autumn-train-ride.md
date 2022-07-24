@@ -9,6 +9,7 @@ cost: |
 web_url: https://www.steamtrain.ca/
 web_url_name: South Simcoe Railway
 last_modified_at: 2022-06-26
+date: 2017-10-14
 ---
 
 **Autumn train ride** on the South Simcoe Heritage Railway.

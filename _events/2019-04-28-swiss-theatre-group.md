@@ -11,6 +11,7 @@ cost: |
   Youth: $10
   Children: free
 last_modified_at: 2022-06-19
+date: 2019-04-28
 ---
 
 Lunch is available from 12 noon.

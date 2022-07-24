@@ -8,6 +8,7 @@ web_url: https://www.facebook.com/events/2000095330071900/
 web_url_name: Facebook event
 teaser: /assets/images/2020-01-23-pub-teaser.jpg
 last_modified_at: 2022-07-09
+date: 2019-01-24
 ---
 
 Join us on Thursday, January 24th, 2019 from 7--9 pm at the Duke of York for

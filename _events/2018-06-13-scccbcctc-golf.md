@@ -8,6 +8,7 @@ cost: |
   $225 Individual
   $450 Twosome
 last_modified_at: 2022-06-19
+date: 2018-06-13
 ---
 
 It’s not too late to register! Avid golfers from both the British and Swiss

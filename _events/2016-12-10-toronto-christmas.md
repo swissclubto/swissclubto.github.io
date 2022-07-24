@@ -8,6 +8,7 @@ web_url_name: Toronto Christmas Market
 start_time: 5:00 pm
 end_time: 10:00 pm
 last_modified_at: 2022-07-09
+date: 2016-12-10
 ---
 
 Dear Swiss Club members and friends, join us on December 10th 2016!

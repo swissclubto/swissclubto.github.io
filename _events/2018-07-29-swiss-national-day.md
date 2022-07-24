@@ -12,4 +12,5 @@ cost: |
   Members & children: free
   Non-members: $10
 last_modified_at: 2022-06-19
+date: 2018-07-29
 ---

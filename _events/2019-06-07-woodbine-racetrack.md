@@ -10,6 +10,7 @@ cost: |
   Swiss Club members: $42
   Non-members: $52
 last_modified_at: 2022-07-09
+date: 2019-06-07
 ---
 
 Join a group of friends from the Swiss Club Toronto for an afternoon at the

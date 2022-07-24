@@ -6,6 +6,7 @@ address: 740 St Clair Ave W, Toronto, ON M6C 1B3k
 start_time: 9.30 am
 contact: Nadia
 last_modified_at: 2022-06-19
+date: 2018-07-03
 ---
 
 Cheer on small yet mighty Switzerland at The Rushton for the World Cup games.

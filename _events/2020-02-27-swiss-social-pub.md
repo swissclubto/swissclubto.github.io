@@ -8,6 +8,7 @@ start_time: 6:00 pm
 end_time: 8 pm
 teaser: /assets/images/2020-02-27-pub-teaser.jpg
 last_modified_at: 2022-06-26
+date: 2020-02-27
 ---
 
 Join us on Thursday, February 27th, 2020 from 6--8 pm at the Duke of York for

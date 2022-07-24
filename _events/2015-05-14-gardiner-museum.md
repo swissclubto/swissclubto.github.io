@@ -7,6 +7,7 @@ end_time: 2:30 pm
 web_url: https://www.gardinermuseum.on.ca
 web_url_name: Gardiner Museum
 last_modified_at: 2022-06-11
+date: 2015-05-14
 ---
 
 Contact Paula Rico at [416-652-9067][tel] or by e-mail

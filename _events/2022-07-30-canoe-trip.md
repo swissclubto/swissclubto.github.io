@@ -6,6 +6,7 @@ contact: Walter
 cost: About $100 per person
 teaser: /assets/images/2022-07-30-canoe-teaser.jpg
 last_modified_at: 2022-07-01
+date: 2022-07-30
 ---
 
 After the years of distancing and isolation we are ready to enjoy the outdoors

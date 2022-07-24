@@ -10,4 +10,5 @@ cost: |
   $5 per person
   Free for members and children
 last_modified_at: 2022-07-09
+date: 2019-06-15
 ---

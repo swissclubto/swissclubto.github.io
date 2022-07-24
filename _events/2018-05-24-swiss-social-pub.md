@@ -9,6 +9,7 @@ contact: Nadia
 event_url: https://www.facebook.com/events/1643910232313601/
 event_url_name: Facebook event
 last_modified_at: 2022-06-19
+date: 2018-05-24
 ---
 
 Join us on {{ page.date | date: "%A" }}, {{ page.date | date_to_long_string:

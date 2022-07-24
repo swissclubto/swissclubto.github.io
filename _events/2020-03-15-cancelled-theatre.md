@@ -7,6 +7,7 @@ start_time: 2 pm
 end_time: 5 pm
 teaser: /assets/images/2020-03-15-people-teaser.jpg
 last_modified_at: 2022-07-09
+date: 2020-03-15
 ---
 
 This event has been cancelled.

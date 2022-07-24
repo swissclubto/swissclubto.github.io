@@ -7,6 +7,7 @@ end_time: 9:00 pm
 web_url: https://www.parlour270.com
 last_modified_at: 2022-06-11
 teaser: /assets/images/2014-10-07-kalyna-teaser.jpg
+date: 2014-10-07
 ---
 
 Kalyna Rakel, a Toronto based dynamic Swiss--Canadian singer, performs at the

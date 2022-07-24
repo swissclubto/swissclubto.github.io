@@ -8,6 +8,7 @@ cost: |
   Swiss Club members: free
   Non-members: $5
 last_modified_at: 2022-06-19
+date: 2016-11-20
 ---
 
 The library is located on Leslie St. at Clansman Blvd, just south of the Galati

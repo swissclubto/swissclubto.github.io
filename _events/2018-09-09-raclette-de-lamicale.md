@@ -11,6 +11,7 @@ cost: |
   $30 for guests
   $5 per car for parking (charged by the park)
 last_modified_at: 2022-06-19
+date: 2018-09-09
 ---
 
 Enjoy a nice afternoon at the beautiful Simeon Park (just north of the city)

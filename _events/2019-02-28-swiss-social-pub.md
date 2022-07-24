@@ -8,6 +8,7 @@ web_url_name: Facebook event
 start_time: 6:00 pm
 teaser: /assets/images/2019-02-28-pub-teaser.jpg
 last_modified_at: 2022-07-09
+date: 2019-02-28
 ---
 
 Join us on Thursday, February 28th, 2019 from 6--9 pm at the Duke of York for

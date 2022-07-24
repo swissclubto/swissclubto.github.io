@@ -6,6 +6,7 @@ start_time: 6:45 pm
 end_time: 10:00 pm
 teaser: /assets/images/2015-10-08-everest-teaser.jpg
 last_modified_at: 2022-06-11
+date: 2015-10-08
 ---
 
 As a member of the Swiss Canadian Chamber of Commerce or guest, here is an

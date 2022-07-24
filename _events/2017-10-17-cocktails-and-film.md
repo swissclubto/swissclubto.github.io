@@ -11,6 +11,7 @@ web_url: https://www.eda.admin.ch/montreal
 web_url_name: Consulate General of Switzerland in Montreal
 teaser: /assets/images/2017-10-17-vie-teaser.jpg
 last_modified_at: 2022-06-26
+date: 2017-10-17
 ---
 
 Organized by the Consulate General of Switzerland for the Swiss community.

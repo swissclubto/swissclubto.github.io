@@ -8,6 +8,7 @@ end_time: 10:00 pm
 contact: Nadia
 cost: $40
 last_modified_at: 2022-06-19
+date: 2018-03-01
 ---
 
 As you may know, we have been looking for new and fun things to do together in

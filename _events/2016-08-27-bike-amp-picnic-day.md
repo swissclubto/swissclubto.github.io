@@ -7,6 +7,7 @@ contacts:
 start_time: 10:30 am
 end_time: 3:00 pm
 last_modified_at: 2022-07-09
+date: 2016-08-27
 ---
 
 Please come and join Denise and Sascha Frassini for a tour and picnic starting

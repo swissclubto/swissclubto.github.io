@@ -7,6 +7,7 @@ contact: Paula
 web_url: https://woodbine.com/dining-at-woodbine/
 web_url_name: Dining at Woodbine
 last_modified_at: 2022-07-09
+date: 2016-06-10
 ---
 
 This event is some weeks away but you can register now with Paula.

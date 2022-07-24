@@ -6,6 +6,7 @@ start_time: 4:00 pm
 web_url: https://www.torontochristmasmarket.com
 cost: $5
 last_modified_at: 2022-06-19
+date: 2015-12-05
 ---
 
 Come and join us on December 5th (Saturday) at 4pm in the Distillery District

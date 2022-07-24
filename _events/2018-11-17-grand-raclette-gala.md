@@ -9,6 +9,7 @@ web_url_name: Swiss Canadian Chamber of Commerce
 contact:
   name: Swiss Canadian Chamber of Commerce
 last_modified_at: 2022-06-20
+date: 2018-11-17
 ---
 
 Organized by the Swiss Canadian Chamber of Commerce at the King Edward Hotel,

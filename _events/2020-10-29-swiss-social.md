@@ -8,6 +8,7 @@ web_url_name: Facebook event
 contact: Charlotte
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
 last_modified_at: 2022-06-26
+date: 2020-10-29
 ---
 
 We've moved the Swiss Socials online! Join us {{ page.date | date: "%A %B %-d"

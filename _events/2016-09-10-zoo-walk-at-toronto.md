@@ -7,6 +7,7 @@ contact: Denise
 web_url: https://www.torontozoo.com
 web_url_name: Toronto Zoo
 last_modified_at: 2022-07-09
+date: 2016-09-10
 ---
 
 This event has been cancelled due to inclimate weather.

@@ -10,6 +10,7 @@ cost: |
   $10 per person
   Kids are free
 last_modified_at: 2022-06-19
+date: 2014-12-06
 ---
 
 Please join us for Grittibänze/Grättimänner, hot chocolate, tea, coffee, and

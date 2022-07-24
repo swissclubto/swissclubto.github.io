@@ -11,4 +11,5 @@ cost: |
 contact: Philippe
 teaser: /assets/images/2019-03-09-canadysli-teaser.png
 last_modified_at: 2022-07-09
+date: 2019-03-09
 ---

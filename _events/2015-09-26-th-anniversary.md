@@ -7,6 +7,7 @@ end_time: 4:00 pm
 web_url: https://web.archive.org/web/20150920023406/http://www.swissmaster.com/
 web_url_name: Swiss-Master Chocolatier
 last_modified_at: 2022-06-11
+date: 2015-09-26
 ---
 
 This free event will feature the Trillium Alphorn Players and Canadysli

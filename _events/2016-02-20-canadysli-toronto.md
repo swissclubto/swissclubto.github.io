@@ -6,6 +6,7 @@ start_time: 7:00 pm
 web_url: https://www.canadysli.com
 web_url_name: Canadysli website
 last_modified_at: 2022-06-12
+date: 2016-02-20
 ---
 
 For more info, check our [website].

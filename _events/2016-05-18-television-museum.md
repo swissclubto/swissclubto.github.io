@@ -9,6 +9,7 @@ web_url_name: MZTV Museum of Television website
 contact: Paula
 cost: $5
 last_modified_at: 2022-07-09
+date: 2016-05-18
 ---
 
 Visit to the Television Museum ([416-599-7339][tel]) located in the Liberty

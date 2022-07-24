@@ -8,6 +8,7 @@ web_url: https://www.facebook.com/events/500676653633541
 web_url_name: Facebook event
 teaser: /assets/images/2020-01-23-pub-teaser.jpg
 last_modified_at: 2022-06-26
+date: 2017-12-21
 ---
 
 Join us at the Duke of York for some drinks and good company. This event is

@@ -6,6 +6,7 @@ end_date: 2018-08-06
 contact: Walter
 cost: $80--$90
 last_modified_at: 2022-06-19
+date: 2018-08-04
 ---
 
 Are you interested in a canoe trip? And don’t worry if you have never been in a

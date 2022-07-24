@@ -8,6 +8,7 @@ end_time: 8 pm
 contact: Charlotte
 last_modified_at: 2022-06-26
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+date: 2022-01-27
 ---
 
 Please register on [Facebook].

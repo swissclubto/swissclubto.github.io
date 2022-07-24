@@ -9,6 +9,7 @@ web_url: https://www.facebook.com/events/321583881798561/
 web_url_name: Facebook event
 teaser: /assets/images/2019-03-28-swiss-social-teaser.jpg
 last_modified_at: 2022-07-09
+date: 2019-03-28
 ---
 
 Join us on {{ page.date | date: "%A" }}, {{ page.date | date_to_long_string:

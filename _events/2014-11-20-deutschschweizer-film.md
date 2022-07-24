@@ -8,6 +8,7 @@ cost: |
   $8 per person
   Includes coffee and and cake after the movie, served by the Women’s section
 last_modified_at: 2022-06-19
+date: 2014-11-20
 ---
 
 Note: This event is open to all Swiss Club Members

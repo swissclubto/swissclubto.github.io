@@ -6,6 +6,7 @@ end_date: 2018-05-14
 contact: Paula
 cost: $379--$529
 last_modified_at: 2022-06-19
+date: 2018-05-13
 ---
 
 This event has been cancelled by the tour operator :slightly_frowning_face:

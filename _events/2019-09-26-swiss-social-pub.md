@@ -10,6 +10,7 @@ web_url_name: Facebook event
 start_time: 6:00 pm
 teaser: /assets/images/2019-09-26-pub-teaser.jpg
 last_modified_at: 2022-07-09
+date: 2019-09-26
 ---
 
 Join us on {{ page.date | date: "%A" }}, {{ page.date | date_to_long_string:

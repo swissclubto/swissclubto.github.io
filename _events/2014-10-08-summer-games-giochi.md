@@ -7,6 +7,7 @@ end_time: 7:30 pm
 web_url: https://iictoronto.esteri.it/IIC_Toronto/en/
 web_url_name: Istituto Italiano di Cultura Toronto
 last_modified_at: 2022-06-11
+date: 2014-10-08
 ---
 
 The film *Summer Games (Giochi d'estate)* by Swiss director Rolando Colla is

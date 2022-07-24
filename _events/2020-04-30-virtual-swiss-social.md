@@ -7,6 +7,7 @@ web_url_name: Facebook event
 teaser: /assets/images/2020-04-30-pub-teaser.jpg
 start_time: 6:00 pm
 last_modified_at: 2022-06-26
+date: 2020-04-30
 ---
 
 This is a virtual pub night!

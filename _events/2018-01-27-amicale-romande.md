@@ -7,6 +7,7 @@ start_time: 7:00 pm
 end_time: 10:00 pm
 contact: Jean-Marc
 last_modified_at: 2022-06-19
+date: 2018-01-27
 ---
 
 Please RSVP with Jean-Marc! More details, price, etc. to come.

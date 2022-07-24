@@ -8,6 +8,7 @@ start_time: 11:30 am
 end_time: 1:30 pm
 contact: Charlotte
 last_modified_at: 2022-06-26
+date: 2022-01-01
 ---
 
 ![Map for meeting location](/assets/images/2022-01-01-dip-map.jpg)

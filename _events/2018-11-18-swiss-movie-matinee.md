@@ -8,6 +8,7 @@ cost: |
   Free for members
   $5 for non-members
 last_modified_at: 2022-06-20
+date: 2018-11-18
 ---
 
 Presented in Swiss German.

@@ -9,6 +9,7 @@ web_url: https://www.facebook.com/events/228238211254196/
 web_url_name: Facebook event
 contact: Nadia
 last_modified_at: 2022-06-19
+date: 2018-06-21
 ---
 
 Join us on {{ page.date | date: "%A" }}, {{ page.date | date_to_long_string:
