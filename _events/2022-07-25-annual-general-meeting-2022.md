@@ -26,3 +26,5 @@ At this meeting we will also be officially electing our President, Vice-Presid
 
 * By email to Nadia
 * By phone to Heidy
+
+Additional documents:
