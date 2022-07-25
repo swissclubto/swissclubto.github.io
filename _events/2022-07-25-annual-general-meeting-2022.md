@@ -28,3 +28,5 @@ At this meeting we will also be officially electing our President, Vice-Presid
 * By phone to Heidy
 
 Additional documents:
+
+* [Minutes of the 2019 annual general meeting](/assets/pdf/2022-04-22-agm-2019-minutes.pdf)
