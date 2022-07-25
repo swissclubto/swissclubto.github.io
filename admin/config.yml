@@ -3,7 +3,7 @@ backend:
   repo: swissclubto/swissclubto.github.io
   branch: main
 publish_mode: editorial_workflow
-media_folder: /assets/images
+media_folder: /assets/pdf
 logo_url: https://swissclubto.github.io/assets/images/logo.svg
 
 collections:
@@ -45,6 +45,7 @@ collections:
     label_singular: Event
     description: Posts that show up under the "Events" tab
     folder: _events
+    media_folder: ../assets/images
     create: true
     delete: false
     extension: md
