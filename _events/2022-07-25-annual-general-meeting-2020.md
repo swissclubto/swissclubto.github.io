@@ -1,0 +1,17 @@
+---
+title: Annual general meeting 2020
+date: 2020-04-24
+location: The Chelsea Hotel
+address: 33 Gerrard Street West, Toronto
+start_time: 6:30 pm
+last_modified_at: 2022-07-24
+---
+This event has been cancelled.
+{: .notice--danger}
+
+All Swiss Club members are invited to attend. A few documents are included here for your review:
+
+* [Agenda](/assets/pdf/2020-04-24-agm-agenda.pdf) (in PDF format)
+* [Minutes of the 2019 AGM](/assets/pdf/2022-04-22-agm-2019-minutes.pdf)
+
+If you would like more information, please contact us at [info@swissclubtoronto.ca](mailto:info@swissclubtoronto.ca).
