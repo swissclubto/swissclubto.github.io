@@ -81,7 +81,7 @@ collections:
         widget: datetime
         required: false
         default:
-        format: hh.mm a
+        format: h.mm a
         date_format: false
         time_format: true
       - label: End time
@@ -89,7 +89,7 @@ collections:
         widget: datetime
         required: false
         default:
-        format: hh.mm a
+        format: h.mm a
         date_format: false
         time_format: true
       - label: End date
