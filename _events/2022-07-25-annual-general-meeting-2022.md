@@ -30,3 +30,4 @@ At this meeting we will also be officially electing our President, Vice-Presid
 Additional documents:
 
 * [Minutes of the 2019 annual general meeting](/assets/pdf/2022-04-22-agm-2019-minutes.pdf)
+* [Proxy form](/assets/pdf/2022-04-22-agm-proxy.pdf) for those who can't attend themselves
