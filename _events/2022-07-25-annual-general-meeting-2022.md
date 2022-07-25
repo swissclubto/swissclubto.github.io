@@ -7,6 +7,7 @@ start_time: 06.30 pm
 end_time: 09.30 pm
 contacts:
   - Nadia
+  - Heidy
 last_modified_at: 2022-07-24
 ---
 With things finally opening up, we are excited to announce that our Annual General Meeting (AGM) will be taking place again this year. We have not had an AGM since April 2019, so this meeting will review the activities of the past two years, since the pandemic began.
