@@ -154,4 +154,13 @@ gallery:
   - url: /assets/images/2022-07-24-national-day-050.jpg
     image_path: /assets/images/2022-07-24-national-day-050-th.jpg
     title: Photo by Suzi Hubler
+  - url: /assets/images/2022-07-24-national-day-051.jpg
+    image_path: /assets/images/2022-07-24-national-day-051-th.jpg
+    title: Photo by Nadia Berger
+  - url: /assets/images/2022-07-24-national-day-052.jpg
+    image_path: /assets/images/2022-07-24-national-day-052-th.jpg
+    title: Photo by Nadia Berger
+  - url: /assets/images/2022-07-24-national-day-053.jpg
+    image_path: /assets/images/2022-07-24-national-day-053-th.jpg
+    title: Photo by Nadia Berger
 ---
