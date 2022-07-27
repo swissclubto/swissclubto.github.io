@@ -123,8 +123,8 @@ collections:
         widget: text
         required: false
         hint: Put one price with description per line
-      - label: teaser
-        name: Teaser
+      - label: Teaser
+        name: teaser
         widget: image
         choose_url: false
         allow_multiple: false
