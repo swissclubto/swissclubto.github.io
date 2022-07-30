@@ -43,6 +43,12 @@ teaser: /assets/images/post-teaser.jpg
 # Site masthead logo
 logo: /assets/images/logo.svg
 
+# RSS feeds
+feed:
+  collections:
+    - events
+    - gallery
+
 # SEO and social sharing
 twitter:
   username: swissclubto
