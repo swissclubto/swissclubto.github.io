@@ -50,7 +50,12 @@ layout: single
   {%- if page.address -%}
     <tr>
       <th>Address</th>
-      <td>{{ page.address }}</td>
+      <td>
+        <i class="fas fa-map-marked-alt"></i>
+        <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | cgi_escape }}">
+          {{ page.address }}
+        </a>
+      </td>
     </tr>
   {%- endif -%}
   {%- if page.web_url -%}
