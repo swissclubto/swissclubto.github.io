@@ -64,7 +64,7 @@ toc_sticky: true
 '2016':
   - url: /assets/telltale/2016-01-issue-129.pdf
     image_path: /assets/telltale/2016-01-issue-129-th.jpg
-    title: Tell Tale issue 129, Januray 2016
+    title: Tell Tale issue 129, January 2016
   -  # Dummy image for layout
   -  # Dummy image for layout
 '2013':
