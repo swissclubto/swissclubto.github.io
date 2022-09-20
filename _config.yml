@@ -99,6 +99,7 @@ include:
   - _pages
 exclude:
   - .mailmap
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
