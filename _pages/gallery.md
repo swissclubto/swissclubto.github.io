@@ -8,3 +8,8 @@ classes: wide
 sort_order: reverse
 show_excerpts: false
 ---
+
+Do you have great pictures from an event you would like to share and see on our
+website? Get in touch with us at <webmaster@swissclubtoronto.ca>. The easiest
+way to get photos to us is by sharing them through an online service such as
+Google Photos.
