@@ -152,8 +152,9 @@ defaults:
   - scope:
       path: _pages/events
     values:
-      layout: collection-year
+      layout: collection-year-calendar
       collection: events
+      classes: wide
       sidebar:
         nav: events
   # Membership pages
