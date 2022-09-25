@@ -1,0 +1,38 @@
+---
+layout: archive
+---
+
+{%- assign posts = site[page.collection]
+  | group_by_exp: "item", "item.date | date: '%Y'"
+  | where: "name", page.year
+  | map: "items"
+  | first -%}
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr">
+{% for month in (1..12) %}
+  {% capture datestamp %}{{ page.year }}-{{ month }}-01{% endcapture %}
+  <div>
+    <h3>{{ datestamp | date: "%B" }}</h3>
+    {% assign monthposts = posts
+      | group_by_exp: "item", "item.date | date: '%-m'"
+      | where: "name", month
+      | map: "items"
+      | first %}
+    {% if monthposts %}
+    <ul>
+      {% for post in monthposts %}
+        <li>{{ post.date | date: "%e" }}: {{ post.title | markdownify | strip_html }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>
+
+{% comment %}
+{%- for post in posts -%}
+  {%- unless post.hidden -%}
+    {% include archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
+{% endcomment %}
