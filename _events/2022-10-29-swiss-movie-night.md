@@ -1,5 +1,5 @@
 ---
-title: Swiss move night
+title: Swiss movie night
 location: Hillcrest Library Auditorium
 address: 5801 Leslie St, Toronto
 contact: Arno
