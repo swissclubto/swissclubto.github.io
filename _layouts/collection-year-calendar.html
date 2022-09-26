@@ -8,24 +8,26 @@ layout: archive
   | map: "items"
   | first -%}
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr)">
   {% for month in (1..12) %}
     {% capture datestamp %}{{ page.year }}-{{ month }}-01{% endcapture %}
-    <div>
-      <h3>{{ datestamp | date: "%B" }}</h3>
+    <div style="border: solid 1px black; padding: 5px">
+      <h3 style="text-align: center">{{ datestamp | date: "%B" }}</h3>
       {% assign monthposts = posts
         | group_by_exp: "item", "item.date | date: '%-m'"
         | where: "name", month
         | map: "items"
         | first %}
       {% if monthposts %}
-        <ul>
+        <ol>
           {% for post in monthposts %}
             {% unless post.hidden %}
-              <li>{{ post.date | date: "%e" }}: {{ post.title | markdownify | strip_html }}</li>
+              <li value="{{ post.date | date: "%e" }}">
+                {{ post.title | markdownify | strip_html }}
+              </li>
             {% endunless %}
           {% endfor %}
-        </ul>
+        </ol>
       {% endif %}
     </div>
   {% endfor %}
