@@ -4,7 +4,7 @@ backend:
   branch: main
 publish_mode: editorial_workflow
 media_folder: /assets/pdf
-logo_url: https://swissclubto.github.io/assets/images/logo.svg
+logo_url: https://swissclubtoronto.ca/assets/images/logo.svg
 
 collections:
   - name: posts
