@@ -5,7 +5,7 @@ address: 5801 Leslie St, Toronto
 contact: Arno
 cost: |
   Free for members of the Swiss Club and Swiss Canadian Chamber of Commerce
-last_modified_at: 2022-09-24
+last_modified_at: 2022-09-25
 date: 2022-10-29
 ---
 
