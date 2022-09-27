@@ -2,17 +2,60 @@
 layout: archive
 ---
 
+<style>
+:root {
+  --num-columns: 1;
+}
+
+@media (min-width: 500px) {
+  :root {
+    --num-columns: 2;
+  }
+}
+
+@media (min-width: 750px) {
+  :root {
+    --num-columns: 3;
+  }
+}
+
+div.calendar {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(var(--num-columns), 1fr);
+}
+
+div.monthcard {
+  border: solid 1px black;
+  padding: 5%;
+}
+
+h3.monthlabel {
+  /* text-align: center; */
+  margin-top: .5em;
+}
+
+ol li:nth-child(even) {
+  background-color: #e2e4e5;
+}
+
+ol li:nth-child(even)::marker {
+  background-color: #e2e4e5;
+}
+</style>
+
 {%- assign posts = site[page.collection]
   | group_by_exp: "item", "item.date | date: '%Y'"
   | where: "name", page.year
   | map: "items"
   | first -%}
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr)">
+<div class="calendar">
   {% for month in (1..12) %}
     {% capture datestamp %}{{ page.year }}-{{ month }}-01{% endcapture %}
-    <div style="border: solid 1px black; padding: 5px">
-      <h3 style="text-align: center">{{ datestamp | date: "%B" }}</h3>
+    <div id="month{{ month | prepend: '0' | slice: -2, 2 }}" class="monthcard">
+      <h3 class="monthlabel">{{ datestamp | date: "%B" }}</h3>
+      <hr>
       {% assign monthposts = posts
         | group_by_exp: "item", "item.date | date: '%-m'"
         | where: "name", month
