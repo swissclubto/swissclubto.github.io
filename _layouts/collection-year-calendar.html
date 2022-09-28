@@ -31,16 +31,15 @@ div.monthcard {
 }
 
 h3.monthlabel {
-  /* text-align: center; */
   margin-top: .5em;
 }
 
-ol li:nth-child(even) {
+table tr:nth-child(even) {
   background-color: #e2e4e5;
 }
 
-ol li:nth-child(even)::marker {
-  background-color: #e2e4e5;
+tr td:first-child {
+  text-align: end;
 }
 </style>
 
@@ -62,15 +61,16 @@ ol li:nth-child(even)::marker {
         | map: "items"
         | first %}
       {% if monthposts %}
-        <ol>
+        <table>
           {% for post in monthposts %}
             {% unless post.hidden %}
-              <li value="{{ post.date | date: "%e" }}">
-                {{ post.title | markdownify | strip_html }}
-              </li>
+              <tr>
+                <td>{{ post.date | date: "%e" }}</td>
+                <td>{{ post.title | markdownify | strip_html }}</td>
+              </tr>
             {% endunless %}
           {% endfor %}
-        </ol>
+        </table>
       {% endif %}
     </div>
   {% endfor %}
