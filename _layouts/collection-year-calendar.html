@@ -30,12 +30,20 @@ div.monthcard {
   padding: 5%;
 }
 
+div.current {
+  background-color: #e2e4e5;
+}
+
 h3.monthlabel {
   margin-top: .5em;
 }
 
 table tr:nth-child(even) {
   background-color: #e2e4e5;
+}
+
+div.current table tr:nth-child(even) {
+  background-color: #eeeeee;
 }
 
 tr td {
@@ -51,6 +59,16 @@ tr td:last-child {
 }
 </style>
 
+<script>
+function highlightMonth() {
+    let curMonth = new Date().getMonth() + 1;
+    let curMonthDiv = document.getElementById(`month${curMonth}`);
+    curMonthDiv.classList.add("current");
+}
+
+window.addEventListener("load", highlightMonth);
+</script>
+
 {%- assign posts = site[page.collection]
   | group_by_exp: "item", "item.date | date: '%Y'"
   | where: "name", page.year
@@ -60,7 +78,7 @@ tr td:last-child {
 <div class="calendar">
   {%- for month in (1..12) -%}
     {%- capture datestamp %}{{ page.year }}-{{ month }}-01{% endcapture %}
-    <div id="month{{ month | prepend: '0' | slice: -2, 2 }}" class="monthcard">
+    <div id="month{{ month }}" class="monthcard">
       <h3 class="monthlabel">{{ datestamp | date: "%B" }}</h3>
       <hr>
       {%- assign monthposts = posts
