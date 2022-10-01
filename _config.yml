@@ -181,7 +181,6 @@ defaults:
       type: events
     values:
       layout: event
-      show_date: true
       excerpt: ''
       sidebar:
         nav: events
