@@ -74,7 +74,11 @@ tr td:last-child {
             {% unless post.hidden %}
               <tr>
                 <td>{{ post.date | date: "%e" }}</td>
-                <td>{{ post.title | markdownify | strip_html }}</td>
+                <td>
+                    <a href="{{ post.url | relative_url }}" rel="permalink">
+                      {{ post.title | markdownify | strip_html }}
+                    </a>
+                </td>
               </tr>
             {% endunless %}
           {% endfor %}
