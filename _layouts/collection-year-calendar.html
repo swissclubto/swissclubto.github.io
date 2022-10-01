@@ -87,11 +87,3 @@ tr td:last-child {
     </div>
   {%- endfor %}
 </div>
-
-{% comment %}
-{%- for post in posts -%}
-  {%- unless post.hidden -%}
-    {% include archive-single.html %}
-  {%- endunless -%}
-{%- endfor -%}
-{% endcomment %}
