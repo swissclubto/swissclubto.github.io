@@ -55,37 +55,37 @@ tr td:last-child {
   | group_by_exp: "item", "item.date | date: '%Y'"
   | where: "name", page.year
   | map: "items"
-  | first -%}
+  | first %}
 
 <div class="calendar">
-  {% for month in (1..12) %}
-    {% capture datestamp %}{{ page.year }}-{{ month }}-01{% endcapture %}
+  {%- for month in (1..12) -%}
+    {%- capture datestamp %}{{ page.year }}-{{ month }}-01{% endcapture %}
     <div id="month{{ month | prepend: '0' | slice: -2, 2 }}" class="monthcard">
       <h3 class="monthlabel">{{ datestamp | date: "%B" }}</h3>
       <hr>
-      {% assign monthposts = posts
+      {%- assign monthposts = posts
         | group_by_exp: "item", "item.date | date: '%-m'"
         | where: "name", month
         | map: "items"
-        | first %}
-      {% if monthposts %}
+        | first -%}
+      {%- if monthposts %}
         <table>
-          {% for post in monthposts %}
-            {% unless post.hidden %}
+          {%- for post in monthposts -%}
+            {%- unless post.hidden %}
               <tr>
                 <td>{{ post.date | date: "%e" }}</td>
                 <td>
                     <a href="{{ post.url | relative_url }}" rel="permalink">
-                      {{ post.title | markdownify | strip_html }}
+                      {{- post.title | markdownify | strip_html | strip_newlines -}}
                     </a>
                 </td>
               </tr>
-            {% endunless %}
-          {% endfor %}
+            {%- endunless -%}
+          {%- endfor %}
         </table>
-      {% endif %}
+      {%- endif %}
     </div>
-  {% endfor %}
+  {%- endfor %}
 </div>
 
 {% comment %}
