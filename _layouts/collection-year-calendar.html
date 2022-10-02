@@ -95,10 +95,7 @@ function highlightCalendar() {
         return;
     }
 
-    let curMonth = now.getMonth() + 1;
-    let curDay = now.getDate();
-
-    dimPastMonthsAndHighlightCurrent(curMonth, curDay);
+    dimPastMonthsAndHighlightCurrent(now);
 }
 
 function getPageYear() {
@@ -132,7 +129,10 @@ function dimEvent(event, idx) {
     eventLinkCell.firstElementChild.classList.add("dim");
 }
 
-function dimPastMonthsAndHighlightCurrent(curMonth, curDay) {
+function dimPastMonthsAndHighlightCurrent(now) {
+    let curMonth = now.getMonth() + 1;
+    let curDay = now.getDate();
+
     for (let i = 1; i < curMonth; ++i) dimAllEventsOfMonth(i);
     highlightCurrentMonth(curMonth, curDay);
 }
@@ -142,16 +142,18 @@ function highlightCurrentMonth(month, curDay) {
     monthDiv.classList.add("current");
 
     let events = [...monthDiv.getElementsByTagName("tr")];
-
-    events
-        .filter(event => event.children[0].textContent < curDay)
-        .forEach(dimEvent);
+    dimPastEvents(events, curDay);
 
     let today = events.find(event => event.children[0].textContent == curDay);
-
     if (today == undefined) return;
 
     highlightDay(today);
+}
+
+function dimPastEvents(events, curDay) {
+    events
+        .filter(event => event.children[0].textContent < curDay)
+        .forEach(dimEvent);
 }
 
 function highlightDay(dayRow) {
