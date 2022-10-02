@@ -1,8 +1,8 @@
-window.addEventListener("load", highlightCalendar);
+if (/\/events\/\d{4}\/$/.test(window.location.href)) {
+	window.addEventListener("load", highlightCalendar);
+}
 
 function highlightCalendar() {
-	if (!/\/events\/\d{4}\/$/.test(window.location.href)) return
-
 	let now = new Date();
 	let curYear = now.getFullYear();
 	let pageYear = getPageYear();
