@@ -33,6 +33,7 @@ div.monthcard {
 
 div.current {
   background-color: #e2e4e5;
+  border-width: 2px;
 }
 
 h3.monthlabel {
@@ -72,6 +73,11 @@ td.dim {
 tr.dim {
   background-color: rgba(226, 228, 229, 0.5);
 }
+
+tr.current td,
+tr.current a {
+  font-weight: bold;
+}
 </style>
 
 <script>
@@ -102,9 +108,7 @@ function getPageYear() {
 }
 
 function dimAllMonths() {
-    for (let i = 1; i <= 12; ++i) {
-        dimAllEventsOfMonth(i);
-    }
+    for (let i = 1; i <= 12; ++i) dimAllEventsOfMonth(i);
 }
 
 function dimAllEventsOfMonth(month) {
@@ -126,6 +130,32 @@ function dimEvent(event, idx) {
     let [dayCell, eventLinkCell] = event.children;
     dayCell.classList.add("dim");
     eventLinkCell.firstElementChild.classList.add("dim");
+}
+
+function dimPastMonthsAndHighlightCurrent(curMonth, curDay) {
+    for (let i = 1; i < curMonth; ++i) dimAllEventsOfMonth(i);
+    highlightCurrentMonth(curMonth, curDay);
+}
+
+function highlightCurrentMonth(month, curDay) {
+    let monthDiv = document.getElementById(`month${month}`);
+    monthDiv.classList.add("current");
+
+    let events = [...monthDiv.getElementsByTagName("tr")];
+
+    events
+        .filter(event => event.children[0].textContent < curDay)
+        .forEach(dimEvent);
+
+    let today = events.find(event => event.children[0].textContent == curDay);
+
+    if (today == undefined) return;
+
+    highlightDay(today);
+}
+
+function highlightDay(dayRow) {
+    dayRow.classList.add("current");
 }
 </script>
 
