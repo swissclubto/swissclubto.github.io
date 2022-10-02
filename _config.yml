@@ -37,6 +37,8 @@ repository: swissclubto/swissclubto.github.io
 head_scripts:
   # Netlify CMS
   - https://identity.netlify.com/v1/netlify-identity-widget.js
+after_footer_scripts:
+  - /assets/js/dimcalendar.js
 
 # Site default teaser image
 teaser: /assets/images/post-teaser.jpg
