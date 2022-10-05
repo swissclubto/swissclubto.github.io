@@ -19,8 +19,6 @@ membership:
         url: /membership/
       - title: Member profile
         url: /membership/profile/
-      - title: Create or reset password
-        url: /membership/password/
       - title: Individual membership sign-up
         url: /membership/individual/
       - title: Family membership sign-up
