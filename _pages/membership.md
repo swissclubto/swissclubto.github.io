@@ -3,8 +3,8 @@ title: Membership
 permalink: /membership/
 ---
 
-If you already already are a member and would like to login to your member
-profile, please go here:
+If you already are a member and would like to login to your member profile,
+please go here:
 
 [Member login]({% link _pages/membership/profile.md %}){: .btn .btn--info .btn--large}
 
