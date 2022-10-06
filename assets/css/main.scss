@@ -9,5 +9,73 @@ footer i.fa-rss-square,
 	color: #000 !important;
 }
 
+$dim-foreground: rgba(34, 40, 49, 0.44);
+
+div.calendar {
+  display: grid;
+  gap: 15px;
+
+  @media screen and (min-width: 500px) {
+	grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media screen and (min-width: 750px) {
+	grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+div.monthcard {
+  border: solid 1px black;
+  padding: 5%;
+}
+
+div.current {
+  background-color: #e2e4e5;
+  border-width: 2px;
+}
+
+h3.monthlabel {
+  margin-top: .5em;
+}
+
+table tr:nth-child(even):not(.dim) {
+  background-color: #e2e4e5;
+}
+
+div.current table tr:nth-child(even) {
+  background-color: #eeeeee;
+}
+
+tr td {
+  font-size: 110%;
+}
+
+tr td:first-child {
+  text-align: end;
+}
+
+tr td:last-child {
+  width: 100%;
+}
+
+div.dim {
+  border-color: $dim-foreground;
+}
+
+a.dim,
+h3.dim,
+td.dim {
+  color: $dim-foreground;
+}
+
+tr.dim {
+  background-color: rgba(226, 228, 229, 0.5);
+}
+
+tr.current td,
+tr.current a {
+  font-weight: bold;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
