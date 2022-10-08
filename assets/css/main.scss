@@ -6,10 +6,13 @@
 
 footer i.fa-rss-square,
 .icon-black {
-	color: #000 !important;
+  color: #000 !important;
 }
 
 $dim-foreground: rgba(34, 40, 49, 0.44);
+$emphasize-bg: #e2e4e5;
+$emphasize-bg-current: #eee;
+$tr-dim: rgba(226, 228, 229, 0.5);
 
 div.calendar {
   display: grid;
@@ -18,56 +21,69 @@ div.calendar {
 }
 
 div.monthcard {
+  h3.monthlabel {
+    margin-top: .5em;
+  }
+
   border: solid 1px black;
   padding: 5%;
-}
 
-div.current {
-  background-color: #e2e4e5;
-  border-width: 2px;
-}
+  tr {
+    td {
+      font-size: 110%;
 
-h3.monthlabel {
-  margin-top: .5em;
-}
+      &:first-child {
+        text-align: end;
+      }
 
-table tr:nth-child(even):not(.dim) {
-  background-color: #e2e4e5;
-}
+      &:last-child {
+        width: 100%;
+      }
+    }
 
-div.current table tr:nth-child(even) {
-  background-color: #eeeeee;
-}
+    &:nth-child(even) {
+      background-color: $emphasize-bg;
+    }
+  }
 
-tr td {
-  font-size: 110%;
-}
+  &.dim {
+    border-color: $dim-foreground;
 
-tr td:first-child {
-  text-align: end;
-}
+    a,
+    h3,
+    td {
+      color: $dim-foreground;
+    }
 
-tr td:last-child {
-  width: 100%;
-}
+    tr.dim {
+      background-color: $tr-dim;
+    }
+  }
 
-div.dim {
-  border-color: $dim-foreground;
-}
+  &.current {
+    background-color: $emphasize-bg;
+    border-width: 2px;
 
-a.dim,
-h3.dim,
-td.dim {
-  color: $dim-foreground;
-}
+    table {
+      tr {
+        a.dim,
+        td.dim {
+          color: $dim-foreground;
+        }
 
-tr.dim {
-  background-color: rgba(226, 228, 229, 0.5);
-}
+        &:nth-child(even) {
+          background-color: $emphasize-bg-current;
+        }
 
-tr.current td,
-tr.current a {
-  font-weight: bold;
+        &.current {
+          a,
+          td {
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
