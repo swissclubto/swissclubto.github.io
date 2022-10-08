@@ -14,14 +14,7 @@ $dim-foreground: rgba(34, 40, 49, 0.44);
 div.calendar {
   display: grid;
   gap: 15px;
-
-  @media screen and (min-width: 500px) {
-	grid-template-columns: repeat(2, 1fr);
-  }
-
-  @media screen and (min-width: 750px) {
-	grid-template-columns: repeat(3, 1fr);
-  }
+  grid-template-columns: repeat(auto-fill, minmax(13.5em, 1fr));
 }
 
 div.monthcard {
