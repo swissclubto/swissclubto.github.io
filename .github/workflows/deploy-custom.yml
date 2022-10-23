@@ -30,16 +30,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2.1.1
 
-      - name: Check setup
-        run: tree
-
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --verbose
-
-      - name: Check result
-        run: tree
 
 #     - name: Upload artifact
 #       uses: actions/upload-pages-artifact@v1.0.4
