@@ -28,14 +28,12 @@ jobs:
           bundler-cache: true
 
       - name: Setup Pages
-        id: pages
         uses: actions/configure-pages@v2.1.1
 
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
-          basepath: ${{ steps.pages.outputs.base_path }}
-        run: bundle exec jekyll build --baseurl "$basepath"
+        run: bundle exec jekyll build
 
       - name: Check result
         run: tree
