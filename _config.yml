@@ -103,6 +103,8 @@ include:
 exclude:
   - .mailmap
   - CNAME
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - node_modules
