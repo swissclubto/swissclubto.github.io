@@ -30,6 +30,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2.1.1
 
+      - name: Check setup
+        run: tree
+
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
