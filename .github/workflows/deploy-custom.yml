@@ -29,13 +29,10 @@ jobs:
           ruby-version: 2.7.4
           bundler-cache: true
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v2.1.1
-
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
-        run: bundle exec jekyll build --verbose
+        run: bundle exec jekyll build --verbose --baseurl ''
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1.0.4
