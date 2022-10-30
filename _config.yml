@@ -1,8 +1,10 @@
-# Plugins that aren't enabled in github-pages by default
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jemoji
 
