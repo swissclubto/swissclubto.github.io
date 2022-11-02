@@ -104,6 +104,7 @@ include:
   - _pages
 exclude:
   - .mailmap
+  - .ruby-version
   - CNAME
   - Gemfile
   - Gemfile.lock

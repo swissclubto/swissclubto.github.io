@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby File.read(".ruby-version").strip
+
 gem "jekyll", "= 3.9.2"
 gem "jekyll-feed", "= 0.15.1"
 gem "jekyll-include-cache", "= 0.2.1"
