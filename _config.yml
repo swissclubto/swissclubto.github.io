@@ -103,6 +103,7 @@ footer:
 include:
   - _pages
 exclude:
+  - .github/
   - .mailmap
   - .ruby-version
   - CNAME
