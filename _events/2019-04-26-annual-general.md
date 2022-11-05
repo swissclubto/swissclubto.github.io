@@ -19,7 +19,7 @@ for your review:
 If you would like more information, please contact us at
 <info@swissclubtoronto.ca>.
 
-[agenda]: </assets/pdf/2019-04-26-agm-agenda.pdf>
-[minutes]: </assets/pdf/2019-04-26-agm-2018-minutes.pdf>
-[bylaws]: </assets/pdf/2019-04-26-agm-by-laws.pdf>
-[proxy]: </assets/pdf/2019-04-26-agm-proxy.pdf>
+[agenda]: <{% link /assets/pdf/2019-04-26-agm-agenda.pdf %}>
+[minutes]: <{% link /assets/pdf/2019-04-26-agm-2018-minutes.pdf %}>
+[bylaws]: <{% link /assets/pdf/2019-04-26-agm-by-laws.pdf %}>
+[proxy]: <{% link /assets/pdf/2019-04-26-agm-proxy.pdf %}>

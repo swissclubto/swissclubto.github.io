@@ -11,7 +11,7 @@ last_modified_at: 2022-06-19
 date: 2018-08-28
 ---
 
-![Diccon Bewes](/assets/images/2018-08-28-diccon-bewes.jpg){: .align-right}
+![Diccon Bewes]({% link /assets/images/2018-08-28-diccon-bewes.jpg %}){: .align-right}
 
 The Swiss Club Toronto is honoured to partner with the Toronto Public Library
 in hosting a lecture by Diccon Bewes, author of "Swiss Watching" and "Slow

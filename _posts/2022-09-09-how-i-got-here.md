@@ -50,4 +50,4 @@ Gen Zs who explore their (in our case, Swiss) origins:
 
 Antony is reachable at <casting@forte-entertainment.com>.
 
-![How I got here flyer](/assets/images/2022-09-09-how-i-got-here.jpg)
+![How I got here flyer]({% link /assets/images/2022-09-09-how-i-got-here.jpg %})

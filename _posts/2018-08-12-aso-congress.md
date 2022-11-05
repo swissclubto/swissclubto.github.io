@@ -15,6 +15,11 @@ figure:
     (Toronto), Silvia Schoch & Heidi Lussi (BC, Alberta & Northern Canada)
 ---
 
+{% include figure
+  image_path=page.figure.image_path alt=page.figure.alt caption=page.figure.caption
+-%}
+{: .full}
+
 Dear Members of the Swiss Club Toronto,
 
 As your Delegate for Ontario and Central Canada, I participated in the
@@ -62,8 +67,3 @@ Florence Pasche Guignard, OSA Delegate for Ontario and Central Canada
 > Thank you very much for your support.
 
 [ev]: <https://www.evoting2021.ch>
-
-{% include figure
-  image_path=page.figure.image_path alt=page.figure.alt caption=page.figure.caption
--%}
-{: .full}

@@ -18,5 +18,5 @@ Note this form is in PDF format. A free viewer can be downloaded
 [here][acrobat].
 
 [register]: <https://www.swissbiz.ca/event_details.php?id=90>
-[form]: <http://swissclubtoronto.ca/wp-content/uploads/2015/03/Sponsorship-Package-2015.pdf>
+[form]: <{% link /assets/pdf/2015-06-09-sponsorship.pdf %}>
 [acrobat]: <https://www.adobe.com/ca/acrobat/pdf-reader.html>

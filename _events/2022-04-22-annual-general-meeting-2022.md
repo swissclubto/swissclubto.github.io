@@ -32,10 +32,12 @@ two COVID vaccination shots. We thank you for your understanding.
 
 **Please RSVP by Wednesday April 13th** to attend this event:
 
-* By email to Nadia
-* By phone to Heidy
+- By email to Nadia
+- By phone to Heidy
 
 Additional documents:
 
-* [Minutes of the 2019 annual general meeting](/assets/pdf/2022-04-22-agm-2019-minutes.pdf)
-* [Proxy form](/assets/pdf/2022-04-22-agm-proxy.pdf) for those who can't attend themselves
+- [Minutes of the 2019 annual general meeting]({% link
+  /assets/pdf/2022-04-22-agm-2019-minutes.pdf %})
+- [Proxy form]({% link /assets/pdf/2022-04-22-agm-proxy.pdf %}) for those who
+  can't attend themselves

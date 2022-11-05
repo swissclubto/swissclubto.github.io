@@ -52,5 +52,5 @@ form][form].
 Please note the form is in PDF/Acrobat format. A free reader is available
 [here][acrobat].
 
-[form]: </assets/pdf/2018-04-20-agm-notice.pdf>
+[form]: <{% link /assets/pdf/2018-04-20-agm-notice.pdf %}>
 [acrobat]: <https://www.adobe.com/ca/acrobat/pdf-reader.html>

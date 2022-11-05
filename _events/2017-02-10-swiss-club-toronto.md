@@ -39,4 +39,4 @@ Please RSVP Monika Rüber (membership chairperson).
 If you are not able to attend and wish to vote by proxy please download and
 print [this form][form].
 
-[form]: </assets/pdf/2017-02-10-proxy-form.pdf>
+[form]: <{% link /assets/pdf/2017-02-10-proxy-form.pdf %}>

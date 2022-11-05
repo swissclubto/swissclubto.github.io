@@ -11,7 +11,7 @@ last_modified_at: 2022-06-26
 date: 2022-01-01
 ---
 
-![Map for meeting location](/assets/images/2022-01-01-dip-map.jpg)
+![Map for meeting location]({% link /assets/images/2022-01-01-dip-map.jpg %})
 
 Hi everyone! The Swiss Club is participating in a Polar Bear Dip in Lake
 Ontario to raise money for the association, BOOST.

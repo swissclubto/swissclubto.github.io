@@ -20,7 +20,7 @@ you!
 - Arno Sigrist • [416-493-8025][tel3] • <arno.s@sympatico.ca>
 - Sascha Frassini • [905-821-2392][tel4] • <frassini@rogers.com>
 
-[website]: <https://www.canadysli.com>
+[website]: <{{ page.web_url }}>
 [tel1]: <tel:416-385-0856>
 [tel2]: <tel:416-445-4609>
 [tel3]: <tel:416-493-8025>

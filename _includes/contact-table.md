@@ -8,7 +8,7 @@
 | - | ---------------- | ---- | ----- |
 {% for name in site.data.officers[include.type] -%}
   {%- assign member = site.data.people[name] -%}
-  | ![{{ member.name }}]({{ member.image_url }}){: style="min-width: 60px"} |
+  | ![{{ member.name }}]({% link {{ member.image_url }} %}){: style="min-width: 60px"} |
     {%- case include.type -%}
     {%- when "board" -%}
       {{ member.position }} | {{ member.name }} | <{{ member.email }}> |

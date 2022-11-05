@@ -17,7 +17,7 @@ possible---playing golf! Join us for the
 
 **SCCC/BCCTC Golf Tournament**
 
-![SCCC logo](/assets/images/2018-06-13-golf-logo.jpg)
+![SCCC logo]({% link /assets/images/2018-06-13-golf-logo.jpg %})
 
 Enjoy artisanal beer, courtesy of [Collective Arts Brewing][cab], the original
 flavours of Mackie’s of Scotland Potato Crisps, [Caotina] (the Swiss chocolate

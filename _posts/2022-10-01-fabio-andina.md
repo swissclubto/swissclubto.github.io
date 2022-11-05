@@ -4,7 +4,7 @@ author: Swiss Club Toronto
 last_modified_at: 2022-10-01
 ---
 
-![Fabio Andina and Guido Catalano](/assets/images/2022-10-01-fabio-andina.jpg)
+![Fabio Andina and Guido Catalano]({% link /assets/images/2022-10-01-fabio-andina.jpg %})
 
 As part of Italian Language Week celebrations, the Swiss Representations in
 Canada present a [literary tour][tour] of Swiss Ticinese author [Fabio
