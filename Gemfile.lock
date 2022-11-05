@@ -100,7 +100,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-include-cache
-  jekyll-paginate (= 1.1.0)
+  jekyll-paginate
   jekyll-redirect-from
   jekyll-remote-theme
   jekyll-sitemap
