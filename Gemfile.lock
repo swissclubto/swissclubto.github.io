@@ -104,7 +104,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-remote-theme (= 0.4.3)
   jekyll-sitemap
-  jemoji (= 0.12.0)
+  jemoji
 
 RUBY VERSION
    ruby 3.1.2p20
