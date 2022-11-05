@@ -106,15 +106,8 @@ exclude:
   - .mailmap
   - .ruby-version
   - CNAME
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
 
 # Outputting
 paginate: 5
