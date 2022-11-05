@@ -103,7 +103,7 @@ DEPENDENCIES
   jekyll-paginate (= 1.1.0)
   jekyll-redirect-from
   jekyll-remote-theme (= 0.4.3)
-  jekyll-sitemap (= 1.4.0)
+  jekyll-sitemap
   jemoji (= 0.12.0)
 
 RUBY VERSION
