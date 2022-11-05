@@ -99,7 +99,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
-  jekyll-include-cache (= 0.2.1)
+  jekyll-include-cache
   jekyll-paginate (= 1.1.0)
   jekyll-redirect-from (= 0.16.0)
   jekyll-remote-theme (= 0.4.3)

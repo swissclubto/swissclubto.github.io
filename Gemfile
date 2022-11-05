@@ -4,7 +4,7 @@ ruby File.read(".ruby-version").strip
 
 gem "jekyll"
 gem "jekyll-feed"
-gem "jekyll-include-cache", "= 0.2.1"
+gem "jekyll-include-cache"
 gem "jekyll-paginate", "= 1.1.0"
 gem "jekyll-redirect-from", "= 0.16.0"
 gem "jekyll-remote-theme", "= 0.4.3"
