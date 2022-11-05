@@ -101,7 +101,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-include-cache
   jekyll-paginate (= 1.1.0)
-  jekyll-redirect-from (= 0.16.0)
+  jekyll-redirect-from
   jekyll-remote-theme (= 0.4.3)
   jekyll-sitemap (= 1.4.0)
   jemoji (= 0.12.0)
