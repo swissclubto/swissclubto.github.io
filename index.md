@@ -24,7 +24,7 @@ feature_row1:
       Check out our events list and join us at some or all of the events. We
       sponsor a variety of fun activities from our traditional annual theatre
       performance to the always-popular 1st of August celebration.
-    url: /events/2022/
+    url: /events/
     btn_class: btn--primary
   - image_path: /assets/images/tell-tale-teaser.jpg
     image_caption: 1960s newsletter
