@@ -31,6 +31,8 @@ membership:
 events:
   - title: Events archive
     children:
+      - title: 2023 events
+        url: /events/2023/
       - title: 2022 events
         url: /events/2022/
       - title: 2021 events
