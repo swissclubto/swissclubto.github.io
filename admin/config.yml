@@ -158,6 +158,9 @@ collections:
       preview: false
     summary: '{{year}}-{{month}}-{{day}} | {{title}}'
     view_filters:
+      - label: '2023'
+        field: date
+        pattern: '2023'
       - label: '2022'
         field: date
         pattern: '2022'
