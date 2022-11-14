@@ -111,6 +111,8 @@ exclude:
   - README.md
 
 # Outputting
+kramdown:
+  entity_output: :as_input
 paginate: 5
 paginate_path: /news/page:num/
 permalink: pretty
