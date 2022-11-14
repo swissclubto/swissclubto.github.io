@@ -15,6 +15,7 @@ Cocktails 7:00 PM • Dinner 8:00 PM
 
 Black Tie • RSVP by November 3
 
-Contact: <sccc@swissbiz.ca> or call [416-236-0039][phone] for reservations.
+Contact: {% include email.html addr="sccc@swissbiz.ca" %} or call
+[416-236-0039][phone] for reservations.
 
 [phone]: <tel:416-236-0039>

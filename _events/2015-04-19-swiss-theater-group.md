@@ -15,6 +15,6 @@ date: 2015-04-19
 ---
 
 Contact Walter Brunner or Maggie Hess, [905-508-8014][tel] or
-<walter.brunner@sympatico.ca>.
+{% include email.html addr="walter.brunner@sympatico.ca" %}.
 
 [tel]: <tel:905-508-8014>

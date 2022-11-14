@@ -7,6 +7,7 @@ last_modified_at: 2022-06-12
 date: 2016-01-30
 ---
 
-Contact Jean-Marc Velen, [416-488-6493][tel] or <velenglish@rogers.com>.
+Contact Jean-Marc Velen, [416-488-6493][tel] or {% include email.html
+addr="velenglish@rogers.com" %}.
 
 [tel]: <tel:416-488-6493>

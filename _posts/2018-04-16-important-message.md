@@ -31,8 +31,8 @@ the competent authorities in Switzerland, your request for a passport renewal
 will regretfully not be considered.
 
 Should you wish to receive further information about our consular services,
-please visit our website or send an e-mail to
-[mon.vertretung@eda.admin.ch][email].
+please visit our website or send an e-mail to {% include email.html
+addr="mon.vertretung@eda.admin.ch" %}.
 
 Yours sincerely,
 
@@ -40,4 +40,3 @@ Yours sincerely,
 
 [pass1]: <http://www.schweizerpass.ch>
 [pass2]: <http://www.passeportsuisse.ch>
-[email]: <mailto:mon.vertretung@eda.admin.ch>

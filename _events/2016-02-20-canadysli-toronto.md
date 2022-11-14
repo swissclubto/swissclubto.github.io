@@ -14,10 +14,10 @@ For more info, check our [website].
 Or give one of us a call or send an e-mail, we look forward to hearing from
 you!
 
-- Philippe Moser • [416-385-0856][tel1] • <pmoser@rogers.com>
-- Heiri Schurmann • [416-445-4609][tel2] • <henryscryo@gmail.com>
-- Arno Sigrist • [416-493-8025][tel3] • <arno.s@sympatico.ca>
-- Sascha Frassini • [905-821-2392][tel4] • <frassini@rogers.com>
+- Philippe Moser • [416-385-0856][tel1] • {% include email.html addr="pmoser@rogers.com" %}
+- Heiri Schurmann • [416-445-4609][tel2] • {% include email.html addr="henryscryo@gmail.com" %}
+- Arno Sigrist • [416-493-8025][tel3] • {% include email.html addr="arno.s@sympatico.ca" %}
+- Sascha Frassini • [905-821-2392][tel4] • {% include email.html addr="frassini@rogers.com" %}
 
 [website]: <{{ page.web_url }}>
 [tel1]: <tel:416-385-0856>

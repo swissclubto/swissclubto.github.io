@@ -9,6 +9,7 @@ last_modified_at: 2022-06-11
 date: 2015-01-24
 ---
 
-RSVP to Jean-Marc Velen, [416-488-6493][tel], <velenglish@rogers.com>.
+RSVP to Jean-Marc Velen, [416-488-6493][tel], {% include email.html
+addr="velenglish@rogers.com" %}.
 
 [tel]: <tel:416-488-6493>

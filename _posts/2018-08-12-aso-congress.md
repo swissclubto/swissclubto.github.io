@@ -44,7 +44,7 @@ in support of e-voting (see below). Many thanks for your support!
 
 Florence Pasche Guignard, OSA Delegate for Ontario and Central Canada
 
-<aso_delegate@fpg.bio>
+{% include email.html addr="aso_delegate@fpg.bio" %}
 
 > Dear compatriots,
 >

@@ -6,4 +6,5 @@ last_modified_at: 2022-06-11
 date: 2015-01-25
 ---
 
-Contact Albert Lenz, <albert.lenz@swissclubtoronto.ca>.
+Contact Albert Lenz, {% include email.html
+addr="albert.lenz@swissclubtoronto.ca" %}.

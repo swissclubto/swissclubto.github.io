@@ -11,7 +11,8 @@ date: 2015-03-08
 
 Limited tickets are available.
 
-Contact Paula Rico at [416-652-9067][tel] or by e-mail <paulajrico@gmail.com>.
+Contact Paula Rico at [416-652-9067][tel] or by e-mail {% include email.html
+addr="paulajrico@gmail.com" %}.
 
 Pay by cheque made out to Paula Rico (not Swiss Club women’s section) and mail
 to:

@@ -16,8 +16,8 @@ for your review:
 - Proposed [by-law changes][bylaws] (in PDF format)
 - [Proxy form][proxy] (for those who cannot attend, but would like to vote)
 
-If you would like more information, please contact us at
-<info@swissclubtoronto.ca>.
+If you would like more information, please contact us at {% include email.html
+addr="info@swissclubtoronto.ca" %}.
 
 [agenda]: <{% link /assets/pdf/2019-04-26-agm-agenda.pdf %}>
 [minutes]: <{% link /assets/pdf/2019-04-26-agm-2018-minutes.pdf %}>

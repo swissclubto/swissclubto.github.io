@@ -36,4 +36,5 @@ Swissinfo is looking for short videos from Swiss abroad:
 >
 > SRG - SRG
 
-Jan's email address is <Jancamenzindbroomby@outlook.com>.
+Jan's email address is {% include email.html
+addr="Jancamenzindbroomby@outlook.com" %}.

@@ -15,7 +15,8 @@ Open to all Swiss club members.
 
 Deadline for reservations is May 25.
 
-Contact Paula Rico at [416-652-9067][tel] or by e-mail <paulajrico@gmail.com>.
+Contact Paula Rico at [416-652-9067][tel] or by e-mail {% include email.html
+addr="paulajrico@gmail.com" %}.
 
 Please send cheque to:
 

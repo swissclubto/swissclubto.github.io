@@ -10,7 +10,7 @@ web_url_name: Fogolars Country Club
 date: 2015-08-15
 ---
 
-To register teams, contact Suzi Hubler, [416-534-514][tel] or
-<suzihu@yahoo.com>.
+To register teams, contact Suzi Hubler, [416-534-514][tel] or {% include
+email.html addr="suzihu@yahoo.com" %}.
 
 [tel]: <tel:416-534-514>

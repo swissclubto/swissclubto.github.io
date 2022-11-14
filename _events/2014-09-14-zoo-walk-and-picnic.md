@@ -13,8 +13,9 @@ last_modified_at: 2022-06-19
 date: 2014-09-14
 ---
 
-Please RSVP with Denise Frassini at [905-821-2392][phone] or
-<denise.frassini@swissclubtoronto.ca> by August 31, 2014 at the latest.
+Please RSVP with Denise Frassini at [905-821-2392][phone] or {% include
+email.html addr="denise.frassini@swissclubtoronto.ca" %} by August 31, 2014 at
+the latest.
 
 We meet at the entrance, 11 AM promptly.
 {: .notice--info}

@@ -11,4 +11,4 @@ last_modified_at: 2022-06-20
 date: 2018-11-06
 ---
 
-RSVP to <mon.newsletter@eda.admin.ch> required.
+RSVP to {% include email.html addr=page.contact.email %} required.

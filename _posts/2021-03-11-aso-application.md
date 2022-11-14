@@ -43,9 +43,10 @@ that represented during the current legislature, they lose their seat.
   Swiss citizen and that I am registered at our local Swiss consulate for
   elections and votes in Switzerland (yes/no)
 
-For any questions regarding the role and duties please contact Bruno Setz
-(<brunosetz@videotron.ca>), former OSA Delegate from Montreal and Election
-Coordinator for Eastern Canada. If you are interested in applying, please email
-Bruno Setz or the Club at <info@swissclubtoronto.ca>.
+For any questions regarding the role and duties please contact Bruno Setz ({%
+include email.html addr="brunosetz@videotron.ca" %}), former OSA Delegate from
+Montreal and Election Coordinator for Eastern Canada. If you are interested in
+applying, please email Bruno Setz or the Club at {% include email.html
+addr="info@swissclubtoronto.ca" %}.
 
 [sc]: <https://www.swisscommunity.org>

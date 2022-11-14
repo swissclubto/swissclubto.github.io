@@ -17,7 +17,7 @@ William Tell by Gioachino Rossini.
 The musical presentation---Opera in concert by the Turin Royal Theatre
 Orchestra and Chorus in Italian with English subtitles.
 
-Order your tickets from Sonja Good ([416-922-7532][tel],
-<gordonandsonja@rogers.com>).
+Order your tickets from Sonja Good ([416-922-7532][tel], {% include email.html
+addr="gordonandsonja@rogers.com" %}).
 
 [tel]: <tel:416-922-7532>

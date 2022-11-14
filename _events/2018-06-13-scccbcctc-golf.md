@@ -41,7 +41,7 @@ auction.
 - Click [here][sponsor] to sign up for a sponsorship package
 
 For more information, visit our [website][register] or contact
-[416-236-0039][tel] / <sccc.ontario@gmail.com>.
+[416-236-0039][tel] / {% include email.html addr="sccc.ontario@gmail.com" %}.
 
 [cab]: <https://collectiveartsbrewing.com/>
 [caotina]: <https://www.caotina.com/en/about-us>

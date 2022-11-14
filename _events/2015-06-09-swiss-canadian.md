@@ -8,7 +8,7 @@ last_modified_at: 2022-06-11
 date: 2015-06-09
 ---
 
-Contact: <sccc@swissbiz.ca>
+Contact: {% include email.html addr="sccc@swissbiz.ca" %}
 
 Please click [here][register] to sign up.
 

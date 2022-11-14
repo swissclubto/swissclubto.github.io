@@ -13,8 +13,9 @@ date: 2014-10-08
 The film *Summer Games (Giochi d'estate)* by Swiss director Rolando Colla is
 shown at the Italian Cultural Institute.
 
-Please reserve seats through the Italian Cultural Institute via
-<info.iictoronto@esteri.it> or [416-921-3802 ext. 221][phone].
+Please reserve seats through the Italian Cultural Institute via {% include
+email.html addr="info.iictoronto@esteri.it" %} or [416-921-3802 ext.
+221][phone].
 
 A complimentary glass of wine will be offered by the CG following the
 screening.

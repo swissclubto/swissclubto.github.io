@@ -13,7 +13,7 @@ Come and join us on December 5th (Saturday) at 4pm in the Distillery District
 (at the entrance) for a stroll through the Christmas market and a tea or coffee
 afterwards.
 
-Contact Denise Frassini, [905-821-2392][tel] or
-<Denise.Frassini@swissclubtoronto.ca>.
+Contact Denise Frassini, [905-821-2392][tel] or {% include email.html
+addr="Denise.Frassini@swissclubtoronto.ca" %}.
 
 [tel]: <tel:905-821-2392>

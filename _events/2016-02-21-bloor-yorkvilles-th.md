@@ -12,7 +12,7 @@ Annual Icefest!
 
 We meet in front of the Nespresso Boutique Bar on 159 Cumberland Street.
 
-Contact: Denise Frassini ([905-821-2392][tel],
-<Denise.Frassini@swissclubtoronto.ca>).
+Contact: Denise Frassini ([905-821-2392][tel], {% include email.html
+addr="denise.frassini@swissclubtoronto.ca" %}).
 
 [tel]:<tel:905-821-2392>

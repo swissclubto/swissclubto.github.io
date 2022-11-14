@@ -48,6 +48,7 @@ Gen Zs who explore their (in our case, Swiss) origins:
 > <small>FORTÉ Entertainment</small>\
 > <small>Toronto, Ontario, CAN</small>
 
-Antony is reachable at <casting@forte-entertainment.com>.
+Antony is reachable at {% include email.html
+addr="casting@forte-entertainment.com" %}.
 
 ![How I got here flyer]({% link /assets/images/2022-09-09-how-i-got-here.jpg %})

@@ -18,7 +18,8 @@ just a great get-together. There will also be a magician for the kids.
 
 Please RSVP: Denise Frassini / Entertainment Director / Swiss Club Toronto
 
-Phone: [905-821-2392][tel] or email: <denise.frassini@swissclubtoronto.ca>
+Phone: [905-821-2392][tel] or email: {% include email.html
+addr="denise.frassini@swissclubtoronto.ca" %}
 
 Deadline is November 25th, 2014.
 

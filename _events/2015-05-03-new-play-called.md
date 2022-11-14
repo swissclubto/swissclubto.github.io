@@ -8,7 +8,7 @@ last_modified_at: 2022-06-11
 date: 2015-05-03
 ---
 
-Contact Paula Rico at [416-652-9067][tel] or by e-mail
-<paula.rico@swissclubtoronto.ca>.
+Contact Paula Rico at [416-652-9067][tel] or by e-mail {% include email.html
+addr="paula.rico@swissclubtoronto.ca" %}.
 
 [tel]: <tel:416-652-9067>

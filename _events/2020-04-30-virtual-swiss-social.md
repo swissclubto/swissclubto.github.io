@@ -17,7 +17,7 @@ Due to the Covid-19 pandemic, we've moved our monthly Swiss Social to the
 online world.
 
 Join our [new private Facebook group][fb] to get the connection information or
-email us at <info@swissclubtoronto.ca>.
+email us at {% include email.html addr="info@swissclubtoronto.ca" %}.
 
 This event is open to all, and is a chance to meet and mingle with the Swiss
 community in Toronto.
