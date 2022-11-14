@@ -1,0 +1,36 @@
+{%- if include.type == "board" -%}
+  {%- assign col_header = "Position" -%}
+{%- elsif include.type == "sections" -%}
+  {%- assign col_header = "Section" -%}
+{%- endif -%}
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>{{ col_header }}</th>
+      <th>Name</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for name in site.data.officers[include.type] -%}
+    {%- assign member = site.data.people[name] -%}
+    <tr>
+      <td>
+        <img src="{% link {{ member.image_url }} %}"
+          alt="{{ member.name }}" 
+          style="min-width: 60px" />
+      </td>
+      {%- case include.type -%}
+      {%- when "board" %}
+      <td>{{ member.position }}</td>
+      {%- when "sections" %}
+      <td>{{ member.section }}</td>
+      {%- endcase %}
+      <td>{{ member.name }}</td>
+      <td>{% include email.html addr=member.email %}</td>
+    </tr>
+    {%- endfor %}
+  </tbody>
+</table>

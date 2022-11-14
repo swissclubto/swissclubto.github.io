@@ -10,8 +10,8 @@ classes: wide
 
 ## Board members
 
-{% include contact-table.md type="board" %}
+{% include contact-table.html type="board" %}
 
 ## Section heads
 
-{% include contact-table.md type="sections" %}
+{% include contact-table.html type="sections" %}
