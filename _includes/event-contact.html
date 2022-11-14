@@ -13,7 +13,7 @@
 {%- endif -%}
 {%- if contact.email -%}
   <i class="fas fa-envelope"></i>
-  <a href="mailto:{{ contact.email }}">{{ contact.email }}</a><br>
+  {% include email.html addr=contact.email %}<br>
 {%- endif -%}
 {%- if contact.tel -%}
   <i class="fas fa-phone"></i>
