@@ -1,6 +1,7 @@
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-redirect-from
