@@ -6,7 +6,6 @@ start_time: 1 pm
 contact: Arno
 cost: |
   Free for members of the Swiss Club and Swiss Canadian Chamber of Commerce
-last_modified_at: 2022-10-22
 date: 2022-10-29
 ---
 

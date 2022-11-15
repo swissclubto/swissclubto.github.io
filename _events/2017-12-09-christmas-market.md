@@ -5,7 +5,6 @@ address: 55 Mill St, Toronto, ON M5A 3C4
 start_time: 5:00 pm
 end_time: 8:00 pm
 contact: Denise
-last_modified_at: 2022-06-26
 date: 2017-12-09
 ---
 

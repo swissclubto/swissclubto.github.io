@@ -1,7 +1,6 @@
 ---
 title: Canadysli practice
 author: Swiss Club Toronto
-last_modified_at: 2022-10-29
 ---
 
 Our friends at the [Canadysli Toronto Guggemusig Band][canadysli] are starting

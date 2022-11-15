@@ -8,7 +8,6 @@ contact: Paula
 cost: |
   $45 members
   $50 non-members
-last_modified_at: 2022-07-10
 date: 2016-08-28
 ---
 

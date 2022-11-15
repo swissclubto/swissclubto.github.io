@@ -8,7 +8,6 @@ end_time: 8:30 pm
 web_url: http://2018.cinefranco.com/en/component/k2/item/513
 web_url_name: Cinéfranco
 cost: $10&ndash;$12
-last_modified_at: 2022-06-19
 date: 2018-10-12
 ---
 

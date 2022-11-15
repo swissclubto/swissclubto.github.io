@@ -6,7 +6,6 @@ address: 5244 Steeles Ave W, Milton, ON L9T 2Y1
 start_time: 1:00 pm
 end_time: 5:00 pm
 contact: Arno
-last_modified_at: 2022-06-19
 date: 2018-06-23
 ---
 

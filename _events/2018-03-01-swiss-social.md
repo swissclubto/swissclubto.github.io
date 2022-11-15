@@ -7,7 +7,6 @@ start_time: 7:00 pm
 end_time: 10:00 pm
 contact: Nadia
 cost: $40
-last_modified_at: 2022-06-19
 date: 2018-03-01
 ---
 

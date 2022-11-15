@@ -6,7 +6,6 @@ teaser: /assets/images/2019-05-11-blossom-teaser.jpg
 cost: |
   Swiss Club Toronto members: $75
   Guests: $82
-last_modified_at: 2022-07-09
 date: 2019-05-11
 ---
 

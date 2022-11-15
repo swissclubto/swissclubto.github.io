@@ -9,7 +9,6 @@ teaser: /assets/images/2019-06-07-woodbine-teaser.jpg
 cost: |
   Swiss Club members: $42
   Non-members: $52
-last_modified_at: 2022-07-09
 date: 2019-06-07
 ---
 

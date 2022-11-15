@@ -8,7 +8,6 @@ contact:
   name: Peter Schürmann
   email: pschurmann@rogers.com
 teaser: /assets/images/2022-09-17-csa-teaser.jpg
-last_modified_at: 2022-09-04
 date: 2022-09-17
 ---
 

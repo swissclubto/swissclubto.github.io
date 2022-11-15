@@ -4,7 +4,6 @@ location: Estonian House
 address: 958 Broadview Avenue, East York, ON M4K 2R6
 start_time: 2:00 pm
 end_time: 6:00 pm
-last_modified_at: 2022-06-19
 cost: |
   Members: $15
   Non-members: $20

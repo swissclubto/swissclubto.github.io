@@ -11,7 +11,6 @@ cost: |
   Children: free
 contact: Walter
 teaser: /assets/images/2017-04-30-theatre-teaser.png
-last_modified_at: 2022-06-26
 date: 2017-04-30
 ---
 

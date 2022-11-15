@@ -10,7 +10,6 @@ cost: |
   Non-members: $20
   Youth: $10
   Children: free
-last_modified_at: 2022-06-19
 date: 2019-04-28
 ---
 

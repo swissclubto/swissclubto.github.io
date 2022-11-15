@@ -1,7 +1,6 @@
 ---
 title: Swiss National Day celebration 2018
 author: Thomas Guignard
-last_modified_at: 2022-05-23
 header:
   teaser: /assets/images/2018-08-31-national-day-01-th.jpg
 gallery:

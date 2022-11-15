@@ -6,7 +6,6 @@ start_time: 7:00 pm
 end_date: 2017-01-29
 end_time: 1:00 am
 contact: Jean-Marc
-last_modified_at: 2022-06-26
 date: 2017-01-28
 ---
 

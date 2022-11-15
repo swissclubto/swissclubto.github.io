@@ -5,7 +5,6 @@ address: 33 Gerrard St W, Toronto
 contact: Arno
 teaser: /assets/images/2018-06-17-soccer-teaser.jpg
 date: 2022-12-02
-last_modified_at: 2022-11-12
 ---
 
 :warning: We've lost the room and currently don't think we'll be able to host a

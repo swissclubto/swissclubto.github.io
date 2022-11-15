@@ -6,7 +6,6 @@ contact: Jean-Marc
 start_time: 7:00 pm
 end_time: 10:00 pm
 teaser: /assets/images/2020-01-25-amicale-teaser.jpg
-last_modified_at: 2022-07-09
 date: 2019-01-26
 ---
 

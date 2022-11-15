@@ -1,7 +1,6 @@
 ---
 title: Report from the 2022 ASO Congress in Lugano
 author: Swiss Club Toronto
-last_modified_at: 2022-09-20
 ---
 
 A delegation of six representatives of the Swiss in Canada---including our own

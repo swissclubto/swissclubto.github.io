@@ -7,7 +7,6 @@ web_url: https://www.facebook.com/events/1521302531358930
 web_url_name: Facebook event
 teaser: /assets/images/2020-03-26-pub-teaser.jpg
 start_time: 6:00 pm
-last_modified_at: 2022-07-09
 date: 2020-03-26
 ---
 

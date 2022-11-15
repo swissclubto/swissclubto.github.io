@@ -6,7 +6,6 @@ start_time: T10:30
 contact: Denise
 web_url: https://www.torontozoo.com
 web_url_name: Toronto Zoo
-last_modified_at: 2022-07-09
 date: 2016-09-10
 ---
 

@@ -7,7 +7,6 @@ end_time: 11:00 pm
 contact: Monika
 web_url: https://www.chelseatoronto.com/en
 web_url_name: Chelsea Hotel Toronto
-last_modified_at: 2022-06-19
 date: 2018-04-20
 ---
 

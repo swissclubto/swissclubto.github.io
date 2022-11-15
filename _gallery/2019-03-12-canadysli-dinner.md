@@ -1,7 +1,6 @@
 ---
 title: Canadysli dinner and dance 2019
 author: Swiss Club Toronto
-last_modified_at: 2022-05-24
 header:
   teaser: /assets/images/2019-03-12-canadysli-dinner-002-th.jpg
 gallery:

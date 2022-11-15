@@ -7,7 +7,6 @@ start_time: 7:00 pm
 end_time: 9:00 pm
 web_url: https://www.facebook.com/events/172062076737939/
 web_url_name: Facebook event
-last_modified_at: 2022-06-19
 date: 2018-04-26
 ---
 

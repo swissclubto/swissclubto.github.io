@@ -7,7 +7,6 @@ web_url: https://www.facebook.com/events/2805490403005064
 web_url_name: Facebook event
 contact: Charlotte
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
-last_modified_at: 2022-06-26
 date: 2021-03-25
 ---
 

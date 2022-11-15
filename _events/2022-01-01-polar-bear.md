@@ -7,7 +7,6 @@ web_url_name: Facebook event
 start_time: 11:30 am
 end_time: 1:30 pm
 contact: Charlotte
-last_modified_at: 2022-06-26
 date: 2022-01-01
 ---
 

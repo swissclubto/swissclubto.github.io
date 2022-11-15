@@ -9,7 +9,6 @@ cost: |
   $24.35 for adults
   $15.65 for children
   $17.40 for seniors
-last_modified_at: 2022-06-19
 date: 2014-09-14
 ---
 

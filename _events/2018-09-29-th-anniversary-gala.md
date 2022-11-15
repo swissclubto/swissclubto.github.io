@@ -9,7 +9,6 @@ contact: Denise
 cost: |
   $45 (members)
   $90 (non-members)
-last_modified_at: 2022-06-19
 date: 2018-09-29
 ---
 

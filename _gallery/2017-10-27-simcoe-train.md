@@ -1,7 +1,6 @@
 ---
 title: South Simcoe train ride 2017
 author: Swiss Club Toronto
-last_modified_at: 2022-05-23
 header:
   teaser: /assets/images/2017-10-27-simcoe-train-01-th.jpg
 gallery:

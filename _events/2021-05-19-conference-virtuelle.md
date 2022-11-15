@@ -7,7 +7,6 @@ web_url_name: Facebook event
 contact:
   name: La Société d'histoire de Toronto
 teaser: /assets/images/2021-05-19-conference-teaser.jpg
-last_modified_at: 2022-06-26
 date: 2021-05-19
 ---
 

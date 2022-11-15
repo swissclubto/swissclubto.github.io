@@ -1,7 +1,6 @@
 ---
 title: Swiss National Day celebration 2015
 author: Swiss Club Toronto
-last_modified_at: 2022-05-23
 header:
   teaser: /assets/images/2015-07-26-national-day-01-th.jpg
 gallery:

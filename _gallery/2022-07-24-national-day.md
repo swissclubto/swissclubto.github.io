@@ -1,6 +1,5 @@
 ---
 title: Swiss National Day celebration 2022
-last_modified_at: 2022-07-26
 header:
   teaser: /assets/images/2022-07-24-national-day-001-th.jpg
 gallery:

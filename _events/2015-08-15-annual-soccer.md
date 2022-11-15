@@ -4,7 +4,6 @@ location: Fogolars Country Club
 address: 2026 Lower Baseline Road, Oakville, ON L6M
 start_time: 9:00 am
 end_time: 6:00 pm
-last_modified_at: 2022-06-11
 web_url: https://web.archive.org/web/20150801143850/http://www.fogolarscountryclub.com/
 web_url_name: Fogolars Country Club
 date: 2015-08-15

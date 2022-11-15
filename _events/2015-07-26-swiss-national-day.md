@@ -8,6 +8,5 @@ teaser: /assets/images/2015-07-26-national-day-teaser.jpg
 cost: |
   Members & children: free
   Non-members: $10
-last_modified_at: 2022-06-19
 date: 2015-07-26
 ---

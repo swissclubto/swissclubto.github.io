@@ -8,7 +8,6 @@ start_time: 7 pm
 end_time: 9 pm
 contact: Ben
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
-last_modified_at: 2022-09-28
 date: 2022-09-29
 ---
 

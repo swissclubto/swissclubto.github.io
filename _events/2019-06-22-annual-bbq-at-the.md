@@ -5,7 +5,6 @@ start_time: 1:00 pm
 end_time: 4:00 pm
 contact: Arno
 teaser: /assets/images/2019-06-22-bbq-teaser.jpg
-last_modified_at: 2022-07-09
 date: 2019-06-22
 ---
 

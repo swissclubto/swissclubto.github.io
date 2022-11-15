@@ -3,7 +3,6 @@ title: Bloor--Yorkville’s 10th Annual Icefest
 location: Nespresso Boutique Bar
 address: 159 Cumberland St, Toronto, ON M5R
 start_time: 2:00 pm
-last_modified_at: 2022-06-12
 date: 2016-02-21
 ---
 

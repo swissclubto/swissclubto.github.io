@@ -9,7 +9,6 @@ web_url_name: Marché Brookfield Place
 cost: |
   $10 per person
   Kids are free
-last_modified_at: 2022-06-19
 date: 2014-12-06
 ---
 

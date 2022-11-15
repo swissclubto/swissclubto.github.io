@@ -8,7 +8,6 @@ start_time: 7 pm
 end_time: 8 pm
 contact: Charlotte
 teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
-last_modified_at: 2022-06-26
 date: 2021-11-25
 ---
 

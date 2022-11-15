@@ -1,7 +1,6 @@
 ---
 title: Fondue de l'Amicale Romande 2018
 author: Swiss Club Toronto
-last_modified_at: 2022-05-23
 header:
   teaser: /assets/images/2018-03-19-amicale-romande-01-th.jpg
 gallery:

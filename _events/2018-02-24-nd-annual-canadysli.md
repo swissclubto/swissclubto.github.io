@@ -9,6 +9,5 @@ contact: Philippe
 cost: |
   $45 in advance
   $50 at the door
-last_modified_at: 2022-06-19
 date: 2018-02-24
 ---

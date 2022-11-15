@@ -1,7 +1,6 @@
 ---
 title: November 2022 CSA meeting
 author: Swiss Club Toronto
-last_modified_at: 2022-11-13 20:50:30
 ---
 
 The Council of the Swiss Abroad (CSA) recently held its virtual November

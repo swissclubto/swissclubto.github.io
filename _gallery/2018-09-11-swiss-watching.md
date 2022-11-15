@@ -1,7 +1,6 @@
 ---
 title: Swiss Watching
 author: Thomas Guignard
-last_modified_at: 2022-05-24
 header:
   teaser: /assets/images/2018-09-11-swiss-watching-01-th.jpg
 gallery:

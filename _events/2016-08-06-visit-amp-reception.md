@@ -6,7 +6,6 @@ start_time: 2:00 pm
 end_time: 4:00 pm
 web_url: https://web.archive.org/web/20150304044245/https://stratfordperthheritage.ca/tavern.html
 web_url_name: Fryfogel Tavern (archive link)
-last_modified_at: 2022-06-12
 date: 2016-08-06
 ---
 

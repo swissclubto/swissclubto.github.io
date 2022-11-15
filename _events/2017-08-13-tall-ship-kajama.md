@@ -10,7 +10,6 @@ cost: |
   Non-members $42
 web_url: https://www.tallshipcruisestoronto.com/
 web_url_name: Tall Ship Cruises Toronto
-last_modified_at: 2022-06-26
 date: 2017-08-13
 ---
 

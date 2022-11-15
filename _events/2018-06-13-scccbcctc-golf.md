@@ -7,7 +7,6 @@ end_time: 9:00 pm
 cost: |
   $225 Individual
   $450 Twosome
-last_modified_at: 2022-06-19
 date: 2018-06-13
 ---
 

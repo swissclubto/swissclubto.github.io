@@ -4,7 +4,6 @@ location: The Village Playhouse
 address: 2100 Bloor Street West, Toronto, ON M6S
 start_time: 2:00 pm
 end_time: 4:00 pm
-last_modified_at: 2022-06-11
 date: 2015-05-03
 ---
 

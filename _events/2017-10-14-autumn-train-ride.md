@@ -8,7 +8,6 @@ cost: |
   Non-members $90
 web_url: https://www.steamtrain.ca/
 web_url_name: South Simcoe Railway
-last_modified_at: 2022-06-26
 date: 2017-10-14
 ---
 

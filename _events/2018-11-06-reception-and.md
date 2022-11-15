@@ -7,7 +7,6 @@ end_time: 9:00 pm
 contact:
   name: Swiss Consulate General
   email: mon.newsletter@eda.admin.ch
-last_modified_at: 2022-06-20
 date: 2018-11-06
 ---
 

@@ -9,7 +9,6 @@ web_url: https://www.swissbiz.ca/event_registration_p1.php?eid=137
 web_url_name: Event registration
 contact:
   name: Consulate of Switzerland in Toronto
-last_modified_at: 2022-06-19
 date: 2018-08-01
 ---
 

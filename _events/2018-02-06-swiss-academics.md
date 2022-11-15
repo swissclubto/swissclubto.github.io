@@ -9,7 +9,6 @@ contact: Thomas
 cost: $20
 web_url: https://ti.to/swiss-academics/left-field-brewery-tour
 web_url_name: Event website
-last_modified_at: 2022-06-19
 date: 2018-02-06
 ---
 

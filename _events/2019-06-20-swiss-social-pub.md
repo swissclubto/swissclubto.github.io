@@ -8,7 +8,6 @@ contact: Nadia
 web_url: https://www.facebook.com/events/440196683422510/
 web_url_name: Facebook event
 teaser: /assets/images/2019-06-20-pub-teaser.jpg
-last_modified_at: 2022-07-09
 date: 2019-06-20
 ---
 

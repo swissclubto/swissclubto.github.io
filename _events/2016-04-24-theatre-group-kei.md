@@ -9,7 +9,6 @@ cost: |
   Non-members: $20
   Youth: $10 (children free)
 teaser: /assets/images/2016-04-24-regel-teaser.png
-last_modified_at: 2022-06-19
 date: 2016-04-24
 ---
 

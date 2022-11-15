@@ -7,7 +7,6 @@ web_url: https://www.facebook.com/events/980403512728168/
 web_url_name: Facebook event
 contact: Charlotte
 teaser: /assets/images/2021-07-02-soccer-teaser.jpg
-last_modified_at: 2022-06-26
 date: 2021-07-02
 ---
 

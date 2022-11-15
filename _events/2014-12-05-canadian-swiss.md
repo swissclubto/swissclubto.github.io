@@ -7,7 +7,6 @@ end_time: 10:00 pm
 cost: |
   Seniors: $45.75
   Regular price: $61.00
-last_modified_at: 2022-06-19
 date: 2014-12-05
 ---
 

@@ -8,7 +8,6 @@ web_url_name: Facebook event
 start_time: 6:00 pm
 end_time: 9 pm
 teaser: /assets/images/2020-01-23-pub-teaser.jpg
-last_modified_at: 2022-06-26
 date: 2020-01-23
 ---
 

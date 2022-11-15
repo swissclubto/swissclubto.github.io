@@ -1,7 +1,6 @@
 ---
 title: Fondue de l'Amicale Romande 2020
 author: Thomas Guignard
-last_modified_at: 2022-05-22
 header:
   teaser: /assets/images/2020-01-26-amicale-romande-01-th.jpg
 gallery:

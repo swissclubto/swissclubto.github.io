@@ -7,6 +7,5 @@ start_time: 2:00 pm
 end_time: 3:00 pm
 contact: Paula
 cost: $20 for seniors
-last_modified_at: 2022-06-19
 date: 2018-03-11
 ---

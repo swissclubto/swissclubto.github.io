@@ -6,7 +6,6 @@ start_time: 10:30 am
 end_time: 2:30 pm
 contact: Denise
 teaser: /assets/images/2018-09-09-zoo-teaser.jpg
-last_modified_at: 2022-06-26
 date: 2017-09-09
 ---
 

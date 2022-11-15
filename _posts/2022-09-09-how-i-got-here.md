@@ -1,7 +1,6 @@
 ---
 title: How I Got Here---casting inquiry
 author: Swiss Club Toronto
-last_modified_at: 2022-09-09
 ---
 
 We got a casting inquiry for a show looking to accompany North-American born

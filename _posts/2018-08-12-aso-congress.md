@@ -1,7 +1,6 @@
 ---
 title: Report from the ASO congress
 author: Florence Pasche Guignard
-last_modified_at: 2022-05-23
 tag: aso
 figure:
   image_path: /assets/images/2018-08-12-aso-congress.jpg

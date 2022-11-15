@@ -8,7 +8,6 @@ end_time: 9:30 pm
 contacts:
   - Nadia
   - Heidy
-last_modified_at: 2022-07-24
 ---
 
 With things finally opening up, we are excited to announce that

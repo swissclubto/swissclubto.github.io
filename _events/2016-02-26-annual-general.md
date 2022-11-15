@@ -3,7 +3,6 @@ title: Annual general meeting 2016
 location: The Musket Restaurant, banquet room
 address: 40 Advance Rd, Etobicoke, ON M8Z 2T4
 start_time: 7:00 pm
-last_modified_at: 2022-06-12
 date: 2016-02-26
 ---
 

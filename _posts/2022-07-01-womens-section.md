@@ -1,7 +1,6 @@
 ---
 title: News from the Women's Section
 author: Paula Rico
-last_modified_at: 2022-07-01
 ---
 
 Our Kaffeeklatsches are the first Wednesday of the month at the new location,

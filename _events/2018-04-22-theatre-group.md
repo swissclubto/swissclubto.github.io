@@ -8,7 +8,6 @@ end_time: 4:00 pm
 contacts:
   - Maggie
   - Walter
-last_modified_at: 2022-07-24
 date: 2018-04-22
 ---
 

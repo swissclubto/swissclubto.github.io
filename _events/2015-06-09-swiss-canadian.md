@@ -4,7 +4,6 @@ location: King's Riding Golf Club
 address: King City, ON L7B 1K5
 web_url: https://www.swissbiz.ca/upcoming_events.php
 web_url_name: SCCC upcoming events
-last_modified_at: 2022-06-11
 date: 2015-06-09
 ---
 

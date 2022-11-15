@@ -7,7 +7,6 @@ start_time: 7:00 pm
 end_time: 9:00 pm
 contact: Thomas
 cost: Free
-last_modified_at: 2022-06-19
 date: 2018-08-28
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Lady Muskoka anniversary cruise
 author: Thomas Guignard
-last_modified_at: 2022-05-24
 header:
   teaser: /assets/images/2018-09-10-lady-muskoka-01-th.jpg
 gallery:

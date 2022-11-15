@@ -4,7 +4,6 @@ location: Egger Farms
 address: 5244 Steeles Avenue West, Milton, ON L9T 2Y1
 start_time: 1:00 pm
 end_time: 4:00 pm
-last_modified_at: 2022-06-11
 date: 2015-06-27
 ---
 

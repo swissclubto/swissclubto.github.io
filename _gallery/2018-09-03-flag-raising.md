@@ -1,7 +1,6 @@
 ---
 title: Flag raising at City Hall August 1st 2018
 author: Thomas Guignard
-last_modified_at: 2022-05-24
 header:
   teaser: /assets/images/2018-09-03-flag-raising-01-th.jpg
 gallery:

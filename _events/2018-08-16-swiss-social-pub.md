@@ -8,7 +8,6 @@ end_time: 9 pm
 contact: Nadia
 web_url: https://www.facebook.com/events/235534910388255/
 web_url_name: Facebook event
-last_modified_at: 2022-06-19
 date: 2018-08-16
 ---
 

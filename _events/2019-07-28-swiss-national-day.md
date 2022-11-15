@@ -9,7 +9,6 @@ teaser: /assets/images/2019-06-22-snd-teaser.jpg
 cost: |
   Members and children: free
   Non-members: $10
-last_modified_at: 2022-07-09
 date: 2019-07-28
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Swissinfo video questions request
 author: Swiss Club Toronto
-last_modified_at: 2022-07-29
 ---
 Swissinfo is looking for short videos from Swiss abroad:
 

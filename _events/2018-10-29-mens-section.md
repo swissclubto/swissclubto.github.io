@@ -4,7 +4,6 @@ location: The Lindt Chocolate Store
 address: 2901 Bayview Ave, North York, ON M2K 1E6
 start_time: 10:15 am
 end_time: 12:00 pm
-last_modified_at: 2022-06-20
 date: 2018-10-29
 ---
 

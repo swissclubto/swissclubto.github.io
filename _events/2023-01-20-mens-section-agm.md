@@ -4,7 +4,6 @@ title: Men’s section annual general meeting
 # address: 1668 Islington Ave, Etobicoke, ON M9A 3M9
 # start_time: 11:45 am
 contact: arno
-last_modified_at: 2022-11-12
 date: 2023-01-20
 ---
 

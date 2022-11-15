@@ -9,7 +9,6 @@ end_time: 5 pm
 contact: Nadia
 cost: Free; food and drinks sold separately
 teaser: /assets/images/2022-07-24-national-day-teaser.jpg
-last_modified_at: 2022-06-19
 date: 2022-07-24
 ---
 

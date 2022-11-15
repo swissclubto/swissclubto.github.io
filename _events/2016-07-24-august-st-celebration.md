@@ -9,6 +9,5 @@ web_url: https://www.countryheritagepark.com
 web_url_name: Country Heritage Park
 cost: $10 for non-members
 teaser: /assets/images/2016-07-24-snd-teaser.jpg
-last_modified_at: 2022-07-10
 date: 2016-07-24
 ---
