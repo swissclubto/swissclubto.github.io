@@ -5,6 +5,8 @@ header:
   actions:
     - label: Become a member
       url: /membership/
+    - label: Volunteer
+      url: /volunteers/
 intro:
   - excerpt: >
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
@@ -17,6 +19,12 @@ feature_row1:
       of upcoming events, and more.
     url: /news/
     btn_class: btn--primary
+  - image_path: /assets/images/volunteers-teaser.jpg
+    title: Volunteers
+    excerpt: >
+      Become a volunteer!
+    url: /volunteers/
+    btn_class: btn--primary
   - image_path: /assets/images/events-teaser.jpg
     image_caption: Swiss Social July 2021
     title: Events
@@ -26,6 +34,7 @@ feature_row1:
       performance to the always-popular 1st of August celebration.
     url: /events/
     btn_class: btn--primary
+feature_row2:
   - image_path: /assets/images/tell-tale-teaser.jpg
     image_caption: 1960s newsletter
     title: Tell Tale archive
@@ -35,7 +44,6 @@ feature_row1:
       years.
     url: /telltale/
     btn_class: btn--primary
-feature_row2:
   - image_path: /assets/images/gallery-teaser.jpg
     image_caption: Flag raising ceremony City Hall 2018
     title: Gallery
@@ -50,6 +58,7 @@ feature_row2:
       Become a member, or manage your profile, and see your invoices here.
     url: /membership/
     btn_class: btn--primary
+feature_row3:
   - image_path: /assets/images/contact-teaser.jpg
     image_caption: Christmas dinner 2021
     title: Contact
@@ -69,3 +78,5 @@ feature_row2:
 {% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}

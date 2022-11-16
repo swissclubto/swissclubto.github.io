@@ -1,6 +1,8 @@
 main:
   - title: News
     url: /news/
+  - title: Volunteers
+    url: /volunteers/
   - title: Events
     url: /events/
   - title: Tell Tale
