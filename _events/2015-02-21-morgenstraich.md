@@ -5,6 +5,7 @@ address: 40 Advance Road, Etobicoke, ON M8Z 2T4
 start_time: 6:00 am
 end_time: 9:00 am
 date: 2015-02-21
+redirect_from: /event/morgenstraich/
 ---
 
 Morgenstraich presented by: Canadysli Toronto---Swiss carnival band
