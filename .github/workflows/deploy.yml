@@ -34,7 +34,7 @@ jobs:
         run: bundle exec jekyll build --verbose --baseurl ''
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1.0.4
+        uses: actions/upload-pages-artifact@v1.0.5
 
   deploy:
     name: Deploy page
