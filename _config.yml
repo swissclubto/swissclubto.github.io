@@ -128,10 +128,10 @@ future: true
 collections:
   events:
     output: true
-    permalink: /:collection/:year/:month/:slug
+    permalink: /:collection/:year/:month/:slug/
   gallery:
     output: true
-    permalink: /:collection/:year/:month/:slug
+    permalink: /:collection/:year/:month/:slug/
 
 # Front matter defaults
 defaults:
