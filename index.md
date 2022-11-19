@@ -22,7 +22,9 @@ feature_row1:
   - image_path: /assets/images/volunteers-teaser.jpg
     title: Volunteers
     excerpt: >
-      Become a volunteer!
+      Ever wondered how the Swiss Club works? Curious to learn more about the
+      people behind the scenes? Know someone who might be interested in
+      volunteering? Want something new to do in 2023?
     url: /volunteers/
     btn_class: btn--primary
   - image_path: /assets/images/events-teaser.jpg
