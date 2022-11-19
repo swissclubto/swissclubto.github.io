@@ -1,6 +1,6 @@
 ---
 title: Volunteers
-permalink: /volunteers
+permalink: /volunteers/
 ---
 
 ![Volunteers]({% link /assets/images/volunteers.jpg %})
