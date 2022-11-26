@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v3.1.0
+        with:
+          fetch-depth: 0
 
       - name: Setup Ruby
         # yamllint disable-line rule:line-length
