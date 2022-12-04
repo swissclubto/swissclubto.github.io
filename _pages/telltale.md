@@ -12,7 +12,9 @@ toc_sticky: true
   - url: /assets/telltale/2022-07-issue-149.pdf
     image_path: /assets/telltale/2022-07-issue-149-th.jpg
     title: Tell Tale issue 149, July 2022
-  -  # Dummy image for layout
+  - url: /assets/telltale/2022-12-issue-150.pdf
+    image_path: /assets/telltale/2022-12-issue-150-th.jpg
+    title: Tell Tale issue 150, December 2022
 '2021':
   - url: /assets/telltale/2021-06-issue-146.pdf
     image_path: /assets/telltale/2021-06-issue-146-th.jpg
@@ -77,7 +79,7 @@ toc_sticky: true
 
 ## 2022
 
-{%- include gallery id="2022" caption="Issue 148--149" -%}
+{%- include gallery id="2022" caption="Issue 148--150" -%}
 
 ## 2021
 
