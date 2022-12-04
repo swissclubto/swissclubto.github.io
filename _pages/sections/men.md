@@ -1,14 +1,10 @@
 ---
 title: Men's Section
 permalink: /sections/men/
+author: Arno
+author_profile: true
 published: false
 ---
-
-## Section head
-
-{%- assign head = site.data.people | find: "section", "Men's Section" %}
-![{{ head.name }}]({% link {{ head.image_url }} %}){: .align-right}
-{% include event-contact.html contact=head first=true %}
 
 ## Weekly Kaffi Klatsch
 
@@ -17,3 +13,6 @@ Kaffi Klatsch outside the Lindt Chocolate Store, at the <i class="fas
 fa-map-marked-alt"></i> <a
 href="https://www.google.com/maps/search/?api=1&query={{ "2901 Bayview Ave Unit
 #154, North York" | cgi_escape }}">Bayview Village Shopping Centre</a>.
+
+{% include figure image_path="/assets/images/mens-section.jpg" caption="2022
+Christmas Lunch" %}

@@ -1,0 +1,11 @@
+Arno:
+  name: Arno Sigrist
+  bio: Section head
+  avatar: /assets/images/officers/arno.jpg
+  links:
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:arno.s@sympatico.ca
+    - label: Phone
+      icon: fas fa-phone
+      url: tel:416-891-1102
