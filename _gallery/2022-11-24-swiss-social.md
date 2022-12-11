@@ -21,4 +21,10 @@ gallery:
     image_path: /assets/images/2022-11-24-swiss-social-008-th.jpg
   - url: /assets/images/2022-11-24-swiss-social-009.jpg
     image_path: /assets/images/2022-11-24-swiss-social-009-th.jpg
+  - url: /assets/images/2022-11-24-swiss-social-010.jpg
+    image_path: /assets/images/2022-11-24-swiss-social-010-th.jpg
+    title: Photo by Bin Phoenix Shi
+  - url: /assets/images/2022-11-24-swiss-social-011.jpg
+    image_path: /assets/images/2022-11-24-swiss-social-011-th.jpg
+    title: Photo by Bin Phoenix Shi
 ---
