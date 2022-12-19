@@ -9,3 +9,12 @@ Arno:
     - label: Phone
       icon: fas fa-phone
       url: tel:416-891-1102
+
+Simone:
+  name: Simone Höhn
+  bio: Section head
+  avatar: /assets/images/officers/simone.jpg
+  links:
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:simone.hohn@swissclubtoronto.ca

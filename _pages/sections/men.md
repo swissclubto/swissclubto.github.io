@@ -3,7 +3,7 @@ title: Men's Section
 permalink: /sections/men/
 author: Arno
 author_profile: true
-published: false
+published: true
 ---
 
 ## Weekly Kaffi Klatsch
