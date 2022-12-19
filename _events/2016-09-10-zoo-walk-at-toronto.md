@@ -9,7 +9,7 @@ web_url_name: Toronto Zoo
 date: 2016-09-10
 ---
 
-This event has been cancelled due to inclimate weather.
+This event has been cancelled due to inclement weather.
 {: .notice--danger}
 
 Come and join us for our annual zoo walk. Bring your family and enjoy an
