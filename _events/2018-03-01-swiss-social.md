@@ -26,8 +26,10 @@ drinks.
 
 Seats are limited to 10, and are available on a first-come, first-serve basis.
 
-If you are interested in attending, please email me at <{{
-site.data.people.nadia.email }}> and I will keep everyone posted on number of
-spots left! Payment will occur via email transfer.
+{%- assign email_obj = site.data.authors.nadia.links | find: "label", "Email" -%}
+{%- assign email = email_obj.url %}
+
+If you are interested in attending, please email me at {% include email.html
+addr=email %}.
 
 Thank you and hope to see you out!
