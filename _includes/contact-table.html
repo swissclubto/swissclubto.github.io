@@ -15,10 +15,12 @@
   </thead>
   <tbody>
     {%- for name in site.data.officers[include.type] -%}
-    {%- assign member = site.data.people[name] -%}
+    {%- assign member = site.data.authors[name] -%}
+    {%- assign email_obj = member.links | find: "label", "Email" -%}
+    {%- assign email = email_obj.url %}
     <tr>
       <td>
-        <img src="{% link {{ member.image_url }} %}"
+        <img src="{% link {{ member.avatar }} %}"
           alt="{{ member.name }}" 
           style="min-width: 60px" />
       </td>
@@ -29,7 +31,7 @@
       <td>{{ member.section }}</td>
       {%- endcase %}
       <td>{{ member.name }}</td>
-      <td>{% include email.html addr=member.email %}</td>
+      <td>{% include email.html addr=email %}</td>
     </tr>
     {%- endfor %}
   </tbody>
