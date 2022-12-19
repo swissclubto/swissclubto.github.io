@@ -1,7 +1,7 @@
 ---
 title: Five-Pin Bowling
 permalink: /sections/bowling/
-author: Simone
+author: simone
 author_profile: true
 published: true
 ---

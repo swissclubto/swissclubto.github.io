@@ -1,7 +1,7 @@
 ---
 title: Men's Section
 permalink: /sections/men/
-author: Arno
+author: arno
 author_profile: true
 published: true
 ---
