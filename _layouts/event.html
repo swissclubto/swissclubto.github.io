@@ -51,10 +51,7 @@ layout: single
     <tr>
       <th>Address</th>
       <td>
-        <i class="fas fa-map-marked-alt"></i>
-        <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | cgi_escape }}">
-          {{ page.address }}
-        </a>
+        {%- include maps.html addr=page.address description=page.address -%}
       </td>
     </tr>
   {%- endif -%}
