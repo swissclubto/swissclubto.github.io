@@ -12,9 +12,8 @@ The bowling section has been part of the Swiss Club since the very beginning in
 ## Monthly bowling
 
 Feeling like doing something fun during the cold winter months? Join us once a
-month on Sundays at 3 pm at the <i class="fas fa-map-marked-alt"></i> <a
-href="https://www.google.com/maps/search/?api=1&query={{ "Parkway Bowl,
-Scarborough" | cgi_escape }}">Parkway Bowling Alley</a> for three games and
+month on Sundays at 3 pm at the {% include maps.html addr="Parkway Bowl,
+Scarborough" description="Parkway Bowling Alley" %} for three games and
 optional dinner afterwards at a nearby restaurant.
 
 The price for bowling is \$25, plus shoe rental.
