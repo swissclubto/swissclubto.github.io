@@ -182,6 +182,7 @@ defaults:
   - scope:
       path: _pages/sections
     values:
+      author_profile: true
       sidebar:
         nav: sections
   - scope:

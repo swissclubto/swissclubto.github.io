@@ -2,8 +2,6 @@
 title: Five-Pin Bowling
 permalink: /sections/bowling/
 author: simone
-author_profile: true
-published: true
 ---
 
 The bowling section has been part of the Swiss Club since the very beginning in
