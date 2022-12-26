@@ -53,3 +53,15 @@ events:
         url: /events/2015/
       - title: 2014 events
         url: /events/2014/
+
+sections:
+  - title: Contact
+    children:
+      - title: Board and section heads
+      - url: /contact/
+  - title: Club sections
+    children:
+      - title: Men's Section
+        url: /sections/men/
+      - title: 5-Pin Bowling
+        url: /sections/bowling/

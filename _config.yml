@@ -178,6 +178,17 @@ defaults:
     values:
       sidebar:
         nav: membership
+  # Section pages
+  - scope:
+      path: _pages/sections
+    values:
+      sidebar:
+        nav: sections
+  - scope:
+      path: _pages/contact.md
+    values:
+      sidebar:
+        nav: sections
   # _gallery
   - scope:
       path: ''
