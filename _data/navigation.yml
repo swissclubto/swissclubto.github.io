@@ -58,9 +58,11 @@ sections:
   - title: Contact
     children:
       - title: Board and section heads
-      - url: /contact/
+        url: /contact/
   - title: Club sections
     children:
+      - title: Jass Section
+        url: /sections/jass/
       - title: Men's Section
         url: /sections/men/
       - title: 5-Pin Bowling
