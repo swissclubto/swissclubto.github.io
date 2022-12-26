@@ -61,9 +61,13 @@ sections:
         url: /contact/
   - title: Club sections
     children:
+      - title: Five-Pin Bowling
+        url: /sections/bowling/
+      - title: Gym Section
+        url: /sections/gym/
       - title: Jass Section
         url: /sections/jass/
       - title: Men's Section
         url: /sections/men/
-      - title: 5-Pin Bowling
-        url: /sections/bowling/
+      - title: Women's Section
+        url: /sections/women/
