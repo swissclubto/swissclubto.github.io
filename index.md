@@ -62,7 +62,7 @@ feature_row2:
     btn_class: btn--primary
 feature_row3:
   - image_path: /assets/images/contact-teaser.jpg
-    image_caption: Christmas dinner 2021
+    image_caption: Christmas dinner 2022
     title: Contact
     excerpt: |
       Learn more about the board of directors and the heads of the various
