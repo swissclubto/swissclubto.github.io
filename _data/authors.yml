@@ -91,7 +91,7 @@ heidy:
 jean-marc:
   name: Jean-Marc Velen
   section: Amicale Romande
-  bio: Section head a.i.
+  bio: Section head *a.i.*
   avatar: /assets/images/officers/jean-marc.jpg
   links:
     - label: Email
@@ -182,7 +182,7 @@ simone:
 suzi:
   name: Suzi Hubler
   section: Gym Section
-  bio: Section head a.i.
+  bio: Section head *a.i.*
   avatar: /assets/images/officers/suzi.jpg
   links:
     - label: Email
