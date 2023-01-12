@@ -1,7 +1,5 @@
 albert:
   name: Albert Lenz
-  section: Jass Section
-  bio: Section head
   avatar: /assets/images/officers/albert.jpg
   links:
     - label: Email
@@ -61,6 +59,19 @@ denise:
       icon: fas fa-phone
       url: tel:905-821-2392
 
+erika:
+  name: Erika Tièche
+  section: Jass Section
+  bio: Section head
+  avatar: /assets/images/officers/albert.jpg
+  links:
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:erika.tieche@swissclubtoronto.ca
+    - label: Phone
+      icon: fas fa-phone
+      url: tel:905-426-9372
+
 hannah:
   name: Hannah Renner
   links:
@@ -80,7 +91,7 @@ heidy:
 jean-marc:
   name: Jean-Marc Velen
   section: Amicale Romande
-  bio: Section co-head
+  bio: Section head a.i.
   avatar: /assets/images/officers/jean-marc.jpg
   links:
     - label: Email
@@ -121,8 +132,6 @@ nadia:
 
 noemie:
   name: Noemie Steiner
-  section: Amicale Romande
-  bio: Section co-head
   avatar: /assets/images/officers/noemie.jpg
   links:
     - label: Email
@@ -173,7 +182,7 @@ simone:
 suzi:
   name: Suzi Hubler
   section: Gym Section
-  bio: Section head
+  bio: Section head a.i.
   avatar: /assets/images/officers/suzi.jpg
   links:
     - label: Email
