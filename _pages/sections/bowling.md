@@ -18,10 +18,10 @@ The price for bowling is \$25, plus shoe rental.
 
 We play on the following dates:
 
-| January 15, 2023 |
-| Febuary 12, 2023 |
-| March 12, 2023   |
-| April 16, 2023   |
+| January 15, 2023            |
+| Febuary 5, 2023 (new date!) |
+| March 12, 2023              |
+| April 16, 2023              |
 
 We are a family friendly group, our youngest player is six, and there is no age
 limit.
