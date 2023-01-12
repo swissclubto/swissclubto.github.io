@@ -183,13 +183,13 @@ defaults:
       path: _pages/sections
     values:
       author_profile: true
-  #     sidebar:
-  #       nav: sections
-  # - scope:
-  #     path: _pages/contact.md
-  #   values:
-  #     sidebar:
-  #       nav: sections
+      sidebar:
+        nav: sections
+  - scope:
+      path: _pages/contact.md
+    values:
+      sidebar:
+        nav: sections
   # _gallery
   - scope:
       path: ''
