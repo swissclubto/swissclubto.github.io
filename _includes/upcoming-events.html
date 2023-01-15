@@ -1,0 +1,15 @@
+{%- assign downcase_term = include.term | downcase -%}
+{%- assign capital_term = include.term | capitalize -%}
+
+{%- assign today = "now" | date: "%F" | to_time -%}
+{%- assign events = site.events
+  | where_exp: "item", "item.date >= today and
+    item.title contains downcase_term or item.title contains capital_term" -%}
+
+{%- for e in events -%}
+{%- if forloop.first %}
+| Date | Event |
+| ---: | ----- |
+{%- endif %}
+| {{ e.date | date: "%B %e, %Y" }} | [{{ e.title }}]({{ e.url | relative_url }}) |
+{%- endfor %}
