@@ -24,14 +24,9 @@ and Warden); free parking at the back of the building.
 
 **Time:** 1 pm to approximately 5 pm
 
-Dates:
+{% include upcoming-events.html term="jass" %}
 
-| January 22, 2023 |
-| February 19,2023 |
-| March 19, 2023   |
-| April 23, 2023   |
-
-Free Coffee and Tea will be available. No other drinks will be available, so if
+Free coffee and tea will be available. No other drinks will be available, so if
 you like, you can bring your own.
 
 The Swiss Club Toronto is continuing to pay the rent for the location. With
