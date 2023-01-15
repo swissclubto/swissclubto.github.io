@@ -31,10 +31,12 @@ membership:
         url: /membership/billing/
 
 events:
-  - title: Events archive
+  - title: Current year
     children:
       - title: 2023 events
         url: /events/2023/
+  - title: Archive
+    children:
       - title: 2022 events
         url: /events/2022/
       - title: 2021 events
