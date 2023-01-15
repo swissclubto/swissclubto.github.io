@@ -18,16 +18,7 @@ The price for bowling is \$25, plus shoe rental.
 
 We play on the following dates:
 
-{%- assign today = "now" | date: "%F" | to_time -%}
-{%- assign events = site.events
-  | where_exp: "item", "item.date >= today and
-    item.title contains 'Bowling' or item.title contains 'bowling'" %}
-
-| Date | Event |
-| ---: | ----- |
-{%- for e in events %}
-| {{ e.date | date: "%B %e, %Y" }} | [{{ e.title }}]({{ e.url | relative_url }}) |
-{%- endfor %}
+{% include upcoming-events.html term="bowling" %}
 
 We are a family friendly group, our youngest player is six, and there is no age
 limit.
