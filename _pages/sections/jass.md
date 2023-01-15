@@ -4,7 +4,7 @@ permalink: /sections/jass/
 author: erika
 ---
 
-{% include figure image_path="/assets/images/jass-section.png"
+{% include figure image_path="/assets/images/jass-section.webp"
 caption="Jensche, [CC BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 %}{: .align-right }
