@@ -5,13 +5,10 @@ on:
     types:
       - opened
       - transferred
-  pull_request:
-    types:
-      - opened
 
 jobs:
   add-to-project:
-    name: Add issues and PRs
+    name: Add issues
     uses: bewuethr/workflows/.github/workflows/addtoproject.yml@main
     with:
       project-url: https://github.com/orgs/swissclubto/projects/1
