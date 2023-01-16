@@ -68,6 +68,9 @@ erika:
     - label: Email
       icon: fas fa-envelope
       url: mailto:erika.tieche@swissclubtoronto.ca
+    - label: Phone
+      icon: fas fa-phone
+      url: tel:905-426-9372
 
 hannah:
   name: Hannah Renner
