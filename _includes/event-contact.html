@@ -3,13 +3,10 @@
 {%- endif -%}
 {%- if include.contact.name -%}
   {%- assign contact = include.contact -%}
-  {%- assign email = contact.email -%}
   {%- assign tel = contact.tel -%}
 {%- else -%}
   {%- assign key = include.contact | downcase -%}
   {%- assign contact = site.data.authors[key] -%}
-  {%- assign email_obj = contact.links | find: "label", "Email" -%}
-  {%- assign email = email_obj.url -%}
   {%- assign tel_obj = contact.links | find: "label", "Phone" -%}
   {%- assign tel = tel_obj.url | remove_first: "tel:" -%}
 {%- endif -%}
@@ -17,9 +14,9 @@
   <i class="fas fa-user"></i>
   {{ contact.name -}}<br>
 {%- endif -%}
-{%- if email != "" and email != nil -%}
+{%- if contact.email != "" and contact.email != nil -%}
   <i class="fas fa-envelope"></i>
-  {% include email.html addr=email %}<br>
+  {% include email.html addr=contact.email %}<br>
 {%- endif -%}
 {%- if tel != "" and tel != nil -%}
   <i class="fas fa-phone"></i>

@@ -1,20 +1,15 @@
 albert:
   name: Albert Lenz
   avatar: /assets/images/officers/albert.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:albert.lenz@swissclubtoronto.ca
+  email: albert.lenz@swissclubtoronto.ca
 
 arno:
   name: Arno Sigrist
   section: Men's Section
   bio: Section head
   avatar: /assets/images/officers/arno.jpg
+  email: arno.s@sympatico.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:arno.s@sympatico.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:416-891-1102
@@ -23,38 +18,28 @@ auggie:
   name: Augustin Werner
   position: Treasurer
   avatar: /assets/images/officers/auggie.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:augustin.werner@swissclubtoronto.ca
+  email: augustin.werner@swissclubtoronto.ca
 
 ben:
   name: Benjamin Wuethrich
   avatar: /assets/images/officers/ben.jpg
   position: Memberships, Website
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:membership@swissclubtoronto.ca
+  email: membership@swissclubtoronto.ca
 
 charlotte:
   name: Charlotte Mariller
   position: Vice President, Swiss Social
   avatar: /assets/images/officers/charlotte.jpg
+  email: charlotte.mariller@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:charlotte.mariller@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:647-473-8941
 
 denise:
   name: Denise Frassini
+  email: denise.frassini@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:denise.frassini@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:905-821-2392
@@ -64,10 +49,8 @@ erika:
   section: Jass Section
   bio: Section head
   avatar: /assets/images/officers/erika.jpg
+  email: erika.tieche@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:erika.tieche@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:905-426-9372
@@ -83,20 +66,15 @@ heidy:
   name: Heidy Lawrance
   position: Tell Tale Editor
   avatar: /assets/images/officers/heidy.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:heidy.lawrance@swissclubtoronto.ca
+  email: heidy.lawrance@swissclubtoronto.ca
 
 jean-marc:
   name: Jean-Marc Velen
   section: Amicale Romande
   bio: Section head *a.i.*
   avatar: /assets/images/officers/jean-marc.jpg
+  email: jean-marc.velen@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:jean-marc.velen@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:416-488-6493
@@ -106,17 +84,12 @@ maggie:
   section: Theatre Group
   bio: Section head
   avatar: /assets/images/officers/maggie.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:magdalena.hess@swissclubtoronto.ca
+  email: magdalena.hess@swissclubtoronto.ca
 
 monika:
   name: Monika Rueber
+  email: monika.rueber@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:monika.rueber@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:416-203-2026
@@ -125,28 +98,20 @@ nadia:
   name: Nadia Berger
   position: President
   avatar: /assets/images/officers/nadia.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:info@swissclubtoronto.ca
+  email: info@swissclubtoronto.ca
 
 noemie:
   name: Noemie Steiner
   avatar: /assets/images/officers/noemie.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:noemie.steiner@swissclubtoronto.ca
+  email: noemie.steiner@swissclubtoronto.ca
 
 paula:
   name: Paula Rico
   section: Women's Section
   bio: Section head
   avatar: /assets/images/officers/paula.jpg
+  email: paula.rico@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:paula.rico@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:416-652-9067
@@ -160,10 +125,8 @@ philippe:
 
 sascha:
   name: Sascha Frassini
+  email: sascha.frassini@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:sascha.frassini@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:905-821-2392
@@ -174,37 +137,27 @@ simone:
   section: Five-Pin Bowling
   bio: Section head
   avatar: /assets/images/officers/simone.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:simone.hohn@swissclubtoronto.ca
+  email: simone.hohn@swissclubtoronto.ca
 
 suzi:
   name: Suzi Hubler
   section: Gym Section
   bio: Section head *a.i.*
   avatar: /assets/images/officers/suzi.jpg
-  links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:suzi.hubler@swissclubtoronto.ca
+  email: suzi.hubler@swissclubtoronto.ca
 
 thomas:
   name: Thomas Guignard
+  email: thomas.guignard@swissclubtoronto.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:thomas.guignard@swissclubtoronto.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:647-873-4450
 
 walter:
   name: Walter Brunner
+  email: walter.brunner@sympatico.ca
   links:
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:walter.brunner@sympatico.ca
     - label: Phone
       icon: fas fa-phone
       url: tel:647-966-8014
