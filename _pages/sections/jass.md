@@ -24,7 +24,7 @@ and Warden); free parking at the back of the building.
 
 **Time:** 1 pm to approximately 5 pm
 
-{% include upcoming-events.html term="jass" %}
+{% include upcoming-events.html section="jass" %}
 
 Free coffee and tea will be available. No other drinks will be available, so if
 you like, you can bring your own.

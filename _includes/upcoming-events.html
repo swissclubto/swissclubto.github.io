@@ -1,10 +1,6 @@
-{%- assign downcase_term = include.term | downcase -%}
-{%- assign capital_term = include.term | capitalize -%}
-
 {%- assign today = "now" | date: "%F" | to_time -%}
 {%- assign events = site.events
-  | where_exp: "item", "item.date >= today and
-    item.title contains downcase_term or item.title contains capital_term" -%}
+  | where_exp: "item", "item.date >= today and item.section == include.section" -%}
 
 {%- for e in events -%}
 {%- if forloop.first %}

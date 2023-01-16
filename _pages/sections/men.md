@@ -13,7 +13,7 @@ Shopping Centre" %}.
 
 Here are the next few dates:
 
-{% include upcoming-events.html term="kaffi" %}
+{% include upcoming-events.html section="men" %}
 
 {% include figure image_path="/assets/images/mens-section.jpg" caption="2022
 Christmas Lunch" %}
