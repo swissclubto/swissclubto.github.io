@@ -26,7 +26,9 @@
       {%- when "board" %}
       <td>{{ member.position }}</td>
       {%- when "sections" %}
-      <td>{{ member.section }}</td>
+      <td>
+        <a href="{% link {{ site.data.sections[member.section].url }} %}">{{ member.section }}</a>
+      </td>
       {%- endcase %}
       <td>{{ member.name }}</td>
       <td>{% include email.html addr=member.email %}</td>
