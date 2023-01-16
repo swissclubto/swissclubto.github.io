@@ -11,14 +11,14 @@
   {%- assign tel = tel_obj.url | remove_first: "tel:" -%}
 {%- endif -%}
 {%- if contact.name -%}
-  <i class="fas fa-user"></i>
+  <i class="fas fa-fw fa-user"></i>
   {{ contact.name -}}<br>
 {%- endif -%}
 {%- if contact.email != "" and contact.email != nil -%}
-  <i class="fas fa-envelope"></i>
+  <i class="fas fa-fw fa-envelope"></i>
   {% include email.html addr=contact.email %}<br>
 {%- endif -%}
 {%- if tel != "" and tel != nil -%}
-  <i class="fas fa-phone"></i>
+  <i class="fas fa-fw fa-phone"></i>
   <a href="tel:{{ tel }}">{{ tel }}</a><br>
 {%- endif -%}

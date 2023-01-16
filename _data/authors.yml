@@ -11,7 +11,7 @@ arno:
   email: arno.s@sympatico.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:416-891-1102
 
 auggie:
@@ -33,7 +33,7 @@ charlotte:
   email: charlotte.mariller@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:647-473-8941
 
 denise:
@@ -41,7 +41,7 @@ denise:
   email: denise.frassini@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:905-821-2392
 
 erika:
@@ -52,14 +52,14 @@ erika:
   email: erika.tieche@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:905-426-9372
 
 hannah:
   name: Hannah Renner
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:647-231-0976
 
 heidy:
@@ -76,7 +76,7 @@ jean-marc:
   email: jean-marc.velen@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:416-488-6493
 
 maggie:
@@ -91,7 +91,7 @@ monika:
   email: monika.rueber@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:416-203-2026
 
 nadia:
@@ -113,14 +113,14 @@ paula:
   email: paula.rico@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:416-652-9067
 
 philippe:
   name: Philippe Moser
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:416-434-5837
 
 sascha:
@@ -128,7 +128,7 @@ sascha:
   email: sascha.frassini@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:905-821-2392
 
 simone:
@@ -151,7 +151,7 @@ thomas:
   email: thomas.guignard@swissclubtoronto.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:647-873-4450
 
 walter:
@@ -159,5 +159,5 @@ walter:
   email: walter.brunner@sympatico.ca
   links:
     - label: Phone
-      icon: fas fa-phone
+      icon: fas fa-fw fa-phone
       url: tel:647-966-8014
