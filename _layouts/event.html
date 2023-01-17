@@ -83,7 +83,7 @@ layout: single
   {%- if page.cost -%}
     <tr>
       <th>Cost</th>
-      <td>{{ page.cost | newline_to_br }}</td>
+      <td>{{ page.cost | newline_to_br | markdownify | remove: "<p>" | remove: "</p>" }}</td>
     </tr>
   {%- endif -%}
 </table>
