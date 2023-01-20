@@ -41,9 +41,9 @@ feature_row2:
     image_caption: 1960s newsletter
     title: Tell Tale archive
     excerpt: >
-      As a member you will receive our newsletter Tell Tale to keep you updated
-      on all the upcoming events; have a look at the issues from the last few
-      years.
+      As a member you will receive our newsletter *Tell Tale* to keep you
+      updated on all the upcoming events; have a look at the issues from the
+      last few years.
     url: /telltale/
     btn_class: btn--primary
   - image_path: /assets/images/gallery-teaser.jpg
