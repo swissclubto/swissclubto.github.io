@@ -65,8 +65,8 @@ feature_row3:
     image_caption: Christmas dinner 2022
     title: Contact
     excerpt: |
-      Learn more about the board of directors and the heads of the various
-      sections.
+      Learn more about the board of directors, the various sections, and their
+      heads.
 
       Share with us information that may be of interest to the Swiss community
       in Greater Toronto. We’d like to hear from you either by e-mail or
