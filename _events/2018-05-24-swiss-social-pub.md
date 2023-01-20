@@ -6,8 +6,8 @@ address: 39 Prince Arthur Ave, Toronto, ON M5R 1B2
 start_time: 7:00 pm
 end_time: 9:00 pm
 contact: Nadia
-event_url: https://www.facebook.com/events/1643910232313601/
-event_url_name: Facebook event
+web_url: https://www.facebook.com/events/1643910232313601/
+web_url_name: Facebook event
 date: 2018-05-24
 ---
 
