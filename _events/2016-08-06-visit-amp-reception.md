@@ -1,7 +1,7 @@
 ---
 title: Visit & reception of Swiss ambassador
 location: Fryfogel Tavern
-addres: 1801-1983 Line 34, Perth East, ON N0B
+address: 1801-1983 Line 34, Perth East, ON N0B
 start_time: 2:00 pm
 end_time: 4:00 pm
 web_url: https://web.archive.org/web/20150304044245/https://stratfordperthheritage.ca/tavern.html
