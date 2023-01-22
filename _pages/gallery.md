@@ -1,12 +1,13 @@
 ---
 title: Gallery
-layout: collection
+layout: collection-by-year
 permalink: /gallery/
 collection: gallery
-entries_layout: grid
-classes: wide
 sort_order: reverse
-show_excerpts: false
+toc: true
+toc_label: Jump to year
+toc_icon: calendar
+toc_sticky: true
 ---
 
 Do you have great pictures from an event you would like to share and see on our
