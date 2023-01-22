@@ -4,11 +4,13 @@
 
 @charset "utf-8";
 
+/* Make all footer icons black */
 footer i.fa-rss-square,
 .icon-black {
   color: #000 !important;
 }
 
+/* Event page calendar */
 $dim-foreground: rgba(34, 40, 49, 0.44);
 $emphasize-bg: #e2e4e5;
 $emphasize-bg-current: #eee;
