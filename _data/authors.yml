@@ -118,6 +118,7 @@ paula:
 
 philippe:
   name: Philippe Moser
+  email: pmoser@rogers.com
   links:
     - label: Phone
       icon: fas fa-fw fa-phone
