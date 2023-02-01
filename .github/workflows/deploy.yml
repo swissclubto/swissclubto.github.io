@@ -33,7 +33,7 @@ jobs:
         uses: ruby/setup-ruby@ee26e27437bde475b19a6bf8cb73c9fa658876a2  # v1.134.0
         with:
           bundler-cache: true
-          rubygems: 3.4.5
+          rubygems: 3.4.6
 
       - name: Build with Jekyll
         env:
