@@ -102,15 +102,16 @@ collections:
         widget: select
         multiple: true
         options:
-          - Albert
           - Arno
+          - Ben
           - Charlotte
+          - Erika
           - Heidy
           - Jean-Marc
           - Maggie
           - Nadia
-          - Noemie
           - Paula
+          - Simone
           - Suzi
           - Walter
         required: false
@@ -131,12 +132,6 @@ collections:
         name: teaser_caption
         widget: string
         required: false
-      - label: Last modified at
-        name: last_modified_at
-        widget: datetime
-        format: YYYY-MM-DD
-        date_format: YYYY-MM-DD
-        time_format: false
       - label: Body
         required: false
         name: body
