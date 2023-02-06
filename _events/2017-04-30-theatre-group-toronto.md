@@ -14,4 +14,4 @@ teaser: assets/images/2017-04-30-theatre-teaser.png
 date: 2017-04-30
 ---
 
-![Theatre troupe]({% link /assets/images/2017-04-30-theatre.jpg %})
+![Theatre troupe]({% link assets/images/2017-04-30-theatre.jpg %})

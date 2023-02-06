@@ -12,5 +12,5 @@ To register, visit the [OSA website][osa].
 [![OSA flyer][flyerth]][flyer]
 
 [osa]: <https://www.swisscommunity.org/en/angebote-events/webinare/webinar-on-the-topics-of-aging-abroad-and-oasi>
-[flyerth]: <{% link /assets/images/2023-01-14-osa-webinar.jpg %}>
-[flyer]: <{% link /assets/pdf/2023-01-14-osa-flyer.pdf %}>
+[flyerth]: <{% link assets/images/2023-01-14-osa-webinar.jpg %}>
+[flyer]: <{% link assets/pdf/2023-01-14-osa-flyer.pdf %}>

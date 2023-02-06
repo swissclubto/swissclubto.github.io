@@ -33,4 +33,4 @@ important fundamental lessons learned for overcoming obstacles.
 
 Click [here][flyer] for a flyer (in PDF format).
 
-[flyer]: <{% link /assets/pdf/2015-10-08-everest-flyer.pdf %}>
+[flyer]: <{% link assets/pdf/2015-10-08-everest-flyer.pdf %}>
