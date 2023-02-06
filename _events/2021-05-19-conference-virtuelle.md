@@ -6,7 +6,7 @@ web_url: https://www.facebook.com/events/286256036318173
 web_url_name: Facebook event
 contact:
   name: La Société d'histoire de Toronto
-teaser: /assets/images/2021-05-19-conference-teaser.jpg
+teaser: assets/images/2021-05-19-conference-teaser.jpg
 date: 2021-05-19
 ---
 

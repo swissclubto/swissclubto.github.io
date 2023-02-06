@@ -7,7 +7,7 @@ end_time: 9 pm
 contact: Nadia
 web_url: https://www.facebook.com/events/421617471792873/
 web_url_name: Facebook event
-teaser: /assets/images/2019-02-28-pub-teaser.jpg
+teaser: assets/images/2019-02-28-pub-teaser.jpg
 date: 2019-10-24
 ---
 

@@ -5,7 +5,7 @@ address: 6650 Hurontario St, Mississauga, ON L5W 1N3
 contact: Thomas
 start_time: 12:00 pm
 end_time: 6:00 pm
-teaser: /assets/images/2019-06-22-snd-teaser.jpg
+teaser: assets/images/2019-06-22-snd-teaser.jpg
 cost: |
   Members and children: free
   Non-members: $10

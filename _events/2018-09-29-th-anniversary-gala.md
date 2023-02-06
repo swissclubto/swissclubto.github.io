@@ -1,6 +1,6 @@
 ---
 title: 100th Anniversary gala dinner
-teaser: /assets/images/2018-09-29-gala-teaser.png
+teaser: assets/images/2018-09-29-gala-teaser.png
 location: The Old Mill Hotel
 address: 9 Old Mill Rd, Etobicoke, ON M8X 0A5
 start_time: 6:00 pm

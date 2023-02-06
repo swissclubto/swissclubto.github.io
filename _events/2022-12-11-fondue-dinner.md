@@ -8,7 +8,7 @@ web_url_name: Restaurant website
 contact: Nadia
 cost: |
   $45 per person (payment info to be provided with RSVP)
-teaser: /assets/images/2022-12-11-fondue-dinner-teaser.jpg
+teaser: assets/images/2022-12-11-fondue-dinner-teaser.jpg
 date: 2022-12-11
 ---
 

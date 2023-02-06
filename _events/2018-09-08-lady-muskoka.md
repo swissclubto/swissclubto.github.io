@@ -1,6 +1,6 @@
 ---
 title: Lady Muskoka anniversary cruise
-teaser: /assets/images/2018-09-08-muskoka-teaser.jpg
+teaser: assets/images/2018-09-08-muskoka-teaser.jpg
 teaser_caption: |
   Image credit: [Sameer Vasta](https://www.flickr.com/photos/vasta/15022729431/)
 location: Bracebridge, Ontario

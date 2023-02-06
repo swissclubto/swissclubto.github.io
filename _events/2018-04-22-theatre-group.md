@@ -1,6 +1,6 @@
 ---
 title: Theatre group performance “Miss Sophie’s Erbe”
-teaser: /assets/images/2018-04-22-theatre-teaser.jpg
+teaser: assets/images/2018-04-22-theatre-teaser.jpg
 location: Latvian Canadian Centre
 address: 4 Credit Union Dr, North York, ON M4A
 start_time: 2:00 pm

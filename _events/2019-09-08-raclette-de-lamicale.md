@@ -4,7 +4,7 @@ location: Simeon Park
 address: 13190 Woodbine Ave, Gormley, ON L0H 1G0
 start_time: 12:00 pm
 end_time: 5:00 pm
-teaser: /assets/images/2019-09-08-raclette-teaser.jpg
+teaser: assets/images/2019-09-08-raclette-teaser.jpg
 cost: |
   For unlimited servings
   $30 for adults

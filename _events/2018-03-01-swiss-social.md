@@ -1,6 +1,6 @@
 ---
 title: Swiss Social---raclette dinner
-teaser: /assets/images/2018-03-01-social-teaser.jpg
+teaser: assets/images/2018-03-01-social-teaser.jpg
 location: Coq of the Walk
 address: 488 College St, Toronto, ON M6G 1A4
 start_time: 7:00 pm

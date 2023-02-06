@@ -4,7 +4,7 @@ location: Innis Town Hall
 address: 2 Sussex Dr, Etobicoke, ON M8V 1W4
 start_time: 6:45 pm
 end_time: 10:00 pm
-teaser: /assets/images/2015-10-08-everest-teaser.jpg
+teaser: assets/images/2015-10-08-everest-teaser.jpg
 date: 2015-10-08
 ---
 

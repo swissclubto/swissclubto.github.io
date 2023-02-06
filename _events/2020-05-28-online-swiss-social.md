@@ -5,7 +5,7 @@ contact: Nadia
 web_url: https://www.facebook.com/events/613075645940231/
 web_url_name: Facebook event
 start_time: 6:00 pm
-teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: assets/images/2021-11-25-pubnight-teaser.jpg
 date: 2020-05-28
 ---
 

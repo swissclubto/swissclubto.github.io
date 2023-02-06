@@ -4,7 +4,7 @@ location: Latvian Canadian Cultural Centre
 address: 4 Credit Union Dr, North York, ON M4A 2N8
 start_time: 2:00 pm
 end_time: 5:00 pm
-teaser: /assets/images/2020-05-03-theatre-teaser.jpg
+teaser: assets/images/2020-05-03-theatre-teaser.jpg
 date: 2020-05-03
 ---
 

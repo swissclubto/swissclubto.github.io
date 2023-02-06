@@ -1,6 +1,6 @@
 ---
 title: Lunch at Woodbine Racetrack
-teaser: /assets/images/2018-06-08-woodbine-teaser.jpg
+teaser: assets/images/2018-06-08-woodbine-teaser.jpg
 location: Woodbine Racetrack
 address: 555 Rexdale Blvd, Etobicoke, ON M9W
 contact: Paula

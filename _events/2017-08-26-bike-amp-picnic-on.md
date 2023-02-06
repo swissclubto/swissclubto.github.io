@@ -5,7 +5,7 @@ address: 9 Queens Quay W, Toronto, ON M5J 2H3
 start_time: 10:30 am
 end_time: 2:30 pm
 contact: Denise
-teaser: /assets/images/2017-08-26-island-teaser.jpg
+teaser: assets/images/2017-08-26-island-teaser.jpg
 date: 2017-08-26
 ---
 

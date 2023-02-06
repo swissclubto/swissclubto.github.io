@@ -7,7 +7,7 @@ web_url_name: Facebook event
 start_time: 7 pm
 end_time: 9 pm
 contact: Charlotte
-teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: assets/images/2021-11-25-pubnight-teaser.jpg
 date: 2022-08-25
 ---
 

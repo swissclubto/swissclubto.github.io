@@ -9,7 +9,7 @@ start_time: 7:00 pm
 end_time: 9:00 pm
 contacts:
   - Charlotte
-teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: assets/images/2021-11-25-pubnight-teaser.jpg
 ---
 Hi everyone!
 

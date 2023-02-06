@@ -6,7 +6,7 @@ end_time: 8 pm
 web_url: https://www.facebook.com/events/460386764925568
 web_url_name: Facebook event
 contact: Charlotte
-teaser: /assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: assets/images/2021-11-25-pubnight-teaser.jpg
 date: 2020-10-29
 ---
 

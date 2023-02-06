@@ -1,6 +1,6 @@
 ---
 title: 'Swiss Watching: Diccon Bewes lecture'
-teaser: /assets/images/2018-08-28-swiss-watching-teaser.jpg
+teaser: assets/images/2018-08-28-swiss-watching-teaser.jpg
 location: Toronto Reference Library---Beeton Auditorium
 address: 789 Yonge St, Toronto, ON M4W 2G8
 start_time: 7:00 pm

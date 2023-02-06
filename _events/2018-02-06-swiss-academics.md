@@ -1,6 +1,6 @@
 ---
 title: Swiss Academics brewery tour
-teaser: /assets/images/2018-02-06-academics-teaser.jpg
+teaser: assets/images/2018-02-06-academics-teaser.jpg
 location: Left Field brewery
 address: 36 Wagstaff Dr, Toronto, ON M4L 3W9
 start_time: 7:00 pm

@@ -11,7 +11,7 @@ cost: |
 contacts:
   - philippe
   - arno
-teaser: /assets/images/2023-03-04-canadysli.jpg
+teaser: assets/images/2023-03-04-canadysli.jpg
 ---
 
 After a hiatus of two years, the Dinner & Dance hosted by the [Canadysli] is

@@ -10,7 +10,7 @@ contact: Charlotte
 cost: |
   SCCC members: $15 for guided tour and one drink at The Goodman Pub and Kitchen
   Non-members: $15 for guided tour
-teaser: /assets/images/2022-04-28-huber-teaser.jpg
+teaser: assets/images/2022-04-28-huber-teaser.jpg
 date: 2022-04-28
 ---
 

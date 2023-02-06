@@ -1,6 +1,6 @@
 ---
 title: Canoe trip to Algonquin
-teaser: /assets/images/2018-08-04-canoe-teaser.jpg
+teaser: assets/images/2018-08-04-canoe-teaser.jpg
 location: Algonquin Provincial Park
 end_date: 2018-08-06
 contact: Walter

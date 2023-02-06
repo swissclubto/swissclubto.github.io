@@ -10,7 +10,7 @@ cost: |
   Young adults: $10
   Children: free
 contact: Walter
-teaser: /assets/images/2017-04-30-theatre-teaser.png
+teaser: assets/images/2017-04-30-theatre-teaser.png
 date: 2017-04-30
 ---
 

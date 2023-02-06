@@ -6,7 +6,7 @@ contact: Nadia
 web_url_name: Facebook event
 start_time: 6:00 pm
 end_time: 8 pm
-teaser: /assets/images/2020-02-27-pub-teaser.jpg
+teaser: assets/images/2020-02-27-pub-teaser.jpg
 date: 2020-02-27
 ---
 

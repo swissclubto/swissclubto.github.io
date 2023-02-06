@@ -4,7 +4,7 @@ location: Online
 contact: Nadia
 web_url: https://www.facebook.com/events/613075645940231/
 web_url_name: Facebook event
-teaser: /assets/images/2020-04-30-pub-teaser.jpg
+teaser: assets/images/2020-04-30-pub-teaser.jpg
 start_time: 6:00 pm
 date: 2020-04-30
 ---

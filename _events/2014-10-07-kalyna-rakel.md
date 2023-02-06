@@ -5,7 +5,7 @@ address: 70 Adelaide Street West, Toronto, ON M5V 2E2
 start_time: 8:00 pm
 end_time: 9:00 pm
 web_url: https://www.parlour270.com
-teaser: /assets/images/2014-10-07-kalyna-teaser.jpg
+teaser: assets/images/2014-10-07-kalyna-teaser.jpg
 date: 2014-10-07
 ---
 

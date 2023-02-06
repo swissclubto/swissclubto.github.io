@@ -1,6 +1,6 @@
 ---
 title: Men’s section annual BBQ
-teaser: /assets/images/2018-06-23-bbq-teaser.jpg
+teaser: assets/images/2018-06-23-bbq-teaser.jpg
 location: Egger Dairy Farm
 address: 5244 Steeles Ave W, Milton, ON L9T 2Y1
 start_time: 1:00 pm

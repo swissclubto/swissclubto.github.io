@@ -6,7 +6,7 @@ contact: Nadia
 web_url: https://www.facebook.com/events/1180232978811076/
 web_url_name: Facebook event
 start_time: 6:00 pm
-teaser: /assets/images/2019-02-28-pub-teaser.jpg
+teaser: assets/images/2019-02-28-pub-teaser.jpg
 date: 2019-02-28
 ---
 

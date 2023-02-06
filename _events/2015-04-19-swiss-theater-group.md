@@ -9,7 +9,7 @@ cost: |
   Non-members: $20
   Youth: $10
   Children: free
-teaser: /assets/images/2015-04-19-nacht-teaser.png
+teaser: assets/images/2015-04-19-nacht-teaser.png
 date: 2015-04-19
 ---
 
