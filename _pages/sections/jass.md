@@ -12,11 +12,10 @@ caption="Jensche, [CC BY-SA
 Do you like to play Jass, then this is for you!
 
 We no longer look for a champion and you do not have to be a pro, we will
-strictly play a
+strictly play a **social**, **friendly**, and **relaxed** game (see rules
+below).
 
-1. **social**, **friendly**, and **relaxed** game
-2. We play the **Schieber** (no Wys) as we always did
-3. Cost: $2 (for miscellaneous expenses)
+The cost is $2 for miscellaneous expenses.
 
 **Location:** Agincourt room at {% include maps.html addr="3131 Bridletowne
 Circle, Toronto" description="3131 Bridletowne Circle, Toronto" %} (near Finch
@@ -35,7 +34,26 @@ a friend who likes to play also.
 
 I am always open to receiving suggestions and comments.
 
-:information_source: To be able to have complete tables, it would really be
-appreciated if you would contact me prior to the date. This way, no one will be
-left out to play.
+:warning: To be able to have complete tables, it would really be appreciated if
+you would contact me no later than the day before the game. This way, no one
+will be left out to play.
+{: .notice--warning}
+
+<div markdown="1">
+**:judge: House rules**
+
+- We play the Schieber with *no* Wys (just like the champion Jass).
+- You can pass to your partner if you can't make trump, play top down or bottom
+  up.
+- You play eight rounds with the same partner, then change partner at your
+  table, three times per table.
+- Then, you draw a new table number, and repeat the same as at your previous
+  table, for a total of 8 &times; 3 &times; 2 = 48 rounds.
+- Scoring:
+  - Each round is worth 157 points, with a match awarding an additional 100
+    points.
+  - The eight rounds played with one partner at the same table are worth a
+    total of 8 &times; 157 = 1256 points (plus 100 for each match).
+- We play mostly with the German Jass cards.
+</div>
 {: .notice--info}
