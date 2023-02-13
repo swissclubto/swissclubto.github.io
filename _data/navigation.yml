@@ -69,10 +69,10 @@ sections:
         url: /sections/bowling/
       - title: Gym Section
         url: /sections/gym/
-      - title: Jass Section
-        url: /sections/jass/
       - title: Men's Section
         url: /sections/men/
+      - title: Social Jass Section
+        url: /sections/jass/
       - title: Theatre Group
         url: /sections/theatre/
       - title: Women's Section

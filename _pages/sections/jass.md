@@ -1,5 +1,5 @@
 ---
-title: Jass Section
+title: Social Jass Section
 permalink: /sections/jass/
 author: erika
 ---
