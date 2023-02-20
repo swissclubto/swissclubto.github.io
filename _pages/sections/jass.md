@@ -21,7 +21,7 @@ The cost is $2 for miscellaneous expenses.
 Circle, Toronto" description="3131 Bridletowne Circle, Toronto" %} (near Finch
 and Warden); free parking at the back of the building.
 
-**Time:** 1 pm to approximately 5 pm
+**Time:** 1 pm to approximately 4.30 pm
 
 {% include upcoming-events.html section="jass" %}
 
