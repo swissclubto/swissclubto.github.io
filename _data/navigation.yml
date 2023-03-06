@@ -67,8 +67,6 @@ sections:
         url: /sections/amicale/
       - title: Five-Pin Bowling
         url: /sections/bowling/
-      - title: Gym Section
-        url: /sections/gym/
       - title: Men's Section
         url: /sections/men/
       - title: Social Jass Section
