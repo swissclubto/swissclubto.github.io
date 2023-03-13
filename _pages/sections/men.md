@@ -11,7 +11,7 @@ Kaffi Klatsch outside the Lindt Chocolate Store, at the {% include maps.html
 addr="2901 Bayview Ave Unit #154, North York" description="Bayview Village
 Shopping Centre" %}.
 
-Here are the next few dates:
+Here are the dates of the next few events:
 
 {% include upcoming-events.html section="men" %}
 
