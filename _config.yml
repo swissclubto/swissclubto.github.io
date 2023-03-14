@@ -1,9 +1,9 @@
 # Plugins
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
   - jekyll-include-cache
-  - jekyll-paginate
+  - jekyll-last-modified-at
+  - jekyll-paginate-v2
   - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-sitemap
@@ -111,11 +111,21 @@ exclude:
   - LICENSE
   - README.md
 
+# Pagination, jekyll-paginate-v2
+pagination:
+  enabled: true
+  collection: posts
+  per_page: 5
+  permalink: /page:num/
+  title: :title - page :num
+  sort_field: date
+  sort_reverse: true
+# v1 setting, keep for Minimal Mistakes paginator include
+paginate_path: /news/page:num/
+
 # Outputting
 kramdown:
   entity_output: :as_input
-paginate: 5
-paginate_path: /news/page:num/
 permalink: pretty
 sass:
   quiet_deps: true
