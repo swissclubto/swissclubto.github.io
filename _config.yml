@@ -120,8 +120,9 @@ pagination:
   title: :title - page :num
   sort_field: date
   sort_reverse: true
-# v1 setting, keep for Minimal Mistakes paginator include
-paginate_path: /news/page:num/
+  trail:
+    before: 2
+    after: 2
 
 # Outputting
 kramdown:
