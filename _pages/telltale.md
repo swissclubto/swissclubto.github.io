@@ -5,6 +5,12 @@ toc: true
 toc_label: Jump to year
 toc_icon: calendar
 toc_sticky: true
+'2023':
+  - url: /assets/telltale/2023-04-issue-151.pdf
+    image_path: /assets/telltale/2023-04-issue-151-th.jpg
+    title: Tell Tale issue 151, April 2023
+  -  # Dummy image for layout
+  -  # Dummy image for layout
 '2022':
   - url: /assets/telltale/2022-04-issue-148.pdf
     image_path: /assets/telltale/2022-04-issue-148-th.jpg
@@ -76,6 +82,10 @@ toc_sticky: true
   -  # Dummy image for layout
   -  # Dummy image for layout
 ---
+
+## 2023
+
+{%- include gallery id="2023" caption="Issue 151" -%}
 
 ## 2022
 
