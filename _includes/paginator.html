@@ -1,69 +1,50 @@
-{% if paginator.total_pages > 1 %}
+{% if paginator.total_pages > 1 -%}
 <nav class="pagination">
-  {% assign first_page_path = paginator.first_page_path %}
   <ul>
-    {% comment %} Link for previous page {% endcomment %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <li><a href="{{ first_page_path }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
-      {% else %}
-        <li><a href="{{ paginator.previous_page_path }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
-      {% endif %}
-    {% else %}
-    <li><a href="#" class="disabled"><span aria-hidden="true">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span></a></li>
-    {% endif %}
+    {%- comment %} Link previous page {% endcomment %}
+    {%- if paginator.previous_page %}
+      <li><a href="{{ paginator.previous_page_path }}">Previous</a></li>
+    {%- else %}
+      <li><a href="#" class="disabled"><span aria-hidden="true">Previous</span></a></li>
+    {%- endif -%}
 
-    {% comment %} First page {% endcomment %}
-    {% if paginator.page == 1 %}
-      <li><a href="#" class="disabled current">1</a></li>
-    {% else %}
-      <li><a href="{{ first_page_path }}">1</a></li>
-    {% endif %}
+    {%- comment %} First page if not in trail {% endcomment %}
+    {%- if paginator.page_trail.first.num > paginator.first_page %}
+      <li><a href="{{ paginator.first_page_path }}">{{ paginator.first_page }}</a></li>
+    {%- endif %}
 
-    {% assign page_start = 2 %}
-    {% if paginator.page > 4 %}
-      {% assign page_start = paginator.page | minus: 2 %}
-      {% comment %} Ellipsis for truncated links {% endcomment %}
+    {%- comment %} Ellipsis if gap between trail and first {% endcomment -%}
+    {%- assign threshold = paginator.first_page | plus: 2 %}
+    {%- if paginator.page_trail.first.num >= threshold %}
       <li><a href="#" class="disabled">&hellip;</a></li>
-    {% endif %}
+    {%- endif %}
 
-    {% assign page_end = paginator.total_pages | minus: 1 %}
-    {% assign pages_to_end = paginator.total_pages | minus: paginator.page %}
-    {% if pages_to_end > 4 %}
-      {% assign page_end = paginator.page | plus: 2 %}
-    {% endif %}
+    {%- comment %} All pages in trail {% endcomment %}
+    {%- for trail in paginator.page_trail %}
+      <li><a
+          {%- if paginator.page == trail.num %} class="disabled current"
+          {%- endif %} href="{{ trail.path | remove_first: "index.html" | relative_url }}">
+          {{- trail.num -}}
+      </a></li>
+    {%- endfor %}
 
-    {% for index in (page_start..page_end) %}
-      {% if index == paginator.page %}
-        <li><a href="{{ paginator.first_page_path | append: site.pagination.permalink | replace: ':num', index | replace: '//', '/' | relative_url }}" class="disabled current">{{ index }}</a></li>
-      {% else %}
-        {% comment %} Distance from current page and this link {% endcomment %}
-        {% assign dist = paginator.page | minus: index %}
-        {% if dist < 0 %}
-          {% comment %} Distance must be a positive value {% endcomment %}
-          {% assign dist = 0 | minus: dist %}
-        {% endif %}
-        <li><a href="{{ paginator.first_page_path | append: site.pagination.permalink | replace: ':num', index | replace: '//', '/' | relative_url }}">{{ index }}</a></li>
-      {% endif %}
-    {% endfor %}
-
-    {% comment %} Ellipsis for truncated links {% endcomment %}
-    {% if pages_to_end > 3 %}
+    {%- comment %} Ellipsis if gap between trail and last {% endcomment %}
+    {%- assign threshold = paginator.last_page | minus: 2 %}
+    {%- if paginator.page_trail.last.num <= threshold %}
       <li><a href="#" class="disabled">&hellip;</a></li>
-    {% endif %}
+    {%- endif %}
 
-    {% if paginator.page == paginator.last_page %}
-      <li><a href="#" class="disabled current">{{ paginator.page }}</a></li>
-    {% else %}
+    {%- comment %} Last page if not in trail {% endcomment %}
+    {%- if paginator.page_trail.last.num < paginator.last_page %}
       <li><a href="{{ paginator.last_page_path }}">{{ paginator.last_page }}</a></li>
-    {% endif %}
+    {%- endif %}
 
-    {% comment %} Link next page {% endcomment %}
-    {% if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a></li>
-    {% else %}
-      <li><a href="#" class="disabled"><span aria-hidden="true">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</span></a></li>
-    {% endif %}
+    {%- comment %} Link next page {% endcomment %}
+    {%- if paginator.next_page %}
+      <li><a href="{{ paginator.next_page_path }}">Next</a></li>
+    {%- else %}
+      <li><a href="#" class="disabled"><span aria-hidden="true">Next</span></a></li>
+    {%- endif %}
   </ul>
 </nav>
 {% endif %}
