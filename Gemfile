@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby File.open(".tool-versions").grep(/ruby/).first.split.last
+ruby "3.2.1"
 
 gem "jekyll"
 gem "jekyll-feed"
