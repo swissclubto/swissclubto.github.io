@@ -35,6 +35,20 @@ jobs:
           bundler-cache: true
           rubygems: 3.4.8
 
+      - name: Make sure Ruby versions match
+        run: |
+          asdf=$(grep --word 'ruby' .tool-versions)
+          bundle=$(bundle platform --ruby)
+
+          if [[ $asdf != "$bundle" ]]; then
+              printf '%s\n' \
+                  "Ruby version mismatch:" \
+                  ".tool-versions: $asdf" \
+                  "Gemfile: $bundle" >&2
+
+              exit 1
+          fi
+
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
