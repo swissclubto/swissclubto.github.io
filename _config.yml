@@ -143,6 +143,9 @@ collections:
   gallery:
     output: true
     permalink: /:collection/:year/:month/:slug/
+  inmemoriam:
+    output: true
+    permalink: /:collection/:year/:month/:slug/
 
 # Front matter defaults
 defaults:
@@ -217,3 +220,12 @@ defaults:
       excerpt: ''
       sidebar:
         nav: events
+  # _inmemoriam
+  - scope:
+      path: ''
+      type: inmemoriam
+    values:
+      layout: single
+      excerpt: ''
+      header:
+        overlay_image: /assets/images/inmemoriam.webp

@@ -13,6 +13,8 @@ main:
     url: /membership/
   - title: Contact
     url: /contact/
+  - title: In Memoriam
+    url: /inmemoriam/
 
 membership:
   - title: Membership pages

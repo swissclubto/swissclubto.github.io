@@ -73,6 +73,13 @@ feature_row3:
       regular mail.
     url: /contact/
     btn_class: btn--primary
+feature_row4:
+  - image_path: /assets/images/inmemoriam-teaser.webp
+    title: In Memoriam
+    excerpt: |
+      Remembering those who have passed.
+    url: /inmemoriam/
+    btn_class: btn--primary
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -82,3 +89,5 @@ feature_row3:
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
