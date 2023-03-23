@@ -75,6 +75,11 @@ feature_row3:
     btn_class: btn--primary
 feature_row4:
   - image_path: /assets/images/inmemoriam-teaser.webp
+    image_caption: |
+      Photo by [Young Shih] on [Unsplash]
+
+      [Young Shih]: <https://unsplash.com/@yangchihshih>
+      [Unsplash]: <https://unsplash.com/photos/-GCMUcuesFU>
     title: In Memoriam
     excerpt: |
       Remembering those who have passed.
