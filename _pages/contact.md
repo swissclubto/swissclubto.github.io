@@ -3,6 +3,8 @@ title: Contact
 permalink: /contact/
 redirect_from: /contacts/club-officers/
 classes: wide
+sidebar:
+  nav: sections
 ---
 
 ## Address

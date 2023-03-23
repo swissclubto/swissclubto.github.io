@@ -2,6 +2,8 @@
 title: Membership
 permalink: /membership/
 redirect_from: /member-login/
+sidebar:
+  nav: membership
 ---
 
 If you already are a member and would like to login to your member profile,

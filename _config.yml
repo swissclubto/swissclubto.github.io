@@ -149,6 +149,7 @@ collections:
 
 # Front matter defaults
 defaults:
+  # Global defaults
   - scope:
       path: ''
     values:
@@ -183,11 +184,6 @@ defaults:
         nav: events
   # Membership pages
   - scope:
-      path: _pages/membership.md
-    values:
-      sidebar:
-        nav: membership
-  - scope:
       path: _pages/membership
     values:
       sidebar:
@@ -197,11 +193,6 @@ defaults:
       path: _pages/sections
     values:
       author_profile: true
-      sidebar:
-        nav: sections
-  - scope:
-      path: _pages/contact.md
-    values:
       sidebar:
         nav: sections
   # _gallery
