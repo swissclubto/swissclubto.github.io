@@ -2,6 +2,7 @@
 title: In Memoriam
 permalink: /inmemoriam/
 layout: home
+archive_title: Recent obituaries
 header:
   overlay_image: /assets/images/inmemoriam.webp
   caption: |
