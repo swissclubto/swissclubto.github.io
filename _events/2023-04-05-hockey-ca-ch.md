@@ -17,7 +17,9 @@ unfortunately sold out; however, our friends from the [Swiss Canadian Chamber
 of Commerce][sccc] organize a public viewing, to which the Swiss community is
 cordially invited.
 
-Please register at the link above if you're interested in joining.
+Please register at the [SCCC event page][event] if you're interested in
+joining.
 
 [news]: <{% post_url 2023-03-19-hockey %}>
 [sccc]: <https://www.swissbiz.ca/>
+[event]: <{{ page.web_url }}>
