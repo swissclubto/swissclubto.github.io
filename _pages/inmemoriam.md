@@ -15,4 +15,5 @@ pagination:
   collection: inmemoriam
 ---
 
-Text
+Please {% include email.html addr="benjamin.wuethrich@swissclubtoronto.ca"
+text="reach out to us" %} if you'd like for us to post an obituary.
