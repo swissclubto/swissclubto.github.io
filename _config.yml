@@ -217,7 +217,6 @@ defaults:
       type: inmemoriam
     values:
       layout: single
-      excerpt: ''
       header:
         overlay_image: /assets/images/inmemoriam.webp
         show_overlay_excerpt: true
