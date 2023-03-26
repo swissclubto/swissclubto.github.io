@@ -16,4 +16,5 @@ pagination:
 ---
 
 Please {% include email.html addr="benjamin.wuethrich@swissclubtoronto.ca"
-text="reach out to us" %} if you'd like for us to post an obituary.
+text="reach out to us" %} if you'd like for us to post an obituary for a member
+of the Swiss community in Toronto.
