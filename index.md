@@ -12,14 +12,14 @@ intro:
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
       at any of the activities or over dinner at the Annual General Meeting.
 feature_row1:
-  - image_path: /assets/images/news-teaser.png
+  - image_path: /assets/images/news-teaser.webp
     title: News
     excerpt: >
       Read up on the latest information from the sections, early announcements
       of upcoming events, and more.
     url: /news/
     btn_class: btn--primary
-  - image_path: /assets/images/volunteers-teaser.jpg
+  - image_path: /assets/images/volunteers-teaser.webp
     title: Volunteers
     excerpt: >
       Ever wondered how the Swiss Club works? Curious to learn more about the
@@ -27,7 +27,7 @@ feature_row1:
       volunteering? Want something new to do in 2023?
     url: /volunteers/
     btn_class: btn--primary
-  - image_path: /assets/images/events-teaser.jpg
+  - image_path: /assets/images/events-teaser.webp
     image_caption: Swiss Social July 2021
     title: Events
     excerpt: >
@@ -37,7 +37,7 @@ feature_row1:
     url: /events/
     btn_class: btn--primary
 feature_row2:
-  - image_path: /assets/images/tell-tale-teaser.jpg
+  - image_path: /assets/images/tell-tale-teaser.webp
     image_caption: 1960s newsletter
     title: Tell Tale archive
     excerpt: >
@@ -46,14 +46,14 @@ feature_row2:
       last few years.
     url: /telltale/
     btn_class: btn--primary
-  - image_path: /assets/images/gallery-teaser.jpg
+  - image_path: /assets/images/gallery-teaser.webp
     image_caption: Flag raising ceremony City Hall 2018
     title: Gallery
     excerpt: >
       Have a look at pictures from past events!
     url: /gallery/
     btn_class: btn--primary
-  - image_path: /assets/images/membership-teaser.jpg
+  - image_path: /assets/images/membership-teaser.webp
     image_caption: 25th anniversary brochure 1943
     title: Membership
     excerpt: >
@@ -61,7 +61,7 @@ feature_row2:
     url: /membership/
     btn_class: btn--primary
 feature_row3:
-  - image_path: /assets/images/contact-teaser.jpg
+  - image_path: /assets/images/contact-teaser.webp
     image_caption: Christmas dinner 2022
     title: Contact
     excerpt: |
