@@ -44,10 +44,10 @@ after_footer_scripts:
   - /assets/js/dimcalendar.js
 
 # Site default teaser image
-teaser: /assets/images/post-teaser.jpg
+teaser: /assets/images/post-teaser.webp
 
 # Site masthead logo
-logo: /assets/images/logo.svg
+logo: /assets/images/logo.webp
 
 # RSS feeds
 feed:
@@ -61,7 +61,7 @@ twitter:
 facebook:
   username: swissclubto
 # Open graph default image
-og_image: /assets/images/logo.png
+og_image: /assets/images/logo.webp
 # Social profile information for Google Knowledge panel
 social:
   type: Organization
@@ -150,7 +150,7 @@ defaults:
       path: ''
     values:
       header:
-        overlay_image: /assets/images/header.jpg
+        overlay_image: /assets/images/header.webp
         image_description: >
           The Swiss Flag in front of the Old City Hall and high rise buildings,
           seen from City Hall
