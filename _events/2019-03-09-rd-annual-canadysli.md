@@ -9,6 +9,6 @@ cost: |
   Advance: $50
   At the door: $55
 contact: Philippe
-teaser: assets/images/2019-03-09-canadysli-teaser.png
+teaser: assets/images/2019-03-09-canadysli-teaser.webp
 date: 2019-03-09
 ---

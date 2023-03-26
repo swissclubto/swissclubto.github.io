@@ -7,7 +7,7 @@ end_time: 5 pm
 contact:
   name: Peter Schürmann
   email: pschurmann@rogers.com
-teaser: assets/images/2022-09-17-csa-teaser.jpg
+teaser: assets/images/2022-09-17-csa-teaser.webp
 date: 2022-09-17
 ---
 

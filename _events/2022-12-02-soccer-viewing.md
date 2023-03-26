@@ -3,7 +3,7 @@ title: 'Cancelled: Serbia---Switzerland viewing party'
 location: Chelsea Hotel
 address: 33 Gerrard St W, Toronto
 contact: Arno
-teaser: assets/images/2018-06-17-soccer-teaser.jpg
+teaser: assets/images/2018-06-17-soccer-teaser.webp
 date: 2022-12-02
 ---
 

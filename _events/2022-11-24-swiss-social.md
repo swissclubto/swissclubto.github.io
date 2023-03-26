@@ -7,7 +7,7 @@ web_url_name: Facebook event
 start_time: 7 pm
 end_time: 9 pm
 contact: Nadia
-teaser: assets/images/2022-11-24-swiss-social-teaser.jpg
+teaser: assets/images/2022-11-24-swiss-social-teaser.webp
 date: 2022-11-24
 ---
 

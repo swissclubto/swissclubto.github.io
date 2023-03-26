@@ -7,6 +7,6 @@ end_time: 6:00 pm
 cost: |
   Members & children: free
   Non-members: $10
-teaser: assets/images/2017-07-30-snd-teaser.png
+teaser: assets/images/2017-07-30-snd-teaser.webp
 date: 2017-07-30
 ---

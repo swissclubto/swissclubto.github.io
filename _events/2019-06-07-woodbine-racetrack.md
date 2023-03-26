@@ -5,7 +5,7 @@ address: 555 Rexdale Blvd, Etobicoke, ON M9W
 contact: Paula
 start_time: 12:00 pm
 end_time: 5:00 pm
-teaser: assets/images/2019-06-07-woodbine-teaser.jpg
+teaser: assets/images/2019-06-07-woodbine-teaser.webp
 cost: |
   Swiss Club members: $42
   Non-members: $52

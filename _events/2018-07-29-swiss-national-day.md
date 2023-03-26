@@ -1,6 +1,6 @@
 ---
 title: Swiss National Day celebration 2018
-teaser: assets/images/2018-07-29-snd-teaser.png
+teaser: assets/images/2018-07-29-snd-teaser.webp
 location: Country Heritage Park
 address: 8560 Tremaine Rd, Milton, ON L9T 1X9
 start_time: 12:00 pm

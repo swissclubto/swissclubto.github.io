@@ -6,7 +6,7 @@ start_time: 7:00 pm
 contact: Nadia
 web_url: https://www.facebook.com/events/2000095330071900/
 web_url_name: Facebook event
-teaser: assets/images/2020-01-23-pub-teaser.jpg
+teaser: assets/images/2020-01-23-pub-teaser.webp
 date: 2019-01-24
 ---
 

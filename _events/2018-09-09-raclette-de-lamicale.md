@@ -1,6 +1,6 @@
 ---
 title: Raclette de l’Amicale Romande
-teaser: assets/images/2018-09-09-raclette-teaser.jpg
+teaser: assets/images/2018-09-09-raclette-teaser.webp
 location: Simeon Park
 address: 13190 Woodbine Ave, Gormley, ON L0H 1G0
 start_time: 12:00 pm

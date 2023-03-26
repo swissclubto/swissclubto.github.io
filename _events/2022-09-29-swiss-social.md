@@ -7,7 +7,7 @@ web_url_name: Facebook event
 start_time: 7 pm
 end_time: 9 pm
 contact: Ben
-teaser: assets/images/2021-11-25-pubnight-teaser.jpg
+teaser: assets/images/2021-11-25-pubnight-teaser.webp
 date: 2022-09-29
 ---
 

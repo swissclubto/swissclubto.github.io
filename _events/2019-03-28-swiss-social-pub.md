@@ -7,7 +7,7 @@ end_time: 9 pm
 contact: Nadia
 web_url: https://www.facebook.com/events/321583881798561/
 web_url_name: Facebook event
-teaser: assets/images/2019-03-28-swiss-social-teaser.jpg
+teaser: assets/images/2019-03-28-swiss-social-teaser.webp
 date: 2019-03-28
 ---
 

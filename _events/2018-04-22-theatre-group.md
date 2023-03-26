@@ -1,6 +1,6 @@
 ---
 title: Theatre group performance “Miss Sophie’s Erbe”
-teaser: assets/images/2018-04-22-theatre-teaser.jpg
+teaser: assets/images/2018-04-22-theatre-teaser.webp
 location: Latvian Canadian Centre
 address: 4 Credit Union Dr, North York, ON M4A
 start_time: 2:00 pm
@@ -18,7 +18,7 @@ Two additional performances are scheduled outside Toronto:
 - Ottawa, Saturday, April 28, 2018 at 7 pm. Contact the [Swiss Club Thames
   Valley][sctv] for more details.
 
-![Photo of play]({% link assets/images/2018-04-22-theatre-teaser2.jpg %})
+![Photo of play]({% link assets/images/2018-04-22-theatre-teaser2.webp %})
 
 [tel]: <tel:519-595-2456>
 [sctv]: <http://www.swissclubthamesvalley.com/contacts.htm>

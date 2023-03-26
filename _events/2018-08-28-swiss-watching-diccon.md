@@ -1,6 +1,6 @@
 ---
 title: 'Swiss Watching: Diccon Bewes lecture'
-teaser: assets/images/2018-08-28-swiss-watching-teaser.jpg
+teaser: assets/images/2018-08-28-swiss-watching-teaser.webp
 location: Toronto Reference Library---Beeton Auditorium
 address: 789 Yonge St, Toronto, ON M4W 2G8
 start_time: 7:00 pm
@@ -10,7 +10,7 @@ cost: Free
 date: 2018-08-28
 ---
 
-![Diccon Bewes]({% link assets/images/2018-08-28-diccon-bewes.jpg %}){: .align-right}
+![Diccon Bewes]({% link assets/images/2018-08-28-diccon-bewes.webp %}){: .align-right}
 
 The Swiss Club Toronto is honoured to partner with the Toronto Public Library
 in hosting a lecture by Diccon Bewes, author of "Swiss Watching" and "Slow

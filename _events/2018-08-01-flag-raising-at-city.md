@@ -1,6 +1,6 @@
 ---
 title: Flag raising at City Hall
-teaser: assets/images/2018-07-01-flag-teaser.jpg
+teaser: assets/images/2018-07-01-flag-teaser.webp
 location: Toronto City Hall
 address: 100 Queen St W, Toronto, ON M5H 2N2
 start_time: 11:30 am

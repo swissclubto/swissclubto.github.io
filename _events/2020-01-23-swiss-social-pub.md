@@ -7,7 +7,7 @@ web_url: https://www.facebook.com/events/1201843243308223/
 web_url_name: Facebook event
 start_time: 6:00 pm
 end_time: 9 pm
-teaser: assets/images/2020-01-23-pub-teaser.jpg
+teaser: assets/images/2020-01-23-pub-teaser.webp
 date: 2020-01-23
 ---
 

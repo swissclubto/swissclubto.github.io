@@ -1,6 +1,6 @@
 ---
 title: Canoe trip to Algonquin
-teaser: assets/images/2018-08-04-canoe-teaser.jpg
+teaser: assets/images/2018-08-04-canoe-teaser.webp
 location: Algonquin Provincial Park
 end_date: 2018-08-06
 contact: Walter
@@ -31,4 +31,4 @@ something different in Canada’s wilderness.
 If you are interested, get in touch with {{ page.contact }}. Space is limited,
 so it will be first come, first serve.
 
-![Canoe group]({% link assets/images/2018-08-04-canoe.jpg %})
+![Canoe group]({% link assets/images/2018-08-04-canoe.webp %})

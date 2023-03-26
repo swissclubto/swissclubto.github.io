@@ -5,7 +5,7 @@ address: 2190 Bloor St W, Toronto, ON M6S 1N3
 contact: Paula
 start_time: 2 pm
 end_time: 5 pm
-teaser: assets/images/2020-03-15-people-teaser.jpg
+teaser: assets/images/2020-03-15-people-teaser.webp
 date: 2020-03-15
 ---
 

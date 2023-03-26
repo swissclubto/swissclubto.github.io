@@ -1,6 +1,6 @@
 ---
 title: 'Soccer World Cup public viewing: Sweden'
-teaser: assets/images/2018-06-17-soccer-teaser.jpg
+teaser: assets/images/2018-06-17-soccer-teaser.webp
 location: The Rushton Pub
 address: 740 St Clair Ave W, Toronto, ON M6C 1B3k
 start_time: 9.30 am

@@ -1,6 +1,6 @@
 ---
 title: 'Soccer World Cup public viewing: Brazil'
-teaser: assets/images/2018-06-17-soccer-teaser.jpg
+teaser: assets/images/2018-06-17-soccer-teaser.webp
 location: The Rushton Pub
 address: 740 St Clair Ave W, Toronto, ON M6C 1B3k
 start_time: 1:00 pm

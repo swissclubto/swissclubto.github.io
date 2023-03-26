@@ -2,7 +2,7 @@
 title: Blossom time
 location: Niagara Falls
 contact: Paula
-teaser: assets/images/2019-05-11-blossom-teaser.jpg
+teaser: assets/images/2019-05-11-blossom-teaser.webp
 cost: |
   Swiss Club Toronto members: $75
   Guests: $82

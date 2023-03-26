@@ -2,7 +2,7 @@
 title: Festival of Lights & USA outlet
 location: Niagara Falls
 contact: Paula
-teaser: assets/images/2017-12-02-niagara-teaser.jpg
+teaser: assets/images/2017-12-02-niagara-teaser.webp
 date: 2017-12-02
 ---
 

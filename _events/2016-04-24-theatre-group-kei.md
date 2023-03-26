@@ -8,7 +8,7 @@ cost: |
   Members: $15
   Non-members: $20
   Youth: $10 (children free)
-teaser: assets/images/2016-04-24-regel-teaser.png
+teaser: assets/images/2016-04-24-regel-teaser.webp
 date: 2016-04-24
 ---
 

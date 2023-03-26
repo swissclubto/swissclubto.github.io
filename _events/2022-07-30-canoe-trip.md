@@ -4,7 +4,7 @@ location: Algonquin Park
 end_date: 2022-08-01
 contact: Walter
 cost: About $100 per person
-teaser: assets/images/2022-07-30-canoe-teaser.jpg
+teaser: assets/images/2022-07-30-canoe-teaser.webp
 date: 2022-07-30
 ---
 

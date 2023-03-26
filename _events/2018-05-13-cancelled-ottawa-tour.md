@@ -1,6 +1,6 @@
 ---
 title: Ottawa tour and Tulip Festival
-teaser: assets/images/2018-05-13-ottawa-teaser.jpg
+teaser: assets/images/2018-05-13-ottawa-teaser.webp
 location: Ottawa
 end_date: 2018-05-14
 contact: Paula

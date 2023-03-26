@@ -8,7 +8,7 @@ end_time: 1:00 am
 contacts:
   - Philippe
   - Hannah
-teaser: assets/images/2020-03-07-canadysli-teaser.png
+teaser: assets/images/2020-03-07-canadysli-teaser.webp
 cost: |
   $50 in advance
   $55 at the door

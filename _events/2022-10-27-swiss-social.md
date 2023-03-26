@@ -7,7 +7,7 @@ web_url_name: Facebook event
 start_time: 6 pm
 end_time: 9 pm
 contact: Charlotte
-teaser: assets/images/2022-10-27-swiss-social-teaser.jpg
+teaser: assets/images/2022-10-27-swiss-social-teaser.webp
 date: 2022-10-27
 ---
 

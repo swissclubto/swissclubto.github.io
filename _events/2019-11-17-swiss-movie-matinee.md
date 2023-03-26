@@ -4,7 +4,7 @@ location: Hillcrest Library
 address: 5801 Leslie St, North York, ON M2H 1J8
 start_time: 2:30 pm
 end_time: 5:00 pm
-teaser: assets/images/2019-11-17-matinee-teaser.jpg
+teaser: assets/images/2019-11-17-matinee-teaser.webp
 date: 2019-11-17
 ---
 

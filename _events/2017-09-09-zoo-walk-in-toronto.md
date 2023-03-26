@@ -5,7 +5,7 @@ address: 2000 Meadowvale Rd, Scarborough, ON M1B 5K7
 start_time: 10:30 am
 end_time: 2:30 pm
 contact: Denise
-teaser: assets/images/2018-09-09-zoo-teaser.jpg
+teaser: assets/images/2018-09-09-zoo-teaser.webp
 date: 2017-09-09
 ---
 

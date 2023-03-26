@@ -1,6 +1,6 @@
 ---
 title: Une part d’ombre
-teaser: assets/images/2018-10-15-ombre.jpg
+teaser: assets/images/2018-10-15-ombre.webp
 location: Carlton Cinema
 address: 20 Carlton St, Toronto, ON M5B 2H5
 start_time: 6:30 pm
