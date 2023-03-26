@@ -2,8 +2,6 @@
 title: Gordon Moore
 date: 2023-03-25
 excerpt: 1929--2023
-header:
-  teaser: /assets/images/2023-03-25-gordon-moore.webp
 sidebar:
   - image: /assets/images/2023-03-25-gordon-moore.webp
 ---
