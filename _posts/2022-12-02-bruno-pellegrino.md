@@ -21,6 +21,6 @@ Metropolis bleu, Marie-Andrée Lamontagne.
 
 Livre disponible en librairie et aussi sur [leslibraires.ca].
 
-[banner]: <{% link assets/images/2022-12-02-bruno-pellegrino.jpg %}>
+[banner]: <{% link assets/images/2022-12-02-bruno-pellegrino.webp %}>
 [inscription]: <https://www.goethe.de/ins/ca/fr/sta/mon/ver.cfm?event_id=24355918>
 [leslibraires.ca]: <https://www.leslibraires.ca/livres/dans-la-ville-provisoire-bruno-pellegrino-9782889278763.html>

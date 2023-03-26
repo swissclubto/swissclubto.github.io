@@ -17,7 +17,7 @@ And lastly, a reminder that the youth services offered by the ASO rely on
 [donations]; use the keyword "Jugenddienst".
 
 [website]: <https://www.swisscommunity.org/en/offers-events/offers-for-young-people-aged-15-25>
-[cover]: <{% link assets/images/2022-12-02-youth-camps.jpg %}>
+[cover]: <{% link assets/images/2022-12-02-youth-camps.webp %}>
 [flyer]: <{% link assets/pdf/2022-12-02-youth-camps.pdf %}>
 [congress]: <https://www.swisscommunity.org/en/offers-events/offers-for-young-people-aged-15-25/camps/3rd-congress-of-young-swiss-abroad>
 [donations]: <https://www.swisscommunity.org/en/private-donations>

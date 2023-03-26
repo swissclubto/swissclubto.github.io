@@ -3,7 +3,7 @@ title: Report from the ASO congress
 author: Florence Pasche Guignard
 tag: aso
 figure:
-  image_path: /assets/images/2018-08-12-aso-congress.jpg
+  image_path: /assets/images/2018-08-12-aso-congress.webp
   alt: >
     The Organization of the Swiss Abroad Canadian delegates to the 96th
     Congress of the Swiss Abroad in Visp

@@ -52,4 +52,4 @@ addr="casting@forte-entertainment.com" %}.
 
 [![How I got here flyer][flyer]][flyer]
 
-[flyer]: <{% link assets/images/2022-09-09-how-i-got-here.jpg %}>
+[flyer]: <{% link assets/images/2022-09-09-how-i-got-here.webp %}>

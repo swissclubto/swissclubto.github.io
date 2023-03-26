@@ -3,7 +3,7 @@ title: An evening of Italian Poetry
 author: Swiss Club Toronto
 ---
 
-![Fabio Andina and Guido Catalano]({% link assets/images/2022-10-01-fabio-andina.jpg %})
+![Fabio Andina and Guido Catalano]({% link assets/images/2022-10-01-fabio-andina.webp %})
 
 As part of Italian Language Week celebrations, the Swiss Representations in
 Canada present a [literary tour][tour] of Swiss Ticinese author [Fabio
