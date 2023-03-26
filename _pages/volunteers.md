@@ -3,7 +3,7 @@ title: Volunteers
 permalink: /volunteers/
 ---
 
-![Volunteers]({% link assets/images/volunteers.jpg %})
+![Volunteers]({% link assets/images/volunteers.webp %})
 
 We are looking for new volunteers to bring their skills and experience to our
 small but mighty team. Here's what's in store for you:

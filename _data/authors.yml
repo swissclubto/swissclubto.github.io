@@ -1,13 +1,13 @@
 albert:
   name: Albert Lenz
-  avatar: /assets/images/officers/albert.jpg
+  avatar: /assets/images/officers/albert.webp
   email: albert.lenz@swissclubtoronto.ca
 
 arno:
   name: Arno Sigrist
   section: Men's Section
   bio: Section head
-  avatar: /assets/images/officers/arno.jpg
+  avatar: /assets/images/officers/arno.webp
   email: arno.s@sympatico.ca
   links:
     - label: Phone
@@ -17,19 +17,19 @@ arno:
 auggie:
   name: Augustin Werner
   position: Treasurer
-  avatar: /assets/images/officers/auggie.jpg
+  avatar: /assets/images/officers/auggie.webp
   email: augustin.werner@swissclubtoronto.ca
 
 ben:
   name: Benjamin Wuethrich
-  avatar: /assets/images/officers/ben.jpg
+  avatar: /assets/images/officers/ben.webp
   position: Memberships, Website
   email: membership@swissclubtoronto.ca
 
 charlotte:
   name: Charlotte Mariller
   position: Vice President, Swiss Social
-  avatar: /assets/images/officers/charlotte.jpg
+  avatar: /assets/images/officers/charlotte.webp
   email: charlotte.mariller@swissclubtoronto.ca
   links:
     - label: Phone
@@ -48,7 +48,7 @@ erika:
   name: Erika Tièche
   section: Social Jass Section
   bio: Section head
-  avatar: /assets/images/officers/erika.jpg
+  avatar: /assets/images/officers/erika.webp
   email: swisserikat@gmail.com
   links:
     - label: Phone
@@ -65,14 +65,14 @@ hannah:
 heidy:
   name: Heidy Lawrance
   position: Tell Tale Editor
-  avatar: /assets/images/officers/heidy.jpg
+  avatar: /assets/images/officers/heidy.webp
   email: heidy.lawrance@swissclubtoronto.ca
 
 jean-marc:
   name: Jean-Marc Velen
   section: Amicale Romande
   bio: Section head *a.i.*
-  avatar: /assets/images/officers/jean-marc.jpg
+  avatar: /assets/images/officers/jean-marc.webp
   email: jean-marc.velen@swissclubtoronto.ca
   links:
     - label: Phone
@@ -83,7 +83,7 @@ maggie:
   name: Magdalena Hess
   section: Theatre Group
   bio: Section head
-  avatar: /assets/images/officers/maggie.jpg
+  avatar: /assets/images/officers/maggie.webp
   email: magdalena.hess@swissclubtoronto.ca
 
 monika:
@@ -97,19 +97,19 @@ monika:
 nadia:
   name: Nadia Berger
   position: President
-  avatar: /assets/images/officers/nadia.jpg
+  avatar: /assets/images/officers/nadia.webp
   email: info@swissclubtoronto.ca
 
 noemie:
   name: Noemie Steiner
-  avatar: /assets/images/officers/noemie.jpg
+  avatar: /assets/images/officers/noemie.webp
   email: noemie.steiner@swissclubtoronto.ca
 
 paula:
   name: Paula Rico
   section: Women's Section
   bio: Section head
-  avatar: /assets/images/officers/paula.jpg
+  avatar: /assets/images/officers/paula.webp
   email: ricopaula420@gmail.com
   links:
     - label: Phone
@@ -137,12 +137,12 @@ simone:
   position: Secretary
   section: Five-Pin Bowling
   bio: Section head
-  avatar: /assets/images/officers/simone.jpg
+  avatar: /assets/images/officers/simone.webp
   email: simone.hohn@swissclubtoronto.ca
 
 suzi:
   name: Suzi Hubler
-  avatar: /assets/images/officers/suzi.jpg
+  avatar: /assets/images/officers/suzi.webp
   email: suzi.hubler@swissclubtoronto.ca
 
 thomas:

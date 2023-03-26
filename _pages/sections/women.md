@@ -17,5 +17,5 @@ Upcoming dates:
 
 {% include upcoming-events.html section="women" %}
 
-{% include figure image_path="/assets/images/womens-section.jpg" caption="2018"
+{% include figure image_path="/assets/images/womens-section.webp" caption="2018"
 %}

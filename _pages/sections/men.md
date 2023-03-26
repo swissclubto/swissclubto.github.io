@@ -17,5 +17,5 @@ Here are the dates of the next few events:
 
 {% include upcoming-events.html section="men" %}
 
-{% include figure image_path="/assets/images/mens-section.jpg" caption="2022
+{% include figure image_path="/assets/images/mens-section.webp" caption="2022
 Christmas Lunch" %}

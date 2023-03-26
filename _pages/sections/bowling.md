@@ -23,5 +23,5 @@ We play on the following dates:
 We are a family friendly group, our youngest player is six, and there is no age
 limit.
 
-{% include figure image_path="/assets/images/bowling-section.jpg"
+{% include figure image_path="/assets/images/bowling-section.webp"
 caption="Bowling session November 2022" %}
