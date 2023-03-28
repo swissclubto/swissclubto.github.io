@@ -33,7 +33,7 @@ jobs:
         uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1  # v1.144.2
         with:
           bundler-cache: true
-          rubygems: 3.4.9
+          rubygems: 3.4.10
 
       - name: Make sure Ruby versions match
         run: |
