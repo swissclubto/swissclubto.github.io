@@ -1,6 +1,7 @@
 {%- capture output -%}
 <i class="fas fa-fw fa-map-marked-alt"></i>
-<a href="https://www.google.com/maps/search/?api=1&query={{ include.addr | cgi_escape }}">
+<a href="https://www.google.com/maps/search/?api=1&query={{ include.addr
+  | default: include.description | cgi_escape }}">
   {{- include.description -}}
 </a>
 {%- endcapture -%}
