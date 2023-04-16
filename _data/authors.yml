@@ -3,6 +3,12 @@ albert:
   avatar: /assets/images/officers/albert.webp
   email: albert.lenz@swissclubtoronto.ca
 
+antoine:
+  name: Antoine Belaieff
+  bio: OSA Representative
+  avatar: /assets/images/officers/antoine.webp
+  email: antoinejcbv@gmail.com
+
 arno:
   name: Arno Sigrist
   section: Men's Section
