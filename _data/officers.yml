@@ -1,13 +1,13 @@
 board:
-  - nadia
   - charlotte
-  - auggie
-  - simone
-  - heidy
   - ben
+  - auggie
+  - heidy
+  - nadia
 
 sections:
   - jean-marc
+  # - philippe
   - simone
   - erika
   - arno

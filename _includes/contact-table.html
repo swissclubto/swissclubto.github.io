@@ -24,7 +24,11 @@
       </td>
       {%- case include.type -%}
       {%- when "board" %}
-      <td>{{ member.position }}</td>
+      <td>{{ member.position
+        | newline_to_br
+        | markdownify
+        | remove: "<p>"
+        | remove: "</p>" }}</td>
       {%- when "sections" %}
       <td>
         <a href="{% link {{ site.data.sections[member.section].url }} %}">{{ member.section }}</a>
