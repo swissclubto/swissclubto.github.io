@@ -67,6 +67,8 @@ sections:
     children:
       - title: Amicale Romande
         url: /sections/amicale/
+      - title: Canadysli
+        url: /sections/canadysli/
       - title: Five-Pin Bowling
         url: /sections/bowling/
       - title: Men's Section
