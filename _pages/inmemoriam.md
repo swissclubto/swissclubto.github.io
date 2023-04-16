@@ -15,6 +15,6 @@ pagination:
   collection: inmemoriam
 ---
 
-Please {% include email.html addr="benjamin.wuethrich@swissclubtoronto.ca"
-text="reach out to us" %} if you'd like for us to post an obituary for a member
-of the Swiss community in Toronto.
+Please {% include email.html addr="webmaster@swissclubtoronto.ca" text="reach
+out to us" %} if you'd like for us to post an obituary for a member of the
+Swiss community in Toronto.
