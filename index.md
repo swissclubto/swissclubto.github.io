@@ -62,7 +62,7 @@ feature_row2:
     btn_class: btn--primary
 feature_row3:
   - image_path: /assets/images/contact-teaser.webp
-    image_caption: Christmas dinner 2022
+    image_caption: Annual General Meeting 2023
     title: Contact
     excerpt: |
       Learn more about the board of directors, the various sections, and their
