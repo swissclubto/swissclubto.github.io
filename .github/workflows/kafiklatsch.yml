@@ -117,7 +117,7 @@ jobs:
               exit 0
           fi
 
-          monthyear=$(date --date="$year-month-01" +'%B %Y')
+          monthyear=$(date --date="$year-$month-01" +'%B %Y')
 
           git config --global user.name 'github-actions'
           git config --global user.email \
