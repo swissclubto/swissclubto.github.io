@@ -1,0 +1,133 @@
+name: Add Kafiklatsch events
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: Year
+        required: false
+        type: string
+      month:
+        description: Month
+        required: true
+        type: choice
+        options:
+          - Jan
+          - Feb
+          - Mar
+          - Apr
+          - May
+          - Jun
+          - Jul
+          - Aug
+          - Sep
+          - Oct
+          - Nov
+          - Dec
+
+concurrency:
+  group: ${{ github.workflow }}
+
+env:
+  TZ: America/Toronto
+
+jobs:
+  kafiklatsch:
+    name: Add Kafiklatsch events
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3.5.2
+
+      - name: Set year and month
+        id: setmonth
+        env:
+          eventname: ${{ github.event_name }}
+          inyear: ${{ inputs.year }}
+          inmonth: ${{ inputs.month }}
+        run: |
+          if [[ $eventname == 'workflow_dispatch' ]]; then
+              IFS=- read -r year month <<< \
+                  "$(date --date="$inmonth 1 $inyear" +'%Y-%m')"
+          else
+              IFS=- read -r year month <<< \
+                  "$(date --date='today + 1 month' +'%Y-%m')"
+          fi
+
+          printf '%s=%s\n' "month" "$month" "year" "$year" >> "$GITHUB_OUTPUT"
+
+      - name: Create event files
+        env:
+          year: ${{ steps.setmonth.outputs.year }}
+          month: ${{ steps.setmonth.outputs.month }}
+        run: |
+          date=$(date --date="$year-$month-01" +%F)
+
+          while [[ $date == *-$month-* ]]; do
+              case $(date --date="$date" +%A) in
+                  'Monday') mondays+=("$(date --date="$date" +%F)") ;;
+                  'Wednesday') wednesdays+=("$(date --date="$date" +%F)") ;;
+              esac
+
+              date=$(date --date="$date + 1 day" +%F)
+          done
+
+          # Men's kaffi klatsch every Monday
+          menmonday='_events/2023-04-03-mens-kaffi-klatsch.md'
+
+          for date in "${mondays[@]}"; do
+              target="_events/$date-mens-kaffi-klatsch$((++i)).md"
+              cp "$menmonday" "$target"
+              date="$date" yq --inplace --front-matter=process \
+                  '.date = env(date)' "$target"
+          done
+
+          # Men's virtual kaffi klatsch on the third Wednesday
+          menvirtual='_events/2023-04-19-mens-virtual-klatsch.md'
+          target="_events/${mondays[2]}-mens-virtual-klatsch.md"
+          cp "$menvirtual" "$target"
+          date="${mondays[2]}" yq --inplace --front-matter=process \
+              '.date = env(date)' "$target"
+
+          # Women's klatsch on the first Wednesday
+          womensfirst='_events/2023-04-05-womens-kaffeeklatsch.md'
+          target="_events/${wednesdays[0]}-womens-kaffeeklatsch1.md"
+          cp "$womensfirst" "$target"
+          date="${wednesdays[0]}" yq --inplace --front-matter=process \
+              '.date = env(date)' "$target"
+
+          # Women's klatsch on the last Wednesday
+          womenslast='_events/2023-04-26-womens-kaffeeklatsch2.md'
+          target="_events/${wednesdays[-1]}-womens-kaffeeklatsch2.md"
+          cp "$womenslast" "$target"
+          date="${wednesdays[-1]}" yq --inplace --front-matter=process \
+              '.date = env(date)' "$target"
+
+      - name: Create pull request
+        env:
+          year: ${{ steps.setmonth.outputs.year }}
+          month: ${{ steps.setmonth.outputs.month }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          if [[ -z $(git status --porcelain) ]]; then
+              echo "No events were added" >&2
+              exit 0
+          fi
+
+          monthyear=$(date --date="$year-month-01" +'%B %Y')
+
+          git config --global user.name 'github-actions'
+          git config --global user.email \
+              '41898282+github-actions[bot]@users.noreply.github.com'
+
+          branch="kafiklatsch-$year-$month"
+          git switch --create "$branch"
+          git add _events
+          git commit --message="Add Kafiklatsch events for $monthyear"
+          git push --set-upstream origin "$branch"
+
+          gh pr create --base main \
+              --title="Add Kafiklatsch events for $monthyear" --body=''
