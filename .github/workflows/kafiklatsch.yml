@@ -2,7 +2,7 @@ name: Add Kafiklatsch events
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: 23 11 15 * *
   workflow_dispatch:
     inputs:
       year:
