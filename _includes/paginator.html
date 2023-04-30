@@ -22,9 +22,9 @@
     {%- comment %} All pages in trail {% endcomment %}
     {%- for trail in paginator.page_trail %}
       <li><a
-          {%- if paginator.page == trail.num %} class="disabled current"
-          {%- endif %} href="{{ trail.path | remove_first: "index.html" | relative_url }}">
-          {{- trail.num -}}
+        {%- if paginator.page == trail.num %} class="disabled current"
+        {%- endif %} href="{{ trail.path | remove_first: "index.html" | relative_url }}">
+        {{- trail.num -}}
       </a></li>
     {%- endfor %}
 
