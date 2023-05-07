@@ -1,5 +1,6 @@
 ---
 title: Minutes of the Annual General Meeting 2023
+date: 2023-05-07 17:08:52 -0400
 author:
   name: Simone Höhn
   bio: Secretary
