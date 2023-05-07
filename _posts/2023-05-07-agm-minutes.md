@@ -164,7 +164,7 @@ in the Swiss Club.
 
 Maggie Hess is the Section head of the Theatre Group for over 30 years. After
 the forced Covid break, the Theatre Group is putting on a play this spring
-2023. They found a suitable comedy for the group and they practiced weekly
+2023\. They found a suitable comedy for the group and they practiced weekly
 over several months. Their first performance is going to take place this
 weekend, on Sunday April 16 in Wellesley. The Toronto performance will be next
 Weekend, on April 22 at the Latvian Center. Hopefully many of you will be able
@@ -295,32 +295,30 @@ On March 16 and 17 the spring meeting of the Council of the Swiss Abroad took
 place in Berne, preceded by an exchange between delegates and national
 councillors. This year the exchange was followed by a workshop.
 
-**Key takeaways from the general meeting and exchange with parliamentarians:**
-Banks: The OSA continues to establish new partnerships with Swiss Banks to
-serve our community. The Zuercher Kantonalbank, in addition to Post Finance,
-now serves Swiss citizen who live in Canada, but the fees are close to 500.-
-per year.
+### Key takeaways from the general meeting and exchange with parliamentarians
 
-**E-voting:** Basel-Stadt, Thurgau and St.Gallen will be testing e-voting in
-the June vote.
+- **Banks:** The OSA continues to establish new partnerships with Swiss Banks
+  to serve our community. The Zuercher Kantonalbank, in addition to Post Finance,
+  now serves Swiss citizen who live in Canada, but the fees are close to 500.-
+  per year.
+- **E-voting:** Basel-Stadt, Thurgau and St.Gallen will be testing e-voting in
+  the June vote.
+- **Mode of election of delegates:** Delegates are now chosen by Swiss clubs and
+  associations. Associations in the UK, Mexico and Australia have tested a
+  universal ballot to allow anyone registered to elect their representatives.
+  What do you think? Send your input to Antoine and Suzanne.
+- **Federal elections 2023:** Political parties are getting ready for the 2023
+  elections. Let the parties know what matters to you and consider joining an
+  international section and even put your name on a main list or sublist and run
+  for office in Switzerland.
+- **Driver's licence:** A new issue popped up after the meeting. The old blue
+  driver's licence is not going to be valid after January 31, 2024. As it stands,
+  a Swiss driver's licence cannot be renewed if you do not live in Switzerland.
 
-**Mode of election of delegates:** Delegates are now chosen by Swiss clubs and
-associations. Associations in the UK, Mexico and Australia have tested a
-universal ballot to allow anyone registered to elect their representatives.
-What do you think? Send your input to Antoine and Suzanne.
+### Key takeaways from the workshop on democratic participation
 
-**Federal elections 2023:** Political parties are getting ready for the 2023
-elections. Let the parties know what matters to you and consider joining an
-international section and even put your name on a main list or sublist and run
-for office in Switzerland.
-
-**Driver's licence:** A new issue popped up after the meeting. The old blue
-driver's licence is not going to be valid after January 31, 2024. As it stands,
-a Swiss driver's licence cannot be renewed if you do not live in Switzerland.
-
-**Key takeaways from the workshop on democratic participation:** The return of
-e-voting does not guarantee that the participation of the 5th Switzerland will
-immediately rise to the level of the inland Swiss.
+The return of e-voting does not guarantee that the participation of the 5th
+Switzerland will immediately rise to the level of the inland Swiss.
 
 For this reason, the OSA and delegates Carmen Trochsler from Australia and
 Antoine Belaieff from Canada collaborated with the NGO *Campus for Democracy* to
