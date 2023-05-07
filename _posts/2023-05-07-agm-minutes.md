@@ -381,36 +381,36 @@ Nadia asked everyone present to have a look at the printouts on the tables.
 
 1. Chapter 2, *Membership and General Meeting*, Art. 2; proposed change:
 
-   Proposal for honorary membership <s>must</s>{: style="color: red"}
-   <span>can</span>{: style="color: green"} be submitted <s>in writing</s>{:
-   style="color: red"} to the Board of Directors at <s>least thirty days prior
-   to the Annual General Meeting</s>{: style="color: red"} <span>any
-   time</span>{: style="color: green"}. Such proposals<s>, to be submitted to
-   the Annual General Meeting,</s>{: style="color: red"} require a simple
-   majority of the Board of Directors. <s>A two-third majority of voting
-   members present at the Annual General Meeting is required for
-   acceptance.</s>{: style="color: red"} The foregoing procedure shall equally
-   apply to proposals for life-time membership. Eligible for life-time
-   membership shall be active members who have been members in good standing
-   for a total of no less than thirty years. <span>New life-time and honorary
-   memberships must be shared at the next Annual General Meeting.</span>{:
-   style="color: green"}
-
-   The Swiss Ambassador in Ottawa is to be invited to be an honorary member of
-   the Club. <span>The Swiss Canadian Chamber of Commerce President is to be
-   invited to be an honorary member of the Club.</span>{: style="color: green"}
+   > Proposal for honorary membership <s>must</s>{: style="color: red"}
+   > <span>can</span>{: style="color: green"} be submitted <s>in writing</s>{:
+   > style="color: red"} to the Board of Directors at <s>least thirty days prior
+   > to the Annual General Meeting</s>{: style="color: red"} <span>any
+   > time</span>{: style="color: green"}. Such proposals<s>, to be submitted to
+   > the Annual General Meeting,</s>{: style="color: red"} require a simple
+   > majority of the Board of Directors. <s>A two-third majority of voting
+   > members present at the Annual General Meeting is required for
+   > acceptance.</s>{: style="color: red"} The foregoing procedure shall equally
+   > apply to proposals for life-time membership. Eligible for life-time
+   > membership shall be active members who have been members in good standing
+   > for a total of no less than thirty years. <span>New life-time and honorary
+   > memberships must be shared at the next Annual General Meeting.</span>{:
+   > style="color: green"}
+   >
+   > The Swiss Ambassador in Ottawa is to be invited to be an honorary member of
+   > the Club. <span>The Swiss Canadian Chamber of Commerce President is to be
+   > invited to be an honorary member of the Club.</span>{: style="color: green"}
 
    Approver: Auggie Werner\
    Seconder: Arno Sigrist
 
 2. Chapter 3, *Board of Directors*, Art. 2; proposed change:
 
-   Candidates for any office of the Board of Directors must have been members
-   of the Club for at least <s>one full calendar year</s>{: style="color: red"}
-   <span>six months</span>{: style="color: green"} prior to their election,
-   except for the President for whom a membership for at least <s>two calendar
-   years</s>{: style="color: red"} <span>one year</span>{: style="color:
-   green"} is required. The President of the Club must be of Swiss origin.
+   > Candidates for any office of the Board of Directors must have been members
+   > of the Club for at least <s>one full calendar year</s>{: style="color: red"}
+   > <span>six months</span>{: style="color: green"} prior to their election,
+   > except for the President for whom a membership for at least <s>two calendar
+   > years</s>{: style="color: red"} <span>one year</span>{: style="color:
+   > green"} is required. The President of the Club must be of Swiss origin.
 
    Approver: Heidy Lawrence\
    Seconder: Charlotte Mariller
