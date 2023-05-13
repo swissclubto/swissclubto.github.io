@@ -35,6 +35,13 @@ ben:
     Website
   email: benjamin.wuethrich@swissclubtoronto.ca
 
+cedric:
+  name: Cedric Daros
+  section: Amicale Romande
+  bio: Section head
+  avatar: /assets/images/officers/cedric.webp
+  email: cedric.daros@swissclubtoronto.ca
+
 charlotte:
   name: Charlotte Mariller
   position: |
@@ -81,8 +88,6 @@ heidy:
 
 jean-marc:
   name: Jean-Marc Velen
-  section: Amicale Romande
-  bio: Section head *a.i.*
   avatar: /assets/images/officers/jean-marc.webp
   email: jean-marc.velen@swissclubtoronto.ca
   links:
