@@ -90,9 +90,9 @@ jobs:
 
           # Men's virtual kaffi klatsch on the third Wednesday
           menvirtual='_events/2023-04-19-mens-virtual-klatsch.md'
-          target="_events/${mondays[2]}-mens-virtual-klatsch.md"
+          target="_events/${wednesdays[2]}-mens-virtual-klatsch.md"
           cp "$menvirtual" "$target"
-          date="${mondays[2]}" yq --inplace --front-matter=process \
+          date="${wednesdays[2]}" yq --inplace --front-matter=process \
               '.date = env(date)' "$target"
 
           # Women's klatsch on the first Wednesday
