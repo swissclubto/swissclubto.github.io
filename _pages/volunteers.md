@@ -18,4 +18,4 @@ small but mighty team. Here's what's in store for you:
 
 We welcome anyone who has a few hours a month to spare, the enthusiasm, the
 curiosity, and the interest! Please email us at {% include email.html
-addr=site.data.authors.nadia.email %} and we will get back to you.
+addr=site.data.authors.charlotte.email %} and we will get back to you.
