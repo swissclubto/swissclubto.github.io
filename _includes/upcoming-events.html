@@ -2,6 +2,10 @@
 {%- assign events = site.events
   | where_exp: "item", "item.date >= today and item.section == include.section" -%}
 
+{%- if events.size > 0 and include.header %}
+{{ include.header }}
+{% endif %}
+
 {%- for e in events -%}
 {%- if forloop.first %}
 | Date | Event |
