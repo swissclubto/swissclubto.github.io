@@ -1,5 +1,5 @@
 ---
-title: Minutes of the Annual General Meeting 2023
+title: Minutes of the Annual General Meeting for 2022
 date: 2023-05-07 17:08:52 -0400
 author:
   name: Simone Höhn
@@ -10,6 +10,10 @@ author_profile: true
 toc: true
 toc_sticky: true
 ---
+
+:information_source: Notice that these minutes are yet to be approved by the
+next AGM in 2024 and, as such, are to be considered provisional only.
+{: .notice--info}
 
 | **Location**  | The Chelsea Hotel, Toronto---Rosetti Room             |
 | **Date/Time** | April 14th, 2023 at 8:00pm                            |
