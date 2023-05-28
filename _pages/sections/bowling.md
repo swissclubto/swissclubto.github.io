@@ -16,9 +16,8 @@ optional dinner afterwards at a nearby restaurant.
 
 The price for bowling is \$25, plus shoe rental.
 
-We play on the following dates:
-
-{% include upcoming-events.html section="bowling" %}
+{% include upcoming-events.html section="bowling" header="We play on the
+following dates:" %}
 
 We are a family friendly group, our youngest player is six, and there is no age
 limit.

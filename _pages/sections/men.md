@@ -13,9 +13,8 @@ Shopping Centre" %}.
 
 We also meet via Zoom, on every third Wednesday of the month.
 
-Here are the dates of the next few events:
-
-{% include upcoming-events.html section="men" %}
+{% include upcoming-events.html section="men" header="Here are the dates
+of the next few events:" %}
 
 {% include figure image_path="/assets/images/mens-section.webp" caption="2022
 Christmas Lunch" %}
