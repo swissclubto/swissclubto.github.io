@@ -4,11 +4,14 @@
 {%- if include.contact.name -%}
   {%- assign contact = include.contact -%}
   {%- assign tel = contact.tel -%}
+  {%- assign txt = contact.txt -%}
 {%- else -%}
   {%- assign key = include.contact | downcase -%}
   {%- assign contact = site.data.authors[key] -%}
   {%- assign tel_obj = contact.links | find: "label", "Phone" -%}
   {%- assign tel = tel_obj.url | remove_first: "tel:" -%}
+  {%- assign txt_obj = contact.links | find: "label", "Messaging" -%}
+  {%- assign txt = txt_obj.url | remove_first: "tel:" -%}
 {%- endif -%}
 {%- if contact.name -%}
   <i class="fas fa-fw fa-user"></i>
@@ -21,4 +24,8 @@
 {%- if tel != "" and tel != nil -%}
   <i class="fas fa-fw fa-phone"></i>
   <a href="tel:{{ tel }}">{{ tel }}</a><br>
+{%- endif -%}
+{%- if txt != "" and txt != nil -%}
+  <i class="fas fa-fw fa-sms"></i>
+  <a href="tel:{{ txt }}">{{ txt }}</a><br>
 {%- endif -%}
