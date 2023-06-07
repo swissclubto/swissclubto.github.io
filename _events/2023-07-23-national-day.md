@@ -8,6 +8,7 @@ contact: Charlotte
 cost: Free; food and drinks sold separately
 teaser: assets/images/2022-07-24-national-day-teaser.webp
 date: 2023-07-23
+redirect_from: /nd2023/
 ---
 
 Come celebrate Switzerland's 732nd birthday with the Swiss Club Toronto! There
