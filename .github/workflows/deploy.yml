@@ -24,7 +24,7 @@ jobs:
       contents: read
     steps:
       - name: Check out repo
-        uses: actions/checkout@v3.5.2
+        uses: actions/checkout@v3.5.3
         with:
           fetch-depth: 0
 
