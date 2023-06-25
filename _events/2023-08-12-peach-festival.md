@@ -2,7 +2,7 @@
 title: Trip to Niagara Peach Festival
 location: Niagara
 contact: paula
-date: 2023-08-13
+date: 2023-08-12
 cost: $99 (includes lunch)
 teaser: assets/images/2023-08-13-peach-festival-teaser.webp
 teaser_caption: |

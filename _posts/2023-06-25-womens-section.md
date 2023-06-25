@@ -29,10 +29,10 @@ husband Gerry.
 On June 24th, some of us met at the [Egger farms BBQ][bbq] organized by the
 Men's Section.
 
-On August 13th, another trip is available, to the Peach Festival in Niagara.
+On August 12th, another trip is available, to the Peach Festival in Niagara.
 The price is \$99, lunch included. Because of high demand, reservations should
 be made ASAP, one bus is already full! See the [event page] for details.
 
 [kk]: <{% link _events/2023-06-07-womens-kaffeeklatsch1.md %}>
 [bbq]: <{% link _events/2023-06-24-bbq.md %}>
-[event page]: <{% link _events/2023-08-13-peach-festival.md %}>
+[event page]: <{% link _events/2023-08-12-peach-festival.md %}>
