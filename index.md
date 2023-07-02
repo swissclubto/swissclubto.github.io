@@ -3,12 +3,20 @@ layout: splash
 title: Welcome to the Swiss Club Toronto!
 header:
   actions:
+    - label: National Day 2023 RSVP
+      url: /events/2023/07/national-day/
     - label: Become a member
       url: /membership/
     - label: Volunteer
       url: /volunteers/
 intro:
-  - excerpt: >
+  - excerpt: |
+      Are you looking for the :switzerland: [RSVP for the National Day
+      celebration 2023][nd]? :switzerland:
+      {: .notice--info}
+
+      [nd]: /events/2023/07/national-day/
+
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
       at any of the activities or over dinner at the Annual General Meeting.
 feature_row1:
