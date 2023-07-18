@@ -94,10 +94,10 @@ day; Magic Show at 2.00 pm.
 
 [snd]: <{% link _events/2023-07-23-national-day.md %}>
 
-### Thank you to our sponsors
+### Thank you to our sponsors and raffle prize donors
 
 [![DeLonghi logo][delonghilogo]][delonghi]
-[![Direct Travel logo][dirtravlogo]][dirtrav]
+[![New WAve Travel logo][newwavelogo]][newwave]
 [![Swissmar logo][swissmarlogo]][swissmar]
 [![Glass Half Full logo][glasslogo]][glass]
 [![Michael's logo][michaelslogo]][michaels]
@@ -113,7 +113,7 @@ Zanoncello Family
 {: .text-center}
 
 [delonghilogo]: <{% link assets/images/2023-07-16-snd-delonghi.webp %}>
-[dirtravlogo]: <{% link assets/images/2023-07-16-snd-dirtrav.webp %}>
+[newwavelogo]: <{% link assets/images/2023-07-16-snd-newwave.webp %}>
 [swissmarlogo]: <{% link assets/images/2023-07-16-snd-swissmar.webp %}>
 [glasslogo]: <{% link assets/images/2023-07-16-snd-glass.webp %}>
 [michaelslogo]: <{% link assets/images/2023-07-16-snd-michaels.webp %}>
@@ -122,7 +122,7 @@ Zanoncello Family
 [swissologo]: <{% link assets/images/2023-07-16-snd-swisso.webp %}>
 
 [delonghi]: <https://www.delonghi.com/en-ca>
-[dirtrav]: <https://www.newwavetravel.net/en>
+[newwave]: <https://www.newwavetravel.net/en>
 [swissmar]: <https://www.swissmar.com/>
 [glass]: <https://glasshalffull.ca/>
 [michaels]: <https://www.michaelsbackdoor.com/>
