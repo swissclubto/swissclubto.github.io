@@ -1,8 +1,8 @@
 ---
 title: Swiss National Day program 2023
+author: Benjamin
 ---
-
-The program for the [Swiss National Day celebration on July 23][snd] has been
+The program for the [Swiss National Day celebration on July 23](<{% link _events/2023-07-23-national-day.md %}>) has been
 finalized! We're planning as follows:
 
 <table>
@@ -92,41 +92,21 @@ finalized! We're planning as follows:
 day; Magic Show at 2.00 pm.
 {: .notice--info}
 
-[snd]: <{% link _events/2023-07-23-national-day.md %}>
-
 ### Thank you to our sponsors and raffle prize donors
 
-[![DeLonghi logo][delonghilogo]][delonghi]
-[![New WAve Travel logo][newwavelogo]][newwave]
-[![Swissmar logo][swissmarlogo]][swissmar]
-[![Glass Half Full logo][glasslogo]][glass]
-[![Michael's logo][michaelslogo]][michaels]
-[![Niagara Helicopters logo][niagarahelilogo]][niagaraheli]
-[![Lugano Fine Foods logo][luganologo]][lugano]
-[![Swiss Instruments logo][swissologo]][swisso]
+[![DeLonghi logo](<{% link assets/images/2023-07-16-snd-delonghi.webp %}>)](https://www.delonghi.com/en-ca)
+[![New WAve Travel logo](<{% link assets/images/2023-07-16-snd-newwave.webp %}>)](https://www.newwavetravel.net/en)
+[![Swissmar logo](<{% link assets/images/2023-07-16-snd-swissmar.webp %}>)](https://www.swissmar.com/)
+[![Glass Half Full logo](<{% link assets/images/2023-07-16-snd-glass.webp %}>)](https://glasshalffull.ca/)
+[![Michael's logo](<{% link assets/images/2023-07-16-snd-michaels.webp %}>)](https://www.michaelsbackdoor.com/)
+[![Niagara Helicopters logo](<{% link assets/images/2023-07-16-snd-niagaraheli.webp %}>)](https://www.niagarahelicopters.com/)
+[![Lugano Fine Foods logo](<{% link assets/images/2023-07-16-snd-lugano.webp %}>)](https://luganofinefoods.ca/)
+[![Swiss Instruments logo](<{% link assets/images/2023-07-16-snd-swisso.webp %}>)](https://swissinstruments.com/)
 {: .text-center}
 
 Paula Rico\
-[Tourism Switzerland][tourism]\
+A﻿rno Sigrist\
+[Tourism Switzerland](https://www.myswitzerland.com/en-ca/)\
 Werner Family\
 Zanoncello Family
 {: .text-center}
-
-[delonghilogo]: <{% link assets/images/2023-07-16-snd-delonghi.webp %}>
-[newwavelogo]: <{% link assets/images/2023-07-16-snd-newwave.webp %}>
-[swissmarlogo]: <{% link assets/images/2023-07-16-snd-swissmar.webp %}>
-[glasslogo]: <{% link assets/images/2023-07-16-snd-glass.webp %}>
-[michaelslogo]: <{% link assets/images/2023-07-16-snd-michaels.webp %}>
-[niagarahelilogo]: <{% link assets/images/2023-07-16-snd-niagaraheli.webp %}>
-[luganologo]: <{% link assets/images/2023-07-16-snd-lugano.webp %}>
-[swissologo]: <{% link assets/images/2023-07-16-snd-swisso.webp %}>
-
-[delonghi]: <https://www.delonghi.com/en-ca>
-[newwave]: <https://www.newwavetravel.net/en>
-[swissmar]: <https://www.swissmar.com/>
-[glass]: <https://glasshalffull.ca/>
-[michaels]: <https://www.michaelsbackdoor.com/>
-[niagaraheli]: <https://www.niagarahelicopters.com/>
-[lugano]: <https://luganofinefoods.ca/>
-[swisso]: <https://swissinstruments.com/>
-[tourism]: <https://www.myswitzerland.com/en-ca/>
