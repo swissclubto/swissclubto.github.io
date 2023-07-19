@@ -105,7 +105,7 @@ day; Magic Show at 2.00 pm.
 {: .text-center}
 
 Paula Rico\
-A﻿rno Sigrist\
+Arno Sigrist\
 [Tourism Switzerland](https://www.myswitzerland.com/en-ca/)\
 Werner Family\
 Zanoncello Family
