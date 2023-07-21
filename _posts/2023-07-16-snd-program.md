@@ -95,7 +95,7 @@ day; Magic Show at 2.00 pm.
 ### Thank you to our sponsors and raffle prize donors
 
 [![DeLonghi logo](<{% link assets/images/2023-07-16-snd-delonghi.webp %}>)](https://www.delonghi.com/en-ca)
-[![New WAve Travel logo](<{% link assets/images/2023-07-16-snd-newwave.webp %}>)](https://www.newwavetravel.net/en)
+[![New Wave Travel logo](<{% link assets/images/2023-07-16-snd-newwave.webp %}>)](https://www.newwavetravel.net/en)
 [![Swissmar logo](<{% link assets/images/2023-07-16-snd-swissmar.webp %}>)](https://www.swissmar.com/)
 [![Glass Half Full logo](<{% link assets/images/2023-07-16-snd-glass.webp %}>)](https://glasshalffull.ca/)
 [![Michael's logo](<{% link assets/images/2023-07-16-snd-michaels.webp %}>)](https://www.michaelsbackdoor.com/)
@@ -104,6 +104,8 @@ day; Magic Show at 2.00 pm.
 [![Swiss Instruments logo](<{% link assets/images/2023-07-16-snd-swisso.webp %}>)](https://swissinstruments.com/)
 {: .text-center}
 
+Ducommun Family\
+Hilty Family\
 Paula Rico\
 Arno Sigrist\
 [Tourism Switzerland](https://www.myswitzerland.com/en-ca/)\
