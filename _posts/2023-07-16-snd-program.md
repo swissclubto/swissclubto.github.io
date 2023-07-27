@@ -1,7 +1,8 @@
 ---
 title: Swiss National Day program 2023
-author: Benjamin
+date: 2023-07-16 20:22:00 -0400
 ---
+
 The program for the [Swiss National Day celebration on July 23](<{% link _events/2023-07-23-national-day.md %}>) has been
 finalized! We're planning as follows:
 
