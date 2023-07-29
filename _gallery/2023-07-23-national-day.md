@@ -132,4 +132,34 @@ gallery:
   - url: /assets/images/2023-07-23-national-day-043.webp
     image_path: /assets/images/2023-07-23-national-day-043-th.webp
     title: Photo by Auggie Werner
+  - url: /assets/images/2023-07-23-national-day-044.webp
+    image_path: /assets/images/2023-07-23-national-day-044-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-045.webp
+    image_path: /assets/images/2023-07-23-national-day-045-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-046.webp
+    image_path: /assets/images/2023-07-23-national-day-046-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-047.webp
+    image_path: /assets/images/2023-07-23-national-day-047-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-048.webp
+    image_path: /assets/images/2023-07-23-national-day-048-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-049.webp
+    image_path: /assets/images/2023-07-23-national-day-049-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-050.webp
+    image_path: /assets/images/2023-07-23-national-day-050-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-051.webp
+    image_path: /assets/images/2023-07-23-national-day-051-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-052.webp
+    image_path: /assets/images/2023-07-23-national-day-052-th.webp
+    title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-053.webp
+    image_path: /assets/images/2023-07-23-national-day-053-th.webp
+    title: Photo by Phoenix Shi
 ---
