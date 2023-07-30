@@ -162,4 +162,73 @@ gallery:
   - url: /assets/images/2023-07-23-national-day-053.webp
     image_path: /assets/images/2023-07-23-national-day-053-th.webp
     title: Photo by Phoenix Shi
+  - url: /assets/images/2023-07-23-national-day-054.webp
+    image_path: /assets/images/2023-07-23-national-day-054-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-055.webp
+    image_path: /assets/images/2023-07-23-national-day-055-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-056.webp
+    image_path: /assets/images/2023-07-23-national-day-056-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-057.webp
+    image_path: /assets/images/2023-07-23-national-day-057-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-058.webp
+    image_path: /assets/images/2023-07-23-national-day-058-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-059.webp
+    image_path: /assets/images/2023-07-23-national-day-059-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-060.webp
+    image_path: /assets/images/2023-07-23-national-day-060-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-061.webp
+    image_path: /assets/images/2023-07-23-national-day-061-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-062.webp
+    image_path: /assets/images/2023-07-23-national-day-062-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-063.webp
+    image_path: /assets/images/2023-07-23-national-day-063-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-064.webp
+    image_path: /assets/images/2023-07-23-national-day-064-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-065.webp
+    image_path: /assets/images/2023-07-23-national-day-065-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-066.webp
+    image_path: /assets/images/2023-07-23-national-day-066-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-067.webp
+    image_path: /assets/images/2023-07-23-national-day-067-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-068.webp
+    image_path: /assets/images/2023-07-23-national-day-068-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-069.webp
+    image_path: /assets/images/2023-07-23-national-day-069-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-070.webp
+    image_path: /assets/images/2023-07-23-national-day-070-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-071.webp
+    image_path: /assets/images/2023-07-23-national-day-071-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-072.webp
+    image_path: /assets/images/2023-07-23-national-day-072-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-073.webp
+    image_path: /assets/images/2023-07-23-national-day-073-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-074.webp
+    image_path: /assets/images/2023-07-23-national-day-074-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-075.webp
+    image_path: /assets/images/2023-07-23-national-day-075-th.webp
+    title: Photo by Walter Rosenberger
+  - url: /assets/images/2023-07-23-national-day-076.webp
+    image_path: /assets/images/2023-07-23-national-day-076-th.webp
+    title: Photo by Walter Rosenberger
 ---
