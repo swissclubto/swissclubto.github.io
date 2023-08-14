@@ -1,7 +1,7 @@
 ---
 title: Women's Section Kaffeeklatsch (Queen's Pasta Cafe)
 date: 2023-02-01
-start_time: 1.30 pm
+start_time: 1:30 pm
 location: Queen's Pasta Cafe
 address: 2263 Bloor St W, Toronto
 contact: Paula

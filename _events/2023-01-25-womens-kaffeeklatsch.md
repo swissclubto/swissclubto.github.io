@@ -1,7 +1,7 @@
 ---
 title: Women's Section Kaffeeklatsch (Pickle Barrel)
 date: 2023-01-25
-start_time: 1.30 pm
+start_time: 1:30 pm
 location: Pickle Barrel
 address: 5941 Leslie St, Toronto
 contact: Paula
