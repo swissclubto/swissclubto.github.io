@@ -14,6 +14,9 @@ teaser_caption: |
   [cc]: <https://creativecommons.org/licenses/by-sa/3.0>
 ---
 
+:warning: This trip is sold out!
+{: .notice--warning}
+
 Email or call Paula for more information about this trip to [Boldt Castle][bc]
 in the 1000 Islands.
 

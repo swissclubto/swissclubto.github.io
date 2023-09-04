@@ -14,5 +14,8 @@ teaser_caption: |
   [unsplash]: <https://unsplash.com/photos/3ORoQEJY9LA>
 ---
 
+:warning: This trip is sold out!
+{: .notice--warning}
+
 Email or call Paula for more information about this trip to the Oktoberfest in
 Kitchener, with schnitzel lunch and beer.
