@@ -110,6 +110,7 @@ exclude:
   - CNAME
   - LICENSE
   - README.md
+  - bin/
 
 # Pagination, jekyll-paginate-v2
 pagination:
