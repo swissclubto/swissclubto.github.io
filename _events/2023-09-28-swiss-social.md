@@ -11,6 +11,11 @@ teaser: assets/images/2021-11-25-pubnight-teaser.webp
 date: 2023-09-28
 ---
 
+:information_source: In case you came here from our newsletter and are confused
+about the date: **the event is on _Thursday, September 28_**, and not on
+September 29, as the newsletter wrongly indicated in one place.
+{: .notice--info}
+
 Hi everyone!
 
 After a break in August, we're back with the {{ page.date | date: "%B" }}
