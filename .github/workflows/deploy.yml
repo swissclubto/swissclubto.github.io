@@ -32,7 +32,7 @@ jobs:
         # yamllint disable-line rule:line-length
         uses: ruby/setup-ruby@52b8784594ec115fd17094752708121dc5dabb47  # v1.154.0
         with:
-          rubygems: 3.4.19
+          rubygems: 3.4.20
           bundler-cache: true
 
       - name: Make sure Ruby versions match
