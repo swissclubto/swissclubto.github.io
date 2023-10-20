@@ -33,6 +33,10 @@ membership:
         url: /membership/billing/
 
 events:
+  - title: Upcoming year
+    children:
+      - title: 2024 events
+        url: /events/2024/
   - title: Current year
     children:
       - title: 2023 events
