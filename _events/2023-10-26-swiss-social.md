@@ -2,7 +2,7 @@
 title: Swiss Social pub night---October
 location: Duke of York
 address: 39 Prince Arthur Ave, Toronto
-web_url: https://www.facebook.com/events/1786437105136756
+web_url: https://www.facebook.com/events/862333985156434
 web_url_name: Facebook event
 start_time: 7 pm
 end_time: 9 pm
