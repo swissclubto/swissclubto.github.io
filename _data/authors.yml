@@ -57,6 +57,12 @@ charlotte:
       icon: fas fa-fw fa-sms
       url: tel:647-473-8941
 
+corinne:
+  name: Corinne Jakob
+  avatar: /assets/images/officers/corinne.webp
+  position: Entertainment
+  email: corinne.jakob@swissclubtoronto.ca
+
 denise:
   name: Denise Frassini
   email: denise.frassini@swissclubtoronto.ca
@@ -75,6 +81,12 @@ erika:
     - label: Phone
       icon: fas fa-fw fa-phone
       url: tel:905-426-9372
+
+gabriel:
+  name: Gabriel Hilty
+  avatar: /assets/images/officers/gabriel.webp
+  position: Social Media
+  email: gabriel.hilty@swissclubtoronto.ca
 
 hannah:
   name: Hannah Renner
