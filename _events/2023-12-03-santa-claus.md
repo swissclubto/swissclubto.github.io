@@ -9,22 +9,40 @@ web_url: TBD
 web_url_name: RSVP form
 cost: |
   Non-members: $25
-  Members: $20
-  First two children: $10 each
-  Third and more children: $5 each
+  Members: $10
+  Children (18 and younger): $5
 teaser: assets/images/2023-12-03-santa-claus.webp
-teaser_caption: |
-  Photo by [Absar Pathan][ap] on [Unsplash]
-
-  [ap]: https://unsplash.com/@a_snapper
-  [unsplash]: https://unsplash.com/photos/santa-claus-figurine-on-white-table-TMBgfFYZaUM
 date: 2023-12-03
 published: false
 ---
 
-- Samichlaus event
-- Subway stations nearby: ..., parking: ...
-- Price includes: ...
-- Must register with name 48 hours before event, or condo security won't let
-  you in; see RSVP form
-- Please follow instructions in RSVP form to pay with e-Transfer
+<div markdown="1">
+**:warning: Building rules :warning:**
+
+We're guests in the building and rent a party room for private use, which comes
+with a few rules:
+
+- The guest list (full names) must be known 48 hours before the event; **make
+  sure to fill in the [RSVP form][rsvp] ahead of time, or security won't let
+  you in**
+- Pets aren't allowed; sorry, puppies!
+- Please pay via e-Transfer ({% include email.html
+  addr="finance@swissclubtoronto.ca" %}) before the event
+</div>
+{: .notice--danger}
+
+Join us for an afternoon of family fun, including:
+
+- an appearance by Santa! :santa:
+- gift bags for children :shopping:
+- a photo booth :camera_flash:
+- drinks and snacks :cupcake:
+
+The building is a ten minutes walk from Sherbourne and Wellesley subway
+stations; there's also on-street parking nearby, and a Green P lot at {%
+include maps.html description="405 Sherbourne St" %}.
+
+We're using this event to collect goods you'd like to donate to charity:
+clothes, toys...
+
+[rsvp]: <{{ page.web_url }}>
