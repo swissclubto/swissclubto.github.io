@@ -43,6 +43,9 @@ stations; there's also on-street parking nearby, and a Green P lot at {%
 include maps.html description="405 Sherbourne St" %}.
 
 We're using this event to collect goods you'd like to donate to charity:
-clothes, toys...
+
+- toys (can be unwrapped, but must be in as-new condition)
+- clothes (can be gently used, but must be clean without rips or stains; socks
+  and underwear must be new)
 
 [rsvp]: <{{ page.web_url }}>
