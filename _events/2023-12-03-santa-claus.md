@@ -5,7 +5,7 @@ address: 159 Wellesley St E, Toronto
 start_time: 2 pm
 end_time: 6 pm
 contact: Charlotte
-web_url: TBD
+web_url: https://forms.gle/SCERbtFNj2NfphVM9
 web_url_name: RSVP form
 cost: |
   Non-members: $25
@@ -13,7 +13,6 @@ cost: |
   Children (18 and younger): $5
 teaser: assets/images/2023-12-03-santa-claus.webp
 date: 2023-12-03
-published: false
 ---
 
 <div markdown="1">
