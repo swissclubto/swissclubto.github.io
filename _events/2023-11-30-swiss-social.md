@@ -9,6 +9,7 @@ end_time: 9 pm
 contact: Charlotte
 teaser: assets/images/2023-11-30-swiss-social-teaser.webp
 date: 2023-11-30
+redirect_from: /cs2023/
 ---
 
 Are you a Swiss Club member who hasn't come out to an event in a while?

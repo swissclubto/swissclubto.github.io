@@ -13,6 +13,7 @@ cost: |
   Children (18 and younger): $5
 teaser: assets/images/2023-12-03-santa-claus.webp
 date: 2023-12-03
+redirect_from: /santa2023/
 ---
 
 <div markdown="1">
