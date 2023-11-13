@@ -1,6 +1,12 @@
-To pay online, fill out the application below, and choose “Credit Card”.
+Please fill in the application below. For payment, there are three options in
+the "Method of Payment" drop-down menu at the bottom; in decreasing order of
+our preference:
 
-To pay by cheque, fill out the application below, and choose “Pay by Cheque”.
-Cheques can be mailed to the Swiss Club Toronto at
+1. **e-Transfer:** send an Interac e-Transfer to {% include email.html
+   addr="finance@swissclubtoronto.ca" %} (fast and cheap for us)
+2. **Credit card:** pay online (fast, but the credit card processor takes a cut)
+3. **Cheque:** mail a cheque to
 
-{% include pobox-address.html %}
+   {% include pobox-address.html %}
+
+   (can take up to a month to be processed)
