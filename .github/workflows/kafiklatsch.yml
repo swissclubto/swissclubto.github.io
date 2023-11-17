@@ -60,7 +60,7 @@ jobs:
                   "$(date --date='today + 1 month' +'%Y-%m')"
           fi
 
-          printf '%s=%s\n' "month" "$month" "year" "$year" >> "$GITHUB_OUTPUT"
+          printf '%s\n' "month=$month" "year=$year" >> "$GITHUB_OUTPUT"
 
       - name: Create event files
         env:
@@ -97,16 +97,9 @@ jobs:
 
           # Women's klatsch on the first Wednesday
           womensfirst='_events/2023-04-05-womens-kaffeeklatsch.md'
-          target="_events/${wednesdays[0]}-womens-kaffeeklatsch1.md"
+          target="_events/${wednesdays[0]}-womens-kaffeeklatsch.md"
           cp "$womensfirst" "$target"
           date="${wednesdays[0]}" yq --inplace --front-matter=process \
-              '.date = env(date)' "$target"
-
-          # Women's klatsch on the last Wednesday
-          womenslast='_events/2023-04-26-womens-kaffeeklatsch2.md'
-          target="_events/${wednesdays[-1]}-womens-kaffeeklatsch2.md"
-          cp "$womenslast" "$target"
-          date="${wednesdays[-1]}" yq --inplace --front-matter=process \
               '.date = env(date)' "$target"
 
       - name: Create pull request
