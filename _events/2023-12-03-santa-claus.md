@@ -54,7 +54,7 @@ hearts!
   Way with Our Christmas Playlist!** :bell:
 
   DIY cookie decorating station. Choose from an array of toppings, frostings,
-  and sprinkles to create your perfect holiday treat! OPTIONAL
+  and sprinkles to create your perfect holiday treat!
 
 ### :handshake: Spread the Cheer with Giving! :gift::heart:
 
