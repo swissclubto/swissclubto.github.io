@@ -17,10 +17,9 @@ main:
     url: /inmemoriam/
 
 membership:
-  - title: Membership pages
+  - title: Membership
+    url: /membership/
     children:
-      - title: Membership
-        url: /membership/
       - title: Member profile
         url: /membership/profile/
       - title: Individual membership sign-up
@@ -31,6 +30,8 @@ membership:
         url: /membership/newsletter/
       - title: Online billing
         url: /membership/billing/
+      - title: Terms and conditions
+        url: /membership/terms-and-conditions/
 
 events:
   - title: Upcoming year
