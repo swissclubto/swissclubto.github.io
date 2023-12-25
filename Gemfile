@@ -2,6 +2,9 @@ source "https://rubygems.org"
 
 ruby file: ".tool-versions"
 
+gem "base64"
+gem "bigdecimal"
+gem "csv"
 gem "jekyll"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
