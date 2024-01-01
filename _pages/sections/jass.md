@@ -7,7 +7,7 @@ author: erika
 {% include figure image_path="/assets/images/jass-section.webp"
 caption="Jensche, [CC BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
-%}{: .align-right }
+%}{: .align-right}
 
 Do you like to play Jass, then this is for you!
 
