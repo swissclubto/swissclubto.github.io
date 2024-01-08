@@ -14,5 +14,8 @@ but until then, learn more at [canadysli.com][link].
 We've also posted a [video] about the history of the Canadysli and carnival in
 Toronto.
 
+{% include upcoming-events.html section="canadysli" header="We practice on the
+following dates:" %}
+
 [link]: <https://www.canadysli.com/>
 [video]: <{% post_url 2023-04-01-carnival %}>

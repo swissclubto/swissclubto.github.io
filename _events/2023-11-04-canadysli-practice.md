@@ -5,6 +5,7 @@ address: 15 East Beaver Creek Rd, Richmond Hill
 start_time: 11 am
 contact: Philippe
 teaser: assets/images/2023-11-04-canadysli-teaser.webp
+section: canadysli
 date: 2023-11-04
 ---
 
