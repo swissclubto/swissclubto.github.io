@@ -12,12 +12,9 @@ cost: $50 per person
 date: 2024-01-27
 ---
 
-L’Amicale Romande de Toronto invites you to their annual fondue & dance.
+L'Amicale Romande de Toronto invites you to their annual fondue & dance.
 
-Please RSVP via the [online form][RSVP].
-
-You can pay either before the event via e-Transfer to {% include email.html
-addr="finance@swissclubtoronto.ca" %} (mention "Fondue" in message), or bring
-cash to the event.
+Please RSVP via the [online form][RSVP], and pay via e-Transfer to {% include
+email.html addr="finance@swissclubtoronto.ca" %} (mention "Fondue" in message).
 
 [rsvp]: <{{ page.web_url }}>
