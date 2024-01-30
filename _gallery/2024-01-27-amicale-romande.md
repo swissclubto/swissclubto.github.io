@@ -69,4 +69,10 @@ gallery:
   - url: /assets/images/2024-01-27-amicale-romande-022.webp
     image_path: /assets/images/2024-01-27-amicale-romande-022-th.webp
     title: Photo by Lori Moser
+  - url: /assets/images/2024-01-27-amicale-romande-023.webp
+    image_path: /assets/images/2024-01-27-amicale-romande-023-th.webp
+    title: Photo by Benoit de La Selle
+  - url: /assets/images/2024-01-27-amicale-romande-024.webp
+    image_path: /assets/images/2024-01-27-amicale-romande-024-th.webp
+    title: Photo by Benoit de La Selle
 ---
