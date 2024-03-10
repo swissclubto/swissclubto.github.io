@@ -11,6 +11,6 @@ cost: |
 date: 2024-04-07
 ---
 
-The Swiss Club Thames Valley hosts our Theatre Group with their 2023
+The Swiss Club Thames Valley hosts our Theatre Group with their 2024
 production, "En heisse Droht"; reach out to Maggie or Walter if you're
 interested in attending.
