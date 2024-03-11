@@ -8,8 +8,8 @@ contacts:
   - walter
   - maggie
 cost: |
-  Members: $15
-  Non-members: $20
+  Members: $20
+  Non-members: $25
   Youth (under 16): $10
   Children (under 7): free
 date: 2024-04-14
