@@ -1,5 +1,5 @@
 ---
-title: Swiss Social pub night
+title: ~~Swiss Social pub night~~
 location: Duke of York pub
 address: 39 Prince Arthur Ave, Toronto, ON M5R 1B2
 contact: Nadia

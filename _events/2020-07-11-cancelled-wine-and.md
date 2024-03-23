@@ -1,5 +1,5 @@
 ---
-title: Wine and lavender tour
+title: ~~Wine and lavender tour~~
 date: 2020-07-11
 ---
 

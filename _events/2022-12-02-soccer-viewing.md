@@ -1,5 +1,5 @@
 ---
-title: 'Cancelled: Serbia---Switzerland viewing party'
+title: '~~Cancelled: Serbia---Switzerland viewing party~~'
 location: Chelsea Hotel
 address: 33 Gerrard St W, Toronto
 contact: Arno

@@ -1,5 +1,5 @@
 ---
-title: Annual BBQ
+title: ~~Annual BBQ~~
 location: Egger Dairy Farm
 date: 2020-06-20
 ---

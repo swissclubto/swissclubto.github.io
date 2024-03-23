@@ -1,5 +1,5 @@
 ---
-title: 'Theatre matinée: Good People'
+title: '~~Theatre matinée: Good People~~'
 location: The Village Players
 address: 2190 Bloor St W, Toronto, ON M6S 1N3
 contact: Paula

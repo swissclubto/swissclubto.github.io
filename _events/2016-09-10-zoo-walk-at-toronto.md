@@ -1,5 +1,5 @@
 ---
-title: Zoo walk at Toronto Zoo
+title: ~~Zoo walk at Toronto Zoo~~
 location: Metro Toronto Zoo
 address: 2000 Meadowvale Rd, Scarborough, ON M1B 5K7
 start_time: T10:30

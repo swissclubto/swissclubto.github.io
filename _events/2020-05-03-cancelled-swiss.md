@@ -1,5 +1,5 @@
 ---
-title: Swiss theatre group matinée
+title: ~~Swiss theatre group matinée~~
 location: Latvian Canadian Cultural Centre
 address: 4 Credit Union Dr, North York, ON M4A 2N8
 start_time: 2:00 pm

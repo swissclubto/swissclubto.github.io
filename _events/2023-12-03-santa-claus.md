@@ -1,5 +1,5 @@
 ---
-title: Santa event
+title: ~~Santa event~~
 location: 159SW condo party room, 5th floor
 address: 159 Wellesley St E, Toronto
 start_time: 2 pm

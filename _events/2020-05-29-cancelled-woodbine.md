@@ -1,5 +1,5 @@
 ---
-title: Woodbine Racetrack and Casino
+title: ~~Woodbine Racetrack and Casino~~
 location: Woodbine Racetrack
 address: 555 Rexdale Blvd, Etobicoke, ON M9W 5L2
 start_time: 4:58 pm
