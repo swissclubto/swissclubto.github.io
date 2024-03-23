@@ -1,0 +1,31 @@
+---
+title: Annual general meeting 2024
+date: 2024-04-24
+location: Parkview Manor
+address: 55 Barber Greene Road, North York
+start_time: 5:30 pm
+end_time: 10 pm
+web_url: https://forms.gle/6i8SBoUX8SFi5G3D7
+web_url_name: RSVP form
+contact: Charlotte
+redirect_from: /agm2024/
+---
+
+All members are cordially invited to the annual general meeting of the Swiss
+Club Toronto on {{ page.date | date: "%A, %B %-d" }}.
+
+Hear about what the club has been up to in the past year, elect new directors
+to the board, vote for the Swiss Citizen of the Year, and enjoy a three-course
+meal with fellow members.
+
+Please RSVP by {{ page.date | date: "%s" | minus: 259200 | date: "%A, %B %-d"
+}}, using one of these options:
+
+- Fill in the [RSVP form] (preferred)
+- By text to Charlotte at [437-881-3940](tel:437-881-3940)
+- By phone to Charlotte at [647-473-8941](tel:647-473-8941)
+
+In any case, please provide the number of members attending, and your full
+names.
+
+[rsvp form]: <{{ page.web_url }}>
