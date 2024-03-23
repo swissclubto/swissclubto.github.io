@@ -27,7 +27,7 @@ layout: archive
                 <td>{{ post.date | date: "%e" }}</td>
                 <td>
                     <a href="{{ post.url | relative_url }}" rel="permalink">
-                      {{- post.title | markdownify | strip_html | strip_newlines -}}
+                      {{- post.title | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines -}}
                     </a>
                 </td>
               </tr>
