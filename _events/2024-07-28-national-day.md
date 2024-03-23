@@ -1,7 +1,7 @@
 ---
 title: Swiss National Day celebration 2024
 contact: Charlotte
-teaser: assets/images/2022-07-24-national-day-teaser.webp
+teaser: assets/images/2023-07-23-national-day-030.webp
 date: 2024-07-28
 redirect_from: /nd2024/
 ---
