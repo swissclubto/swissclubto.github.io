@@ -29,3 +29,10 @@ In any case, please provide the number of members attending, and your full
 names.
 
 [rsvp form]: <{{ page.web_url }}>
+
+### References
+
+- Minutes of the 2023 annual general meeting: [web version], [PDF version]
+
+[web version]: <{% post_url 2023-05-07-agm-minutes %}>
+[pdf version]: <{% link assets/pdf/meetings/2023-04-14-agm-minutes.pdf %}>
