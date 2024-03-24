@@ -52,9 +52,6 @@ charlotte:
   links:
     - label: Phone
       icon: fas fa-fw fa-phone
-      url: tel:437-881-3940
-    - label: Messaging
-      icon: fas fa-fw fa-sms
       url: tel:647-473-8941
 
 corinne:

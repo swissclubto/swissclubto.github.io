@@ -22,8 +22,7 @@ Please RSVP by {{ page.date | date: "%s" | minus: 259200 | date: "%A, %B %-d"
 }}, using one of these options:
 
 - Fill in the [RSVP form] (preferred)
-- By text to Charlotte at [437-881-3940](tel:437-881-3940)
-- By phone to Charlotte at [647-473-8941](tel:647-473-8941)
+- By text or call to Charlotte at [647-473-8941](tel:647-473-8941)
 
 In any case, please provide the number of members attending, and your full
 names.
