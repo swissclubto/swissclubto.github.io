@@ -64,6 +64,9 @@ toc_sticky: true
     image_path: /assets/telltale/2018-11-issue-139-th.webp
     title: Tell Tale issue 139, November 2018
 '2017':
+  - url: /assets/telltale/2017-01-issue-133.pdf
+    image_path: /assets/telltale/2017-01-issue-133-th.webp
+    title: Tell Tale issue 133, January 2017
   - url: /assets/telltale/2017-04-issue-134.pdf
     image_path: /assets/telltale/2017-04-issue-134-th.webp
     title: Tell Tale issue 134, April 2017
@@ -73,6 +76,8 @@ toc_sticky: true
   - url: /assets/telltale/2017-11-issue-136.pdf
     image_path: /assets/telltale/2017-11-issue-136-th.webp
     title: Tell Tale issue 136, November 2017
+  -  # Dummy image for layout
+  -  # Dummy image for layout
 '2016':
   - url: /assets/telltale/2016-01-issue-129.pdf
     image_path: /assets/telltale/2016-01-issue-129-th.webp
@@ -222,7 +227,7 @@ captions:
   '2020': Issues 143--145
   '2019': Issues 140--142
   '2018': Issues 137--139
-  '2017': Issues 134--136
+  '2017': Issues 133--136
   '2016': Issue 129
   '2015': Issues 125--126
   '2013': Issues 118--120
