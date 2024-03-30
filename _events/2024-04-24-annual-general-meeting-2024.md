@@ -31,7 +31,7 @@ In any case, please provide the number of members attending, and your full
 names.
 
 If you cannot attend but would like to designate a proxy, please use [this
-form][prox].
+form][proxy].
 
 [rsvp form]: <{{ page.web_url }}>
 
