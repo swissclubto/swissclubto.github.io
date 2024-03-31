@@ -18,8 +18,8 @@ Hear about what the club has been up to in the past year, elect new directors
 to the board, vote for the Swiss Citizen of the Year, and enjoy a three-course
 meal with fellow members.
 
-We are honoured to be joined by **Ambassador Olaf Kjelsen** and **Consul
-General Line Marie Leon-Pernet**.
+We are honoured to be joined by **Ambassador Olaf Kjelsen**, **Consul General
+Line Marie Leon-Pernet**, and **Honorary Consul Alexandra Soriano-Bernhard**.
 
 Please RSVP by {{ page.date | date: "%s" | minus: 259200 | date: "%A, %B %-d"
 }}, using one of these options:
