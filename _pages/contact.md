@@ -9,7 +9,7 @@ sidebar:
 
 ## Address
 
-{% include pobox-address.html %}
+{% include club-address.html %}
 
 ## Board members
 

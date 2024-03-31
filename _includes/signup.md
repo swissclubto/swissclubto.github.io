@@ -11,7 +11,7 @@ our preference:
 2. **Credit card:** pay online (fast, but the credit card processor takes a cut)
 3. **Cheque:** mail a cheque to
 
-   {% include pobox-address.html %}
+   {% include club-address.html %}
 
    (can take up to a month to be processed)
 
