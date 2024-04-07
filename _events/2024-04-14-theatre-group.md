@@ -24,7 +24,11 @@ If you plan on attending our event, please make your reservation by email or
 phone to Walter.
 
 We especially like to know if you are planning to have Lunch there so we can
-plan accordingly.
+plan accordingly; lunch will be ready at 1.30 pm and comprises schnitzel on a
+bun, potato and green salad, for \$22.
+
+:information_source: Please do not come to the Latvian Centre before 1 pm.
+{: .notice--info}
 
 Many thanks!
 
