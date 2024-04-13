@@ -18,6 +18,6 @@ Did you mean to sign up for a full membership? Follow these links:
 ---
 
 <script
-  src="https://memberservices.membee.com/feeds/Profile/ProfileScript.ashx?cid=1568&pid=3301" 
+  src="https://widgets.swissclubtoronto.ca/feeds/Profile/ProfileScript.ashx?cid=1568&pid=3301"
   type="text/javascript">
 </script>
