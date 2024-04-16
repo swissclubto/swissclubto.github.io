@@ -21,8 +21,10 @@ meal with fellow members.
 We are honoured to be joined by **Ambassador Olaf Kjelsen**, **Consul General
 Line Marie Leon-Pernet**, and **Honorary Consul Alexandra Soriano-Bernhard**.
 
-Please RSVP by {{ page.date | date: "%s" | minus: 259200 | date: "%A, %B %-d"
-}}, using one of these options:
+Please RSVP **before Thursday, April 18**[^1], using one of these options:
+
+[^1]: Notice that this previously indicated Sunday, April 21, but we'd like to
+      know sooner!
 
 - Fill in the [RSVP form] (preferred)
 - By text or call to Charlotte at [647-473-8941](tel:647-473-8941)
