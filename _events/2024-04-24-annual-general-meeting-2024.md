@@ -21,6 +21,14 @@ meal with fellow members.
 We are honoured to be joined by **Ambassador Olaf Kjelsen**, **Consul General
 Line Marie Leon-Pernet**, and **Honorary Consul Alexandra Soriano-Bernhard**.
 
+The agenda looks roughly like this:
+
+| Time    | Activity                       |
+| ------: | ------------------------------ |
+| 5.30 pm | Doors open, cash bar           |
+| 6.15 pm | Dinner                         |
+| 7.00 pm | Call to order and start of AGM |
+
 Please RSVP **before Thursday, April 18**[^1], using one of these options:
 
 [^1]: Notice that this previously indicated Sunday, April 21, but we'd like to
