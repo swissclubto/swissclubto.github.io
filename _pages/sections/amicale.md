@@ -1,7 +1,7 @@
 ---
 title: Amicale Romande
 permalink: /sections/amicale/
-author: cedric
+author: nicholas
 ---
 
 :construction: Content under construction, check back soon for updates!

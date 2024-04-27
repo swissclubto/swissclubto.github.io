@@ -3,6 +3,12 @@ albert:
   avatar: /assets/images/officers/albert.webp
   email: albert.lenz@swissclubtoronto.ca
 
+alexia:
+  name: Alexia Moser
+  avatar: /assets/images/officers/alexia.webp
+  position: Secretary
+  email: alexia.moser@swissclubtoronto.ca
+
 antoine:
   name: Antoine Belaieff
   bio: CSA Representative
@@ -29,7 +35,7 @@ auggie:
 ben:
   name: Benjamin Wuethrich
   avatar: /assets/images/officers/ben.webp
-  position: |
+  position: |-
     Vice President
     Memberships
     Website
@@ -44,7 +50,7 @@ cedric:
 
 charlotte:
   name: Charlotte Mariller
-  position: |
+  position: |-
     President
     Swiss Social
   avatar: /assets/images/officers/charlotte.webp
@@ -82,7 +88,9 @@ erika:
 gabriel:
   name: Gabriel Hilty
   avatar: /assets/images/officers/gabriel.webp
-  position: Social Media
+  position: |-
+    Social Media
+    Tell Tale Designer
   email: gabriel.hilty@swissclubtoronto.ca
 
 hannah:
@@ -129,6 +137,13 @@ nadia:
     (ex officio board member)
   avatar: /assets/images/officers/nadia.webp
   email: nadia.berger@swissclubtoronto.ca
+
+nicholas:
+  name: Nicholas Meyer
+  section: Amicale Romande
+  bio: Section head
+  avatar: /assets/images/officers/nicholas.webp
+  email: nicholas.meyer@swissclubtoronto.ca
 
 noemie:
   name: Noemie Steiner
