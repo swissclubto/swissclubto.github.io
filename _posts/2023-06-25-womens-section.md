@@ -1,7 +1,15 @@
 ---
 title: Update from the Women's Section
 date: 2023-06-25 15:06:52 -0400
-author: paula
+author:
+  name: Paula Rico
+  bio: Section Head
+  avatar: /assets/images/officers/paula.webp
+  email: ricopaula420@gmail.com
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:416-652-9067
 author_profile: true
 ---
 

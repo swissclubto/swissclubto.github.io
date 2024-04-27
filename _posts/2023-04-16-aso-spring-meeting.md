@@ -1,7 +1,11 @@
 ---
 title: Report from the spring meeting of the Council of the Swiss Abroad
 date: 2023-04-16 18:02:50 -0400
-author: antoine
+author:
+  name: Antoine Belaieff
+  bio: CSA Representative
+  avatar: /assets/images/officers/antoine.webp
+  email: antoinejcbv@gmail.com
 author_profile: true
 toc: true
 toc_sticky: true

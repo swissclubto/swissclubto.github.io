@@ -1,7 +1,11 @@
 ---
 title: Council of the Swiss Abroad meets in Berne
 date: 2024-04-14 20:14:58 -0400
-author: antoine
+author:
+  name: Antoine Belaieff
+  bio: CSA Representative
+  avatar: /assets/images/officers/antoine.webp
+  email: antoinejcbv@gmail.com
 author_profile: true
 ---
 
