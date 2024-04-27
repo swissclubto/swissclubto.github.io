@@ -11,8 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-:information_source: Notice that these minutes are yet to be approved by the
-next AGM in 2024 and, as such, are to be considered provisional only.
+:information_source: These minutes were approved by the AGM on April 24, 2024.
 {: .notice--info}
 
 | **Location**  | The Chelsea Hotel, Toronto---Rosetti Room             |
