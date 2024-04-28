@@ -27,10 +27,10 @@ Have a look at the [contact page][contact] to see the board in its new
 composition.
 
 We also voted on changes to the by-laws, reported on the past year, and
-inaugurated new lifetime members; watch this place for the meeting minutes,
-coming soon.
+inaugurated new lifetime members; see the full [minutes] for details.
 
 [gallery]: <{% link _gallery/2023-04-14-agm.md %}>
 [5pin]: <{% link _pages/sections/bowling.md %}>
 [canadysli]: <{% link _pages/sections/canadysli.md %}>
 [contact]: <{% link _pages/contact.md %}>
+[minutes]: <{% post_url 2023-05-07-agm-minutes %}>
