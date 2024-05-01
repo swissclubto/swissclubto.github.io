@@ -5,6 +5,12 @@ toc: true
 toc_label: Jump to year
 toc_icon: calendar
 toc_sticky: true
+'2024':
+  - url: /assets/telltale/2024-04-issue-154.pdf
+    image_path: /assets/telltale/2024-04-issue-154-th.webp
+    title: Tell Tale issue 154, April 2024
+  -  # Dummy image for layout
+  -  # Dummy image for layout
 '2023':
   - url: /assets/telltale/2023-04-issue-151.pdf
     image_path: /assets/telltale/2023-04-issue-151-th.webp
@@ -221,6 +227,7 @@ toc_sticky: true
     image_path: /assets/telltale/2004-07-issue-082-th.webp
     title: Tell Tale issue 82, July 2004
 captions:
+  '2024': Issue 154
   '2023': Issues 151--153
   '2022': Issues 148--150
   '2021': Issues 146--147
