@@ -8,7 +8,7 @@ date: 2024-02-22 23:45:44 -0500
 
 [*De la cuisine au parlement*][cap], a documentary by Stéphane Goël, is offered
 online by the Swiss Film Club, powered by the Swiss Representations in Canada,
-**in original version French with English subtitles**, to highlight
+**in the original version French with English subtitles**, to highlight
 **International Women’s Day**.
 
 **When:** March 8-10, 2024 (Friday to Sunday)
