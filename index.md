@@ -3,12 +3,20 @@ layout: splash
 title: Welcome to the Swiss Club Toronto!
 header:
   actions:
+    - label: National Day 2024
+      url: /events/2024/07/national-day/
     - label: Become a member
       url: /membership/
     - label: Volunteer
       url: /volunteers/
 intro:
   - excerpt: |
+      Join us at the :switzerland: [Swiss National Day celebration on July
+      28][nd] :switzerland:
+      {: .notice--info}
+
+      [nd]: /events/2024/07/national-day/
+
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
       at any of the activities or over dinner at the Annual General Meeting.
 feature_row1:
@@ -24,7 +32,7 @@ feature_row1:
     excerpt: >
       Ever wondered how the Swiss Club works? Curious to learn more about the
       people behind the scenes? Know someone who might be interested in
-      volunteering? Want something new to do in 2023?
+      volunteering? Want something new to do in 2024?
     url: /volunteers/
     btn_class: btn--primary
   - image_path: /assets/images/events-teaser.webp
