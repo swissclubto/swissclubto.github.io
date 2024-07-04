@@ -7,7 +7,7 @@ start_time: 12 pm
 # web_url_name: Facebook event
 contact: Corinne
 teaser: assets/images/2024-06-19-soccer-teaser.webp
-date: 2024-07-13
+date: 2024-07-06
 ---
 
 :soccer::switzerland: Join the Swiss Club Toronto for the screening of the
