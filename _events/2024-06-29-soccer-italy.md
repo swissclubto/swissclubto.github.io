@@ -11,7 +11,7 @@ date: 2024-06-29
 ---
 
 :soccer::switzerland: Join the Swiss Club Toronto for the screening of the
-Swiss Men's team facing Italy in the quarter final of the Euro 2024!
+Swiss Men's team facing Italy in the round of 16 of the Euro 2024!
 
 We have a patio reserved and are all ready to cheer on the squad as they take
 on Italy. Come out, have a great time and be ready to shout "Hopp Schwiiz"!
