@@ -9,6 +9,9 @@ toc_sticky: true
   - url: /assets/telltale/2024-04-issue-154.pdf
     image_path: /assets/telltale/2024-04-issue-154-th.webp
     title: Tell Tale issue 154, April 2024
+# - url: /assets/telltale/2024-07-issue-155.pdf
+#   image_path: /assets/telltale/2024-07-issue-155-th.webp
+#   title: Tell Tale issue 155, July 2024
   -  # Dummy image for layout
   -  # Dummy image for layout
 '2023':
