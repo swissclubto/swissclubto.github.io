@@ -43,3 +43,21 @@ tickets!
 [volunteers]: <https://volunteersignup.org/HWP8W>
 [willowgrove]: <https://www.willowgrove.ca/>
 [tickets]: <{{ page.web_url }}>
+
+## Program (subject to change)
+
+| Time               | What                                                                                        |
+| -----------------: | ------------------------------------------------------------------------------------------- |
+| 12.00 pm           | Entrance opens                                                                              |
+| 12.35 pm           | Canadysli                                                                                   |
+| 1.00 pm            | Welcome speech<br>Intro special guest<br>National anthem<br>Swiss Citizen of the Year award |
+| 1.30 pm -- 3.30 pm | Food station open (B station is open all day!)                                              |
+| 1.20 pm            | Trillium Alphorn Players                                                                    |
+| 1.35 pm            | DJ                                                                                          |
+| 2.30 pm            | Canadysli                                                                                   |
+| 2.55 pm            | Special guest speech                                                                        |
+| 3.10 pm            | Trillium Alphorn Players                                                                    |
+| 3.30 pm            | Canadysli                                                                                   |
+| 3.55 pm            | Raffle                                                                                      |
+| 4.20 pm            | DJ                                                                                          |
+| 5.00 pm            | Event ends                                                                                  |
