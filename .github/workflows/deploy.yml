@@ -34,7 +34,7 @@ jobs:
         # yamllint disable-line rule:line-length
         uses: ruby/setup-ruby@161cd54b698f1fb3ea539faab2e036d409550e3c  # v1.187.0
         with:
-          rubygems: 3.5.15
+          rubygems: 3.5.16
           bundler-cache: true
 
       - name: Build with Jekyll
