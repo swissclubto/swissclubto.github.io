@@ -8,12 +8,15 @@ contact: Charlotte
 teaser: assets/images/2023-07-23-national-day-030.webp
 date: 2024-07-28
 cost: |-
-  Early bird, adult, member, admission + lunch: $40
-  Early bird, adult, non-member, admission + lunch: $50
-  Early bird, kid (16 and younger), admission + lunch: $30
-  Early bird, adult, member, admission: $10
-  Early bird, adult, non-member, admission: $20
-  Early bird, kid (16 and younger), admission: free
+  ~~Early bird, adult, member, admission + lunch: $40~~
+  ~~Early bird, adult, non-member, admission + lunch: $50~~
+  ~~Early bird, kid (16 and younger), admission + lunch: $30~~
+  ~~Early bird, adult, member, admission: $10~~
+  ~~Early bird, adult, non-member, admission: $20~~
+  ~~Early bird, kid (16 and younger), admission: free~~
+  Adult, member, admission + lunch: $45
+  Adult, non-member, admission + lunch: $55
+  Kid (16 and younger), admission + lunch: $35
   Adult, member, admission: $15
   Adult, non-member, admission: $20
   Kid (16 and younger), admission: $5
@@ -35,7 +38,7 @@ reconnect with Swiss friends from near and far!
 We're celebrating at an exciting new location near Whitchurch-Stouffville,
 [Willowgrove].
 
-Secure your [tickets] at early bird pricing, until one week before the event
+Secure your [tickets] at early bird pricing until one week before the event
 (the end of Saturday, July 21). Lunch on the combo ticket includes schnitzel,
 two soft drinks, and a cookie. Parking and use of facilities is included in all
 tickets!
