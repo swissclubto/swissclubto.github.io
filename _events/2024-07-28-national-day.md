@@ -26,11 +26,6 @@ web_url_name: Eventbrite page for tickets
 redirect_from: /nd2024/
 ---
 
-:information_source: We're looking for volunteers to support the event! You get
-lunch and a (non-alcoholic) drink. If you're in high school, we can give you a
-confirmation for your community involvement hours. Register [here][volunteers]!
-{: .notice--info}
-
 Come celebrate Switzerland's 733rd birthday with the Swiss Club Toronto! There
 will be music, games, food and drink, our famous raffle, and an occasion to
 reconnect with Swiss friends from near and far!
@@ -43,7 +38,6 @@ Secure your [tickets] at early bird pricing until one week before the event
 two soft drinks, and a cookie. Parking and use of facilities is included in all
 tickets!
 
-[volunteers]: <https://volunteersignup.org/HWP8W>
 [willowgrove]: <https://www.willowgrove.ca/>
 [tickets]: <{{ page.web_url }}>
 
