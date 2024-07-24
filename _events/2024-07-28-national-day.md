@@ -38,6 +38,11 @@ Secure your [tickets] at early bird pricing until one week before the event
 two soft drinks, and a cookie. Parking and use of facilities is included in all
 tickets!
 
+Notice that at the event itself, you won't be able to pay with credit or debit
+cards. Cash only, please. (One more reason to buy a combo ticket online before
+the event!)
+{: .notice--warning}
+
 [willowgrove]: <https://www.willowgrove.ca/>
 [tickets]: <{{ page.web_url }}>
 
