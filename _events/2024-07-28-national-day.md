@@ -26,6 +26,10 @@ web_url_name: Eventbrite page for tickets
 redirect_from: /nd2024/
 ---
 
+Please be aware that pets aren't allowed on Willowgrove, as it's a working
+farm.
+{: .notice--danger}
+
 Come celebrate Switzerland's 733rd birthday with the Swiss Club Toronto! There
 will be music, games, food and drink, our famous raffle, and an occasion to
 reconnect with Swiss friends from near and far!
