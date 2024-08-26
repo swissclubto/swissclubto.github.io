@@ -110,7 +110,6 @@ PLATFORMS
 
 DEPENDENCIES
   base64
-  bigdecimal
   csv
   jekyll
   jekyll-feed
