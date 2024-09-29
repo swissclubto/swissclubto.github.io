@@ -23,12 +23,12 @@ div.calendar {
 }
 
 div.monthcard {
+  border: solid 1px black;
+  padding: 5%;
+
   h3.monthlabel {
     margin-top: .5em;
   }
-
-  border: solid 1px black;
-  padding: 5%;
 
   tr {
     td {
