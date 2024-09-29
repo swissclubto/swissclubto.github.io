@@ -1,19 +1,10 @@
-albert:
-  name: Albert Lenz
-  avatar: /assets/images/officers/albert.webp
-  email: albert.lenz@swissclubtoronto.ca
+# Current board and sections
 
 alexia:
   name: Alexia Moser
   avatar: /assets/images/officers/alexia.webp
   position: Secretary
   email: alexia.moser@swissclubtoronto.ca
-
-antoine:
-  name: Antoine Belaieff
-  bio: CSA Representative
-  avatar: /assets/images/officers/antoine.webp
-  email: antoinejcbv@gmail.com
 
 arno:
   name: Arno Sigrist
@@ -41,18 +32,11 @@ ben:
     Website
   email: benjamin.wuethrich@swissclubtoronto.ca
 
-cedric:
-  name: Cedric Daros
-  section: Amicale Romande
-  bio: Section head
-  avatar: /assets/images/officers/cedric.webp
-  email: cedric.daros@swissclubtoronto.ca
-
 charlotte:
   name: Charlotte Mariller
-  position: |-
-    President
-    Swiss Social
+  position: |
+    Past president
+    (ex officio board member)
   avatar: /assets/images/officers/charlotte.webp
   email: charlotte.mariller@swissclubtoronto.ca
   links:
@@ -65,14 +49,6 @@ corinne:
   avatar: /assets/images/officers/corinne.webp
   position: Entertainment
   email: corinne.jakob@swissclubtoronto.ca
-
-denise:
-  name: Denise Frassini
-  email: denise.frassini@swissclubtoronto.ca
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:905-821-2392
 
 erika:
   name: Erika Tièche
@@ -93,27 +69,11 @@ gabriel:
     Tell Tale Designer
   email: gabriel.hilty@swissclubtoronto.ca
 
-hannah:
-  name: Hannah Renner
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:647-231-0976
-
 heidy:
   name: Heidy Lawrance
   position: Tell Tale Editor
   avatar: /assets/images/officers/heidy.webp
   email: heidy.lawrance@swissclubtoronto.ca
-
-jean-marc:
-  name: Jean-Marc Velen
-  avatar: /assets/images/officers/jean-marc.webp
-  email: jean-marc.velen@swissclubtoronto.ca
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:416-488-6493
 
 maggie:
   name: Magdalena Hess
@@ -121,34 +81,6 @@ maggie:
   bio: Section head
   avatar: /assets/images/officers/maggie.webp
   email: magdalena.hess@swissclubtoronto.ca
-
-monika:
-  name: Monika Rueber
-  email: monika.rueber@swissclubtoronto.ca
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:416-203-2026
-
-nadia:
-  name: Nadia Berger
-  position: |
-    Past president
-    (ex officio board member)
-  avatar: /assets/images/officers/nadia.webp
-  email: nadia.berger@swissclubtoronto.ca
-
-nicholas:
-  name: Nicholas Meyer
-  section: Amicale Romande
-  bio: Section head
-  avatar: /assets/images/officers/nicholas.webp
-  email: nicholas.meyer@swissclubtoronto.ca
-
-noemie:
-  name: Noemie Steiner
-  avatar: /assets/images/officers/noemie.webp
-  email: noemie.steiner@swissclubtoronto.ca
 
 paula:
   name: Paula Rico
@@ -163,6 +95,7 @@ paula:
 
 philippe:
   name: Philippe Moser
+  position: President *ad interim*
   section: Canadysli
   bio: Section head
   avatar: /assets/images/officers/philippe.webp
@@ -172,6 +105,96 @@ philippe:
       icon: fas fa-fw fa-phone
       url: tel:416-434-5837
 
+simone:
+  name: Simone Höhn
+  section: Five-Pin Bowling
+  bio: Section head
+  avatar: /assets/images/officers/simone.webp
+  email: simone.hohn@swissclubtoronto.ca
+
+vacant:
+  name: Vacant
+  section: Amicale Romande
+  bio: Section Head
+  avatar: /assets/images/officers/vacant.webp
+  email: info@swissclubtoronto.ca
+
+# Current other
+
+antoine:
+  name: Antoine Belaieff
+  bio: CSA Representative
+  avatar: /assets/images/officers/antoine.webp
+  email: antoinejcbv@gmail.com
+
+walter:
+  name: Walter Brunner
+  email: walter.brunner@sympatico.ca
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:905-508-8014
+
+# Former
+albert:
+  name: Albert Lenz
+  avatar: /assets/images/officers/albert.webp
+  email: albert.lenz@swissclubtoronto.ca
+
+cedric:
+  name: Cedric Daros
+  avatar: /assets/images/officers/cedric.webp
+  email: cedric.daros@swissclubtoronto.ca
+
+denise:
+  name: Denise Frassini
+  email: denise.frassini@swissclubtoronto.ca
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:905-821-2392
+
+hannah:
+  name: Hannah Renner
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:647-231-0976
+
+jean-marc:
+  name: Jean-Marc Velen
+  avatar: /assets/images/officers/jean-marc.webp
+  email: jean-marc.velen@swissclubtoronto.ca
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:416-488-6493
+
+monika:
+  name: Monika Rueber
+  email: monika.rueber@swissclubtoronto.ca
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:416-203-2026
+
+nadia:
+  name: Nadia Berger
+  avatar: /assets/images/officers/nadia.webp
+  email: nadia.berger@swissclubtoronto.ca
+
+nicholas:
+  name: Nicholas Meyer
+  section: Amicale Romande
+  bio: Section Head
+  avatar: /assets/images/officers/nicholas.webp
+  email: nicholas.meyer@swissclubtoronto.ca
+
+noemie:
+  name: Noemie Steiner
+  avatar: /assets/images/officers/noemie.webp
+  email: noemie.steiner@swissclubtoronto.ca
+
 sascha:
   name: Sascha Frassini
   email: sascha.frassini@swissclubtoronto.ca
@@ -179,13 +202,6 @@ sascha:
     - label: Phone
       icon: fas fa-fw fa-phone
       url: tel:905-821-2392
-
-simone:
-  name: Simone Höhn
-  section: Five-Pin Bowling
-  bio: Section head
-  avatar: /assets/images/officers/simone.webp
-  email: simone.hohn@swissclubtoronto.ca
 
 suzi:
   name: Suzi Hubler
@@ -199,11 +215,3 @@ thomas:
     - label: Phone
       icon: fas fa-fw fa-phone
       url: tel:647-873-4450
-
-walter:
-  name: Walter Brunner
-  email: walter.brunner@sympatico.ca
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:905-508-8014
