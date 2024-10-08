@@ -43,7 +43,7 @@ jobs:
 
     steps:
       - name: Check out repo
-        uses: actions/checkout@v4.2.0
+        uses: actions/checkout@v4.2.1
 
       - name: Set year and month
         id: setmonth
