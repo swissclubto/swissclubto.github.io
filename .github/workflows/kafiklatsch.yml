@@ -95,13 +95,6 @@ jobs:
           date="${wednesdays[2]}" yq --inplace --front-matter=process \
               '.date = env(date)' "$target"
 
-          # Women's klatsch on the first Wednesday
-          womensfirst='_events/2023-04-05-womens-kaffeeklatsch.md'
-          target="_events/${wednesdays[0]}-womens-kaffeeklatsch.md"
-          cp "$womensfirst" "$target"
-          date="${wednesdays[0]}" yq --inplace --front-matter=process \
-              '.date = env(date)' "$target"
-
       - name: Create pull request
         env:
           year: ${{ steps.setmonth.outputs.year }}
