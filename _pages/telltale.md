@@ -13,6 +13,9 @@ toc_sticky: true
     image_path: /assets/telltale/2024-07-issue-155-th.webp
     title: Tell Tale issue 155, July 2024
   -  # Dummy image for layout
+# - url: /assets/telltale/2024-12-issue-156.pdf
+#   image_path: /assets/telltale/2024-12-issue-156-th.webp
+#   title: Tell Tale issue 156, December 2024
 '2023':
   - url: /assets/telltale/2023-04-issue-151.pdf
     image_path: /assets/telltale/2023-04-issue-151-th.webp
@@ -229,7 +232,7 @@ toc_sticky: true
     image_path: /assets/telltale/2004-07-issue-082-th.webp
     title: Tell Tale issue 82, July 2004
 captions:
-  '2024': Issues 154--155
+  '2024': Issues 154--156
   '2023': Issues 151--153
   '2022': Issues 148--150
   '2021': Issues 146--147
