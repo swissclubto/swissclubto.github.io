@@ -34,16 +34,14 @@ membership:
         url: /membership/terms-and-conditions/
 
 events:
-  - title: Upcoming year
+  - title: Current year
     children:
       - title: 2025 events
         url: /events/2025/
-  - title: Current year
+  - title: Archive
     children:
       - title: 2024 events
         url: /events/2024/
-  - title: Archive
-    children:
       - title: 2023 events
         url: /events/2023/
       - title: 2022 events
