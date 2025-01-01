@@ -5,12 +5,11 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-paginate-v2
   - jekyll-redirect-from
-  - jekyll-remote-theme
   - jekyll-sitemap
   - jemoji
 
 # Theme: Minimal Mistakes
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minimal-mistakes-jekyll
 
 # Skin
 minimal_mistakes_skin: air
