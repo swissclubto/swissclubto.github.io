@@ -14,7 +14,6 @@ teaser: assets/images/2025-02-22-canadysli.webp
 Join us for the {{ page.date | date: "%Y" }} edition of the Canadysli Dinner &
 Dance!
 
-For tickets and information, please reach out to {{ page.contact }}. The ticket
-cost includes non-alcoholic beverages and dinner; parking is free. If you'd
-like to pay with e-Transfer, please use {% include email.html
-addr="torontocanadysli@gmail.com" %}.
+For tickets and information, please reach out to {{ page.contact }}. The dinner
+is included in the ticket cost; parking is free. If you'd like to pay with
+e-Transfer, please use {% include email.html addr="torontocanadysli@gmail.com" %}.
