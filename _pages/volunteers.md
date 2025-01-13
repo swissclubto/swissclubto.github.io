@@ -18,7 +18,7 @@ small but mighty team. Here's what's in store for you:
 
 We welcome anyone who has a few hours a month to spare, the enthusiasm, the
 curiosity, and the interest! Please email us at {% include email.html
-addr=site.data.authors.charlotte.email %} and we will get back to you.
+addr="president@swissclubtoronto.ca" %} and we will get back to you.
 
 :information_source: Please note that to become a section head or a director on
 the board, you must have been a member of the Swiss Club for at least half a
