@@ -1,7 +1,7 @@
 ---
 title: Fondue de l'Amicale Romande 2025
 header:
-  teaser: /assets/images/2025-01-18-amicale-romande-021-th.webp
+  teaser: /assets/images/2025-01-18-amicale-romande-011-th.webp
 gallery:
   - url: /assets/images/2025-01-18-amicale-romande-001.webp
     image_path: /assets/images/2025-01-18-amicale-romande-001-th.webp
