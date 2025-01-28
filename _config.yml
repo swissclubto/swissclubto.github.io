@@ -1,11 +1,8 @@
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-include-cache
   - jekyll-last-commit
   - jekyll-paginate-v2
   - jekyll-redirect-from
-  - jekyll-sitemap
   - jemoji
 
 # Theme: Minimal Mistakes
@@ -129,6 +126,8 @@ kramdown:
 permalink: pretty
 sass:
   quiet_deps: true
+  silence_deprecations:
+    - import
   style: expanded
 timezone: America/Toronto
 
