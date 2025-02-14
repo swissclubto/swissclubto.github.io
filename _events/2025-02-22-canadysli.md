@@ -8,6 +8,7 @@ contact: Philippe
 cost: |
   $75 members
   $85 non-members
+  $60 children
 teaser: assets/images/2025-02-22-canadysli.webp
 ---
 
