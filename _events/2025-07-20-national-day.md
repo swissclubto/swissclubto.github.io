@@ -1,12 +1,12 @@
 ---
 title: Swiss National Day celebration 2025
-# location: Willowgrove Farm
-# address: 11737 McCowan Rd, Whitchurch-Stouffville
+location: Willowgrove Farm
+address: 11737 McCowan Rd, Whitchurch-Stouffville
 # start_time: 12 pm
 # end_time: 5 pm
-# contact: Charlotte
+contact: Philippe
 teaser: /assets/images/2024-07-28-national-day-067.webp
-date: 2025-07-27
+date: 2025-07-20
 # cost: |-
 #   ~~Early bird, adult, member, admission + lunch: $40~~
 #   ~~Early bird, adult, non-member, admission + lunch: $50~~
