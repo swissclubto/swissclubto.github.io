@@ -23,7 +23,8 @@ on Sunday, April 13, 2025, at 3 p.m. in the Humber Valley United Church, 76
 Anglesey Blvd, Toronto, M9A 3C1.
 
 Contact: Maggie Hess [905-508-8014][tel] or email: {% include email.html
-addr="walter.brunner@sympatico.ca" %}
+addr="walter.brunner@sympatico.ca" %}. Pre-registrations are appreciated, but
+not required.
 
 Important changes to note:
 
