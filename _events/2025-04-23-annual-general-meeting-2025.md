@@ -26,6 +26,9 @@ The agenda looks roughly like this:
 | 6.15 pm | Dinner                         |
 | 7.00 pm | Call to order and start of AGM |
 
-Please use the [RSVP form] to register.
+Please use the [RSVP form] to register. If you cannot attend but would like to
+nominate a proxy to vot for you, use the proxy form on the first page of the
+[latest Tell Tale][tt].
 
 [rsvp form]: <{{ page.web_url }}>
+[tt]: <{% link assets/telltale/2025-04-issue-157.pdf %}>
