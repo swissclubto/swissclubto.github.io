@@ -1,11 +1,11 @@
 ---
 title: Amicale Romande
-permalink: /sections/amicale/
-author: vacant
+permalink: /sections/former/amicale/
+redirect_from: /sections/amicale/
 ---
 
-:construction: Content under construction, check back soon for updates!
-:construction:
+:information_source: The Amicale Romande is no longer active as a separate
+section; its events have been folded into the Swiss Club itself.
 {: .notice--warning}
 
 The Amicale Romande hosts annual raclette and fondue events.

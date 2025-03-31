@@ -1,8 +1,11 @@
 ---
 title: Women's Section
-permalink: /sections/women/
-author: paula
+permalink: /sections/former/women/
+redirect_from: /sections/women/
 ---
+
+:information_source: The Women's Section is no longer active.
+{: .notice--warning}
 
 ##  Kaffeeklatsch
 

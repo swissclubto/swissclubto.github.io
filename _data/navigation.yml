@@ -70,8 +70,6 @@ sections:
         url: /contact/
   - title: Club sections
     children:
-      - title: Amicale Romande
-        url: /sections/amicale/
       - title: Canadysli
         url: /sections/canadysli/
       - title: Five-Pin Bowling
@@ -82,5 +80,9 @@ sections:
         url: /sections/jass/
       - title: Theatre Group
         url: /sections/theatre/
+  - title: Former club sections
+    children:
+      - title: Amicale Romande
+        url: /sections/former/amicale/
       - title: Women's Section
-        url: /sections/women/
+        url: /sections/former/women/
