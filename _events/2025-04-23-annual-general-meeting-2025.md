@@ -30,5 +30,9 @@ Please use the [RSVP form] to register. If you cannot attend but would like to
 nominate a proxy to vote for you, use the proxy form on the first page of the
 [latest Tell Tale][tt].
 
+As mentioned in the latest email newsletter, the board is going to propose
+[amendments to the by-laws][amendments], which you can review here.
+
 [rsvp form]: <{{ page.web_url }}>
 [tt]: <{% link assets/telltale/2025-04-issue-157.pdf %}>
+[amendments]: <{% link assets/pdf/2025-04-23-by-law-amendments.pdf %}>
