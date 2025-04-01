@@ -27,7 +27,7 @@ The agenda looks roughly like this:
 | 7.00 pm | Call to order and start of AGM |
 
 Please use the [RSVP form] to register. If you cannot attend but would like to
-nominate a proxy to vot for you, use the proxy form on the first page of the
+nominate a proxy to vote for you, use the proxy form on the first page of the
 [latest Tell Tale][tt].
 
 [rsvp form]: <{{ page.web_url }}>
