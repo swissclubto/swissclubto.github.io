@@ -37,6 +37,11 @@ on the first page of the [latest Tell Tale][tt].
 As mentioned in the latest email newsletter, the board is going to propose
 [amendments to the by-laws][amendments], which you can review here.
 
+### References
+
+- [Provisional minutes of the 2024 annual general meeting (PDF)][minutes]
+
 [rsvp form]: <{{ page.web_url }}>
 [tt]: <{% link assets/telltale/2025-04-issue-157.pdf %}>
 [amendments]: <{% link assets/pdf/2025-04-23-by-law-amendments.pdf %}>
+[minutes]: <{% link assets/pdf/meetings/2024-04-24-agm-minutes.pdf %}>
