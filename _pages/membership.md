@@ -18,7 +18,7 @@ We are always looking for new members, and welcome all those interested in
 taking on roles on the board, or volunteering for our various events throughout
 the year, no citizenship required![^1] :slightly_smiling_face:
 
-The cost of membership is \$30 per year for an individual or \$40 per year for
+The cost of membership is \$40 per year for an individual or \$60 per year for
 a family (two partners and children). Membership is annual from the date you
 join, and can be renewed every year. Click below to sign up.
 
