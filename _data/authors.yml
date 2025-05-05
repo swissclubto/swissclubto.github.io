@@ -27,28 +27,16 @@ ben:
   name: Benjamin Wuethrich
   avatar: /assets/images/officers/ben.webp
   position: |-
-    Vice President
+    IT
     Memberships
     Website
   email: benjamin.wuethrich@swissclubtoronto.ca
 
-charlotte:
-  name: Charlotte Mariller
-  position: |
-    Past president
-    (ex officio board member)
-  avatar: /assets/images/officers/charlotte.webp
-  email: charlotte.mariller@swissclubtoronto.ca
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:647-473-8941
-
-corinne:
-  name: Corinne Jakob
-  avatar: /assets/images/officers/corinne.webp
-  position: Entertainment
-  email: corinne.jakob@swissclubtoronto.ca
+celine:
+  name: Céline Baracho
+  avatar: /assets/images/officers/celine.webp
+  position: Vice President
+  email: celine.baracho@swissclubtoronto.ca
 
 erika:
   name: Erika Tièche
@@ -82,20 +70,9 @@ maggie:
   avatar: /assets/images/officers/maggie.webp
   email: magdalena.hess@swissclubtoronto.ca
 
-paula:
-  name: Paula Rico
-  section: Women's Section
-  bio: Section head
-  avatar: /assets/images/officers/paula.webp
-  email: ricopaula420@gmail.com
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:416-652-9067
-
 philippe:
   name: Philippe Moser
-  position: President *ad interim*
+  position: President
   section: Canadysli
   bio: Section head
   avatar: /assets/images/officers/philippe.webp
@@ -111,13 +88,6 @@ simone:
   bio: Section head
   avatar: /assets/images/officers/simone.webp
   email: simone.hohn@swissclubtoronto.ca
-
-vacant:
-  name: Vacant
-  section: Amicale Romande
-  bio: Section Head
-  avatar: /assets/images/officers/vacant.webp
-  email: info@swissclubtoronto.ca
 
 # Current other
 
@@ -145,6 +115,25 @@ cedric:
   name: Cedric Daros
   avatar: /assets/images/officers/cedric.webp
   email: cedric.daros@swissclubtoronto.ca
+
+charlotte:
+  name: Charlotte Mariller
+  position: |-
+    Past president
+    (ex officio board member)
+  avatar: /assets/images/officers/charlotte.webp
+  email: charlotte.mariller@swissclubtoronto.ca
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:647-473-8941
+
+corinne:
+  name: Corinne Jakob
+  avatar: /assets/images/officers/corinne.webp
+  position: Entertainment
+  email: corinne.jakob@swissclubtoronto.ca
+
 
 denise:
   name: Denise Frassini
@@ -195,6 +184,17 @@ noemie:
   avatar: /assets/images/officers/noemie.webp
   email: noemie.steiner@swissclubtoronto.ca
 
+paula:
+  name: Paula Rico
+  section: Women's Section
+  bio: Section head
+  avatar: /assets/images/officers/paula.webp
+  email: ricopaula420@gmail.com
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:416-652-9067
+
 sascha:
   name: Sascha Frassini
   email: sascha.frassini@swissclubtoronto.ca
@@ -215,3 +215,10 @@ thomas:
     - label: Phone
       icon: fas fa-fw fa-phone
       url: tel:647-873-4450
+
+vacant:
+  name: Vacant
+  section: Amicale Romande
+  bio: Section Head
+  avatar: /assets/images/officers/vacant.webp
+  email: info@swissclubtoronto.ca
