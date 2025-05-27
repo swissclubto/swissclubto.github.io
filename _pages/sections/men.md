@@ -1,7 +1,7 @@
 ---
 title: Men's Section
 permalink: /sections/men/
-author: arno
+author: vacant
 ---
 
 ## Weekly Kaffi Klatsch

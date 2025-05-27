@@ -6,17 +6,6 @@ alexia:
   position: Secretary
   email: alexia.moser@swissclubtoronto.ca
 
-arno:
-  name: Arno Sigrist
-  section: Men's Section
-  bio: Section head
-  avatar: /assets/images/officers/arno.webp
-  email: arno.s@sympatico.ca
-  links:
-    - label: Phone
-      icon: fas fa-fw fa-phone
-      url: tel:416-891-1102
-
 auggie:
   name: Augustin Werner
   position: Treasurer
@@ -114,6 +103,18 @@ albert:
   name: Albert Lenz
   avatar: /assets/images/officers/albert.webp
   email: albert.lenz@swissclubtoronto.ca
+
+arno:
+  name: Arno Sigrist
+  section: Men's Section
+  bio: Section head
+  avatar: /assets/images/officers/arno.webp
+  email: arno.s@sympatico.ca
+  links:
+    - label: Phone
+      icon: fas fa-fw fa-phone
+      url: tel:416-891-1102
+
 
 cedric:
   name: Cedric Daros
@@ -222,7 +223,7 @@ thomas:
 
 vacant:
   name: Vacant
-  section: Amicale Romande
+  section: Men's Section
   bio: Section Head
   avatar: /assets/images/officers/vacant.webp
   email: info@swissclubtoronto.ca
