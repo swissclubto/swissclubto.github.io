@@ -5,7 +5,7 @@ start_time: 10 am
 end_time: 12 pm
 location: Lindt Chocolate Store at Bayview Village Shopping Centre
 address: "2901 Bayview Ave Unit #154, North York"
-contact: Arno
+contact: Philippe
 section: men
 ---
 
