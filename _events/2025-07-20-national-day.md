@@ -2,8 +2,8 @@
 title: Swiss National Day celebration 2025
 location: Willowgrove Farm
 address: 11737 McCowan Rd, Whitchurch-Stouffville
-# start_time: 12 pm
-# end_time: 5 pm
+start_time: 12 pm
+end_time: 6 pm
 contact: Philippe
 teaser: /assets/images/2024-07-28-national-day-067.webp
 date: 2025-07-20
@@ -21,10 +21,18 @@ date: 2025-07-20
 #   Adult, non-member, admission: $20
 #   Kid (16 and younger), admission: $5
 #   Babies (3 and younger): free
-# web_url: https://swiss-club-to-national-day-2024.eventbrite.ca/
-# web_url_name: Eventbrite page for tickets
+web_url: https://forms.gle/yASHHb84xQuucoGx9
+web_url_name: RSVP form
 redirect_from: /nd2025/
 ---
 
 Save the date to celebrate Switzerland's 734th birthday with the Swiss Club
 Toronto! Stay tuned for updates on this page.
+
+Please use the [RSVP form][rsvp] if you pland to attend.
+
+We're also looking for volunteers, please register on the [volunteer
+form][vols]!
+
+[rsvp]: <{{ page.web_url }}>
+[vols]: <https://forms.gle/fEANNDSDJd6hLDjb7>
