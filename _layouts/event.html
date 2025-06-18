@@ -30,7 +30,7 @@ layout: single
           {%- endif -%}
         {%- endif -%}
         {%- if page.start_time -%}
-          {{- page.start_time | date: "%-I.%M %P" -}}
+          {{- page.start_time | date: "%-I:%M %P" -}}
         {%- endif -%}
         {%- if page.end_time or page.end_date -%}
           &#32;&ndash;&#32; 
@@ -42,7 +42,7 @@ layout: single
           {%- endif -%}
         {%- endif -%}
         {%- if page.end_time -%}
-          {{- page.end_time | date: "%-I.%M %P" -}}
+          {{- page.end_time | date: "%-I:%M %P" -}}
         {%- endif -%}
       </td>
     </tr>
