@@ -24,7 +24,7 @@ feature_row1:
     excerpt: >
       Ever wondered how the Swiss Club works? Curious to learn more about the
       people behind the scenes? Know someone who might be interested in
-      volunteering? Want something new to do in 2024?
+      volunteering? Want something new this year?
     url: /volunteers/
     btn_class: btn--primary
   - image_path: /assets/images/events-teaser.webp
