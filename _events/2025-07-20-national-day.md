@@ -7,20 +7,9 @@ end_time: 5:30 pm
 contact: Philippe
 teaser: /assets/images/2024-07-28-national-day-067.webp
 date: 2025-07-20
-# cost: |-
-#   ~~Early bird, adult, member, admission + lunch: $40~~
-#   ~~Early bird, adult, non-member, admission + lunch: $50~~
-#   ~~Early bird, kid (16 and younger), admission + lunch: $30~~
-#   ~~Early bird, adult, member, admission: $10~~
-#   ~~Early bird, adult, non-member, admission: $20~~
-#   ~~Early bird, kid (16 and younger), admission: free~~
-#   Adult, member, admission + lunch: $45
-#   Adult, non-member, admission + lunch: $55
-#   Kid (16 and younger), admission + lunch: $35
-#   Adult, member, admission: $15
-#   Adult, non-member, admission: $20
-#   Kid (16 and younger), admission: $5
-#   Babies (3 and younger): free
+cost: |-
+  Entrance free
+  Food and drinks for purchase
 web_url: https://forms.gle/yASHHb84xQuucoGx9
 web_url_name: RSVP form
 redirect_from: /nd2025/
