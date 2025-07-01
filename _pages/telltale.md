@@ -9,7 +9,9 @@ toc_sticky: true
   - url: /assets/telltale/2025-04-issue-157.pdf
     image_path: /assets/telltale/2025-04-issue-157-th.webp
     title: Tell Tale issue 157, April 2025
-  -  # Dummy image for layout
+  # - url: /assets/telltale/2025-07-issue-158.pdf
+  #   image_path: /assets/telltale/2025-07-issue-158-th.webp
+  #   title: Tell Tale issue 158, July 2025
   -  # Dummy image for layout
 '2024':
   - url: /assets/telltale/2024-04-issue-154.pdf
@@ -238,6 +240,7 @@ toc_sticky: true
     title: Tell Tale issue 82, July 2004
 captions:
   '2025': Issue 157
+  # '2025': Issues 157--158
   '2024': Issues 154--156
   '2023': Issues 151--153
   '2022': Issues 148--150
@@ -263,6 +266,7 @@ captions:
 {%- for obj in page.captions -%}
 {%- assign year = obj[0] -%}
 {%- assign caption = obj[1] -%}
+
 ## {{ year }}
 
 {%- include gallery id=year caption=caption -%}
