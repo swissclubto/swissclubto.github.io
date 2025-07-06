@@ -15,11 +15,11 @@ web_url_name: RSVP form
 redirect_from: /nd2025/
 ---
 
-Please be aware that pets aren't allowed on Willowgrove, as it's a working
-farm.
+:rotating_light: Please be aware that pets aren't allowed on Willowgrove, as
+it's a working farm.
 {: .notice--danger}
 
-Seating is limited, please bring lawn chairs!
+:information_source: Seating is limited, please bring lawn chairs!
 {: .notice--warning}
 
 Come celebrate Switzerland's 734th birthday with the Swiss Club Toronto! There
