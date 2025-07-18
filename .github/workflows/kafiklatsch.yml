@@ -79,7 +79,7 @@ jobs:
           done
 
           # Men's kaffi klatsch every Monday
-          menmonday='_events/2023-04-03-mens-kaffi-klatsch.md'
+          menmonday='_events/2025-07-07-mens-kaffi-klatsch.md'
 
           for date in "${mondays[@]}"; do
               target="_events/$date-mens-kaffi-klatsch$((++i)).md"
@@ -89,7 +89,7 @@ jobs:
           done
 
           # Men's virtual kaffi klatsch on the third Wednesday
-          menvirtual='_events/2023-04-19-mens-virtual-klatsch.md'
+          menvirtual='_events/2025-07-16-mens-virtual-klatsch.md'
           target="_events/${wednesdays[2]}-mens-virtual-klatsch.md"
           cp "$menvirtual" "$target"
           date="${wednesdays[2]}" yq --inplace --front-matter=process \
