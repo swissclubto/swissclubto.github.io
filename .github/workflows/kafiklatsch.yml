@@ -79,7 +79,7 @@ jobs:
           done
 
           # Men's kaffi klatsch every Monday
-          menmonday='_events/2025-07-07-mens-kaffi-klatsch.md'
+          menmonday='_events/2025-07-07-mens-kaffi-klatsch1.md'
 
           for date in "${mondays[@]}"; do
               target="_events/$date-mens-kaffi-klatsch$((++i)).md"
