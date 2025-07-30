@@ -254,3 +254,4 @@ gallery:
     title: Photo by Lori Moser
 ---
 
+{% include video id="d6iMgPUH_HU" provider="youtube" %}
