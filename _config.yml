@@ -100,10 +100,12 @@ footer:
 include:
   - _pages
 exclude:
+  - .crush/
   - .github/
   - .mailmap
   - .ruby-version
   - CNAME
+  - CRUSH.md
   - LICENSE
   - README.md
   - bin/
