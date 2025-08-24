@@ -1,8 +1,8 @@
 main:
   - title: News
     url: /news/
-  - title: Volunteers
-    url: /volunteers/
+  - title: Sponsors
+    url: /sponsors/
   - title: Events
     url: /events/
   - title: Tell Tale
@@ -13,6 +13,8 @@ main:
     url: /membership/
   - title: Contact
     url: /contact/
+  - title: Volunteers
+    url: /volunteers/
   - title: In Memoriam
     url: /inmemoriam/
 
