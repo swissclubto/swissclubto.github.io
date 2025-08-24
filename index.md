@@ -19,13 +19,12 @@ feature_row1:
       of upcoming events, and more.
     url: /news/
     btn_class: btn--primary
-  - image_path: /assets/images/volunteers-teaser.webp
-    title: Volunteers
+  - image_path: /assets/images/sponsors-teaser.webp
+    image_caption: National Day 2015 sponsored raffle prizes
+    title: Sponsors
     excerpt: >
-      Ever wondered how the Swiss Club works? Curious to learn more about the
-      people behind the scenes? Know someone who might be interested in
-      volunteering? Want something new this year?
-    url: /volunteers/
+      Without our wonderful sponsors, we wouldn't be able to do what we do.
+    url: /sponsors/
     btn_class: btn--primary
   - image_path: /assets/images/events-teaser.webp
     image_caption: Swiss Social July 2021
@@ -62,18 +61,26 @@ feature_row2:
     btn_class: btn--primary
 feature_row3:
   - image_path: /assets/images/contact-teaser.webp
-    image_caption: Annual General Meeting 2023
+    image_caption: Annual General Meeting 2025
     title: Contact
-    excerpt: |
+    excerpt: >
       Learn more about the board of directors, the various sections, and their
       heads.
+
 
       Share with us information that may be of interest to the Swiss community
       in Greater Toronto. We’d like to hear from you either by e-mail or
       regular mail.
     url: /contact/
     btn_class: btn--primary
-feature_row4:
+  - image_path: /assets/images/volunteers-teaser.webp
+    title: Volunteers
+    excerpt: >
+      Ever wondered how the Swiss Club works? Curious to learn more about the
+      people behind the scenes? Know someone who might be interested in
+      volunteering? Want something new this year?
+    url: /volunteers/
+    btn_class: btn--primary
   - image_path: /assets/images/inmemoriam-teaser.webp
     image_caption: |
       Photo by [Young Shih] on [Unsplash]
@@ -93,6 +100,4 @@ feature_row4:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row3" %}
