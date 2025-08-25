@@ -18,7 +18,7 @@ include email.html text="via email" addr="sponsorship@swissclubtoronto.ca" %}.
 
 ### Personal donors
 
-Vreni Ducommun\
+Verena Ducommun\
 Gordon Miller\
 Auggie and Debbie Werner
 {: .text-center}
