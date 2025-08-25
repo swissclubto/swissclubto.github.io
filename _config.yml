@@ -1,6 +1,6 @@
 # Plugins
 plugins:
-  - jekyll-last-commit
+  # - jekyll-last-commit
   - jekyll-paginate-v2
   - jekyll-redirect-from
   - jemoji
@@ -100,6 +100,7 @@ footer:
 include:
   - _pages
 exclude:
+  - '**/.conform.*'
   - .crush/
   - .github/
   - .mailmap
