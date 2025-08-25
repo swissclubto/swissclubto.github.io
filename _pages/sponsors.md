@@ -32,6 +32,6 @@ Auggie and Debbie Werner
 [ifds_logo]: <{% link assets/images/sponsors/ifds.webp %}>
 [ifds_web]: <https://ifdsgroup.com/>
 [newwave_logo]: <{% link assets/images/sponsors/newwave.webp %}>
-[newwave_web]: <https://www.newwavetravel.net/en>
+[newwave_web]: <#>
 [swissfoodbox_logo]: <{% link assets/images/sponsors/swissfoodbox.webp %}>
 [swissfoodbox_web]: <https://swissfoodbox.ch/>
