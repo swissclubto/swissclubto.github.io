@@ -1,0 +1,5 @@
+# Override plugins to skip jekyll-last-commit in development environment
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-redirect-from
+  - jemoji
