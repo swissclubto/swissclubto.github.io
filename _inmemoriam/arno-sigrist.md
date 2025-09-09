@@ -22,6 +22,4 @@ From the [obituary]:
 > Section and kept the signature weekly Kaffi Klatsch (social gathering for
 > coffee and conversation) running even through COVID.
 
-Celebration of Life plans are underway.
-
 [obituary]: <https://www.affordableburialsandcremations.ca/obituaries/arno-sigrist>
