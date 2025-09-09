@@ -17,6 +17,8 @@ main:
     url: /volunteers/
   - title: In Memoriam
     url: /inmemoriam/
+  - title: Food Orders
+    url: /orders/
 
 membership:
   - title: Membership
