@@ -1,5 +1,5 @@
 ---
-title: Hans Haus Oktoberfest
+title: Hansa Haus Oktoberfest
 date: 2025-09-13
 start_time: 5:00 pm
 location: Hansa Haus
