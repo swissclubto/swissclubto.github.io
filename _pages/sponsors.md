@@ -13,7 +13,7 @@ include email.html text="via email" addr="sponsorship@swissclubtoronto.ca" %}.
 [![Embassy logo][embassy_logo]][embassy_web]
 [![Euromart logo][euromart_logo]][euromart_web]
 [![IFDS logo][ifds_logo]][ifds_web]
-[![New Wave Travel logo][newwave_logo]][newwave_web]
+[![Direct Travel logo][dt_logo]][dt_web]
 [![Swiss Food Box][swissfoodbox_logo]][swissfoodbox_web]
 
 ### Personal donors
@@ -31,7 +31,7 @@ Auggie and Debbie Werner
 [euromart_web]: <#>
 [ifds_logo]: <{% link assets/images/sponsors/ifds.webp %}>
 [ifds_web]: <https://ifdsgroup.com/>
-[newwave_logo]: <{% link assets/images/sponsors/newwave.webp %}>
-[newwave_web]: <#>
+[dt_logo]: <{% link assets/images/sponsors/directtravel.webp %}>
+[dt_web]: <#>
 [swissfoodbox_logo]: <{% link assets/images/sponsors/swissfoodbox.webp %}>
 [swissfoodbox_web]: <https://swissfoodbox.ch/>
