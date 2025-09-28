@@ -9,7 +9,7 @@ contact: Philippe
 #   $75 members
 #   $85 non-members
 #   $60 children
-teaser: assets/images/2025-02-22-canadysli.webp
+# teaser: assets/images/2025-02-22-canadysli.webp
 ---
 
 Join us for the {{ page.date | date: "%Y" }} edition of the Canadysli Dinner &
