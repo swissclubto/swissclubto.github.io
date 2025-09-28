@@ -10,7 +10,8 @@ so we're looking into offering regular orders now. You can pre-order your
 items, and then pick them up at the next Swiss Club event.
 
 **The first batch takes orders until November 15, 2025, and you can pick up
-your order at the 2025 Christmas party (date TBA).** For more details, see the
+your order at the [2025 Christmas party][party].** For more details, see the
 [order form].
 
+[party]: <{% link _events/2025-11-29-christmas-event.md %}>
 [order form]: <https://forms.gle/MoEWmzZbiMzX23pq7>
