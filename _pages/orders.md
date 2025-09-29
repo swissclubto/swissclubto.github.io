@@ -13,5 +13,9 @@ items, and then pick them up at the next Swiss Club event.
 your order at the [2025 Christmas party][party].** For more details, see the
 [order form].
 
+:warning: We have pre-ordered the goods, so orders are fulfilled on a
+first-come, first-served basis.
+{: .notice--warning}
+
 [party]: <{% link _events/2025-11-29-christmas-event.md %}>
 [order form]: <https://forms.gle/MoEWmzZbiMzX23pq7>
