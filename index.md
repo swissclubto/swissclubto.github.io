@@ -7,8 +7,6 @@ header:
       url: /membership/
     - label: Volunteer
       url: /volunteers/
-    - label: Order Swiss food
-      url: /orders/
 intro:
   - excerpt: |
       Become a member of the Swiss Club Toronto and meet other Swiss Canadians
