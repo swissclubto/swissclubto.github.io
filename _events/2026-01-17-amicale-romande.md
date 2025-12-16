@@ -3,39 +3,22 @@ title: Amicale Romande fondue & dance
 location: Royal Canadian Legion Branch 10
 address: 1083 Pape Ave, East York
 contact: Philippe
-# start_time: 6:00 pm
-# end_time: 11:00 pm
-# web_url: https://amicale-romande-fondue-2025.eventbrite.com
-# web_url_name: Eventbrite page for tickets
+start_time: 6:00 pm
+end_time: 11:00 pm
 teaser: assets/images/2020-01-25-amicale-teaser.webp
-# cost: |-
-#   Adult, member: $60
-#   Adult, non-member: $70
-#   Kid (12 and younger): $50
+cost: |-
+  Adult, member: $65
+  Adult, non-member: $75
+  Kid (12 and younger): $35
 date: 2026-01-17
 ---
 
 The Swiss Club Toronto presents Amicale Romande Fondue Night, in its 2026
-edition! Stay tuned for more details.
+edition!
 
-{% comment %}
 The ticket price covers your dinner; beverages are sold separately at a cash
 bar operated by the Legion.
 
-To join, you have two options:
-
-<div markdown="1">
-1. **Email your RSVP to Philippe** ({% include email.html
-   addr="philippe.moser@swissclubtoronto.ca" %}), and **send an e-Transfer** to
-   {% include email.html addr="finance@swissclubtoronto.ca" %}
-
-   or
-
-2. **Buy tickets online** on our [Eventbrite page][ep]; this is a bit more
-   expensive due to Eventbrite fees
-
-</div>
-{: .notice--info}
-
-[ep]: <{{ page.web_url }}>
-{% endcomment %}
+To join, **email your RSVP to Philippe** ({% include email.html
+addr="philippe.moser@swissclubtoronto.ca" %}), and **send an e-Transfer** to {%
+include email.html addr="finance@swissclubtoronto.ca" %}.
