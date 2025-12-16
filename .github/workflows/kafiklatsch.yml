@@ -72,7 +72,6 @@ jobs:
           while [[ $date == *-$month-* ]]; do
               case $(date --date="$date" +%A) in
                   'Monday') mondays+=("$(date --date="$date" +%F)") ;;
-                  'Wednesday') wednesdays+=("$(date --date="$date" +%F)") ;;
               esac
 
               date=$(date --date="$date + 1 day" +%F)
@@ -87,13 +86,6 @@ jobs:
               date="$date" yq --inplace --front-matter=process \
                   '.date = env(date)' "$target"
           done
-
-          # Men's virtual kaffi klatsch on the third Wednesday
-          menvirtual='_events/2025-07-16-mens-virtual-klatsch.md'
-          target="_events/${wednesdays[2]}-mens-virtual-klatsch.md"
-          cp "$menvirtual" "$target"
-          date="${wednesdays[2]}" yq --inplace --front-matter=process \
-              '.date = env(date)' "$target"
 
       - name: Create pull request
         env:
