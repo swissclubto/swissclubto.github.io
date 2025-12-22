@@ -6,6 +6,13 @@ alexia:
   position: Secretary
   email: alexia.moser@swissclubtoronto.ca
 
+aschi:
+  name: Ernst Kohler
+  avatar: /assets/images/officers/vacant.webp
+  section: Men's Section
+  bio: Section Head
+  email: ernst.kohler@swissclubtoronto.ca
+
 auggie:
   name: Augustin Werner
   position: Treasurer
