@@ -6,6 +6,7 @@ start_time: 1:00 pm
 contact: Aschi
 cost: Free for members of the Swiss Club and their friends
 date: 2026-02-01
+section: men
 ---
 
 ![Movie poster](/assets/images/2026-02-01-matinee-teaser.webp){: .align-center}
