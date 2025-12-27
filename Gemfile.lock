@@ -151,7 +151,6 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sass-converter
   jemoji
-  logger
   minimal-mistakes-jekyll (= 4.24.0)
 
 CHECKSUMS
