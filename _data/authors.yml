@@ -7,11 +7,11 @@ alexia:
   email: alexia.moser@swissclubtoronto.ca
 
 aschi:
-  name: Ernst Kohler
+  name: Aschi Kohler
   avatar: /assets/images/officers/vacant.webp
   section: Men's Section
   bio: Section Head
-  email: ernst.kohler@swissclubtoronto.ca
+  email: aschi.kohler@swissclubtoronto.ca
 
 auggie:
   name: Augustin Werner
@@ -230,7 +230,5 @@ thomas:
 
 vacant:
   name: Vacant
-  section: Men's Section
-  bio: Section Head
   avatar: /assets/images/officers/vacant.webp
   email: info@swissclubtoronto.ca
