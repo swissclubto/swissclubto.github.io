@@ -5,11 +5,11 @@ date: 2026-02-21
 location: Royal Canadian Legion Branch 10
 address: 1083 Pape Ave, East York
 contact: Philippe
-# cost: |
-#   $75 members
-#   $85 non-members
-#   $60 children
-# teaser: assets/images/2025-02-22-canadysli.webp
+cost: |
+  $80 members
+  $90 non-members
+  $40 children 12 and under
+teaser: assets/images/2026-02-21-canadysli.webp
 ---
 
 Join us for the {{ page.date | date: "%Y" }} edition of the Canadysli Dinner &
