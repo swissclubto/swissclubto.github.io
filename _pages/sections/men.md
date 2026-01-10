@@ -1,7 +1,7 @@
 ---
 title: Men's Section
 permalink: /sections/men/
-author: Aschi
+author: aschi
 ---
 
 ## Weekly Kaffi Klatsch
