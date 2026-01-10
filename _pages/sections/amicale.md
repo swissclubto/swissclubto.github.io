@@ -2,6 +2,7 @@
 title: Amicale Romande
 permalink: /sections/former/amicale/
 redirect_from: /sections/amicale/
+author_profile: false
 ---
 
 :information_source: The Amicale Romande is no longer active as a separate

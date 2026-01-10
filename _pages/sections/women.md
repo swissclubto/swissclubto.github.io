@@ -2,12 +2,13 @@
 title: Women's Section
 permalink: /sections/former/women/
 redirect_from: /sections/women/
+author_profile: false
 ---
 
 :information_source: The Women's Section is no longer active.
 {: .notice--warning}
 
-##  Kaffeeklatsch
+## Kaffeeklatsch
 
 We meet every first Wednesday of the month at the {% include maps.html
 addr="2263 Bloor St W" description="Queen's Pasta Cafe" %}, at 1.30 pm
