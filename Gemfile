@@ -3,7 +3,7 @@ source "https://rubygems.org"
 ruby file: ".tool-versions"
 
 gem "jekyll"
-gem "jekyll-last-commit", github: "swissclubto/jekyll-last-commit", branch: "main"
+gem "jekyll-last-commit"
 gem "jekyll-paginate-v2"
 gem "jekyll-redirect-from"
 gem "jekyll-sass-converter"
