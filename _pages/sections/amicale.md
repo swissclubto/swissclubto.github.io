@@ -5,7 +5,8 @@ redirect_from: /sections/amicale/
 author_profile: false
 ---
 
-:information_source: The Amicale Romande is no longer active as a separate
+:information_source:\
+The Amicale Romande is no longer active as a separate
 section; its events have been folded into the Swiss Club itself.
 {: .notice--warning}
 
