@@ -88,5 +88,21 @@ div.monthcard {
   }
 }
 
+/* Nested navigation items in the sidebar */
+.nav__list .nav__items ul ul.nav__items--nested,
+.nav__list .nav__items ul ul.nav__items--nested .nav__items--nested {
+  margin-left: 1rem;
+  margin-bottom: 0;
+
+  li a {
+    padding-left: 0.5rem;
+    font-size: 0.703rem;
+
+    &.active {
+      margin-left: 0;
+    }
+  }
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
