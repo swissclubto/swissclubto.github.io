@@ -78,6 +78,14 @@ sections:
     children:
       - title: Canadysli
         url: /sections/canadysli/
+        children:
+          - title: Prior Fasnacht
+            url: /sections/canadysli/fasnacht
+            children:
+              - title: 2012
+                url: /sections/canadysli/fasnacht/2012
+              - title: 2011
+                url: /sections/canadysli/fasnacht/2011
       - title: Five-Pin Bowling
         url: /sections/bowling/
       - title: Men's Section

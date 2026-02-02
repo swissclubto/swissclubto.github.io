@@ -6,9 +6,10 @@ sidebar:
   nav: sections
 ---
 
-Fasnacht (Carnival) is a cherished tradition celebrated by the Canadysli. This page will feature photos and memories from our Fasnacht celebrations over the years.
+{% include figure image_path="/assets/images/canadysli/fasnacht.webp" %}
 
-Browse our Fasnacht archives:
+- [2012]
+- [2011]
 
-- [2010](/sections/canadysli/fasnacht/2010/)
-- [2011](/sections/canadysli/fasnacht/2011/)
+[2012]: <{% link _pages/sections/canadysli/fasnacht/2012.md %}>
+[2011]: <{% link _pages/sections/canadysli/fasnacht/2011.md %}>
