@@ -160,3 +160,11 @@ gallery:
     image_path: /assets/images/2026-02-21-canadysli-052-th.webp
     title: Photo by Philippe Moser
 ---
+
+Scroll past the videos to see the photos!
+
+{% include video id="QQoMprfuUJI" provider="youtube" %}
+{% include video id="WJAEmtOfyks" provider="youtube" %}
+{% include video id="67MPt1E-x3c" provider="youtube" %}
+{% include video id="V_0ijCy2Yp8" provider="youtube" %}
+{% include video id="IoTppYUd7CU" provider="youtube" %}
