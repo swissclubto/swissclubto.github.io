@@ -59,6 +59,12 @@ heidy:
   avatar: /assets/images/officers/heidy.webp
   email: heidy.lawrance@swissclubtoronto.ca
 
+caterina:
+  name: Caterina Kunz
+  avatar: /assets/images/officers/caterina.webp
+  position: Secretary *a.i.*
+  email: caterina.kunz@swissclubtoronto.ca
+
 maggie:
   name: Magdalena Hess
   section: Theatre Group
