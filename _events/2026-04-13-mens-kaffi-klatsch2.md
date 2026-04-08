@@ -3,9 +3,9 @@ title: Men's Section weekly Kaffi Klatsch
 date: 2026-04-13
 start_time: 10 am
 end_time: 12 pm
-location: Lindt Chocolate Store at Bayview Village Shopping Centre
-address: "2901 Bayview Ave Unit #154, North York"
-contact: Philippe
+location: LCBO at Bayview Village Shopping Centre
+address: 2901 Bayview Avenue, Mall Unit 125, North York
+contact: Aschi
 section: men
 ---
 
