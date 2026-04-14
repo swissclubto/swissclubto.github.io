@@ -13,7 +13,7 @@ own time!), plus a monthly in-person meetup to practise over a drink and good
 conversation. :beers:
 
 Whether you're just starting out, looking to improve, or a native speaker
-wanting to refresh (or not lose your Schwiizerdütsch!), you're very welcome to
+wanting to refresh (or not lose!) your Schwiizerdütsch, you're very welcome to
 join.
 
 If this sounds like your thing, send an email to Céline and she'll share all
