@@ -28,9 +28,10 @@ The agenda looks roughly like this:
 
 Please use the [RSVP form] to **register by Thursday, April 23**. If you cannot
 attend but would like to nominate a proxy to vote for you, use the proxy form
-on the first page of the April Tell Tale (coming soon).
+on the first page of the [April Tell Tale][tt].
 
 [rsvp form]: <{{ page.web_url }}>
+[tt]: <{% link assets/telltale/2026-04-issue-160.pdf %}>
 
 {% comment %}
 
@@ -38,7 +39,6 @@ on the first page of the April Tell Tale (coming soon).
 
 - [Provisional minutes of the 2024 annual general meeting (PDF)][minutes]
 
-[tt]: <{% link assets/telltale/2025-04-issue-157.pdf %}>
 [minutes]: <{% link assets/pdf/meetings/2024-04-24-agm-minutes.pdf %}>
 
 {% endcomment %}
