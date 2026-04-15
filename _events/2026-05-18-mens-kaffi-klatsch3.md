@@ -1,0 +1,18 @@
+---
+title: Men's Section weekly Kaffi Klatsch
+date: 2026-05-18
+start_time: 10 am
+end_time: 12 pm
+location: LCBO at Bayview Village Shopping Centre
+address: 2901 Bayview Avenue, Mall Unit 125, North York
+contact: Aschi
+section: men
+---
+
+Join the [Men's Section][mens] for their weekly Kaffi Klatsch.
+
+Section events like this one are open to non-members as well, but after
+attending a few times, we encourage [joining the Swiss Club Toronto][join].
+
+[mens]: <{% link _pages/sections/men.md %}>
+[join]: <{% link _pages/membership.md %}>
