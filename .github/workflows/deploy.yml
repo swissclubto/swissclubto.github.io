@@ -33,7 +33,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.306.0
         with:
-          rubygems: 4.0.10
+          rubygems: 4.0.11
           bundler-cache: true
 
       - name: Build with Jekyll
