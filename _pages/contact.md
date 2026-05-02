@@ -21,6 +21,8 @@ sidebar:
 
 ## By-laws
 
-[By-laws of the Swiss Club Toronto, revision April 2023][bylaws]
+- [Revision April 2025][bylaws2025]
+- [Revision April 2023][bylaws2023]
 
-[bylaws]: <{% link /assets/pdf/2023-04-14-by-laws.pdf %}>
+[bylaws2025]: <{% link /assets/pdf/2025-04-23-by-laws.pdf %}>
+[bylaws2023]: <{% link /assets/pdf/2023-04-14-by-laws.pdf %}>
