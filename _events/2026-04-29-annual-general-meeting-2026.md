@@ -33,12 +33,8 @@ on the first page of the [April Tell Tale][tt].
 [rsvp form]: <{{ page.web_url }}>
 [tt]: <{% link assets/telltale/2026-04-issue-160.pdf %}>
 
-{% comment %}
-
 ### References
 
-- [Provisional minutes of the 2024 annual general meeting (PDF)][minutes]
+- [Provisional minutes of the 2025 annual general meeting (PDF)][minutes]
 
-[minutes]: <{% link assets/pdf/meetings/2024-04-24-agm-minutes.pdf %}>
-
-{% endcomment %}
+[minutes]: <{% link assets/pdf/meetings/2025-04-23-agm-minutes.pdf %}>
