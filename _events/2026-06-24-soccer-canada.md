@@ -5,7 +5,7 @@ address: 21 St Clair Ave W, Toronto
 start_time: 2:30 pm
 contact: Celine
 date: 2026-06-24
-web_url: https://forms.gle/REPLACE-ME-CANADA
+web_url: https://forms.gle/XyKeQwMh8JJEdi719
 web_url_name: RSVP form
 teaser: /assets/images/2026-06-13-soccer-teaser.webp
 ---

@@ -5,7 +5,7 @@ address: 535 Danforth Ave, Toronto
 start_time: 2:30 pm
 contact: Celine
 date: 2026-06-18
-web_url: https://forms.gle/REPLACE-ME-BOSNIA
+web_url: https://forms.gle/nngEiKRdfh6mBA7Z9
 web_url_name: RSVP form
 teaser: /assets/images/2026-06-13-soccer-teaser.webp
 ---

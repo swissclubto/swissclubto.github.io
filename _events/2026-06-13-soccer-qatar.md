@@ -5,7 +5,7 @@ address: 221 Carlton St, Toronto
 start_time: 2:30 pm
 contact: Celine
 date: 2026-06-13
-web_url: https://forms.gle/REPLACE-ME-QATAR
+web_url: https://forms.gle/UbG8phiCTcmo1Zm99
 web_url_name: RSVP form
 teaser: /assets/images/2026-06-13-soccer-teaser.webp
 ---

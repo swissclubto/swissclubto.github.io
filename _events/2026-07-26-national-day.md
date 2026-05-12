@@ -5,7 +5,10 @@ address: 6650 Hurontario Street, Mississauga, ON L5W 1N3
 start_time: 12 pm
 end_time: 5 pm
 contact: Philippe
-# cost: Free; food and drinks sold separately
+cost: |
+  Members: free
+  Non-members: $20 for individuals, $40 for families
+  Food and drinks sold separately
 teaser: /assets/images/2025-07-20-national-day-002.webp
 date: 2026-07-26
 web_url: https://forms.gle/pqQMDFTCsmaRa6Du8
@@ -22,10 +25,8 @@ moved back to the Hansa Haus in Mississauga this year.
 
 Please use the [RSVP form][rsvp] if you plan to attend.
 
-{% comment %}
 We're also looking for volunteers, please register on the [volunteer
 form][vols]!
-{% endcomment %}
 
 [rsvp]: <{{ page.web_url }}>
-[vols]: <https://forms.gle/fEANNDSDJd6hLDjb7>
+[vols]: <https://forms.gle/2HTT6JpiDuiNbeXf7>
