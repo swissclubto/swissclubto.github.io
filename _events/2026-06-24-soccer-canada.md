@@ -11,7 +11,11 @@ teaser: /assets/images/2026-06-13-soccer-teaser.webp
 ---
 
 Hopp Schwiiz! Come cheer on the Nati with the Swiss Club as Switzerland
-takes on Canada in the group stage of the FIFA World Cup.
+takes on Canada in the group stage of the FIFA World Cup. For this match
+we're teaming up with [Forvest Global Wealth Management][forvest] to bring
+the game to life at The Union Social Eatery---with bites and great company.
+
+![Forvest logo](/assets/images/2026-06-24-forvest.webp){: .align-center}
 
 *Match kickoff is at 3 p.m.* We have a reservation starting at 2:30 p.m., so
 come early to grab a good spot.
@@ -22,7 +26,9 @@ Group stage public viewings:
 - Thursday June 18, vs. Bosnia---The Fox & Fiddle Danforth (535 Danforth Ave)
 - **Wednesday June 24, vs. Canada---The Union Social Eatery (21 St Clair Ave W)**
 
-Please use the [RSVP form] so we have an accurate headcount for each match.
-You can also email {{ page.contact }} with any questions.
+Space is limited, so please use the [RSVP form] to secure your spot and give
+us an accurate headcount for each match. You can also email {{ page.contact }}
+with any questions.
 
 [rsvp form]: <{{ page.web_url }}>
+[forvest]: <https://www.forvestglobal.ca>
