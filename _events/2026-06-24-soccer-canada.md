@@ -1,7 +1,7 @@
 ---
 title: 'World Cup public viewing: Switzerland vs. Canada'
 location: Gatherings Restobar
-address: 49 St Clair Ave W, Toronto, ON M4V 3A5
+address: 49 St Clair Ave W, Toronto
 start_time: 2:30 pm
 contact: Celine
 date: 2026-06-24
