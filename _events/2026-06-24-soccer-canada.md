@@ -1,7 +1,7 @@
 ---
 title: 'World Cup public viewing: Switzerland vs. Canada'
-location: The Union Social Eatery
-address: 21 St Clair Ave W, Toronto
+location: Gatherings Restobar
+address: 49 St Clair Ave W, Toronto
 start_time: 2:30 pm
 contact: Celine
 date: 2026-06-24
@@ -13,7 +13,7 @@ teaser: /assets/images/2026-06-13-soccer-teaser.webp
 Hopp Schwiiz! Come cheer on the Nati with the Swiss Club as Switzerland
 takes on Canada in the group stage of the FIFA World Cup. For this match
 we're teaming up with [Forvest Global Wealth Management][forvest] to bring
-the game to life at The Union Social Eatery---with bites and great company.
+the game to life at Gatherings Restobar---with bites and great company.
 
 ![Forvest logo](/assets/images/2026-06-24-forvest.webp){: .align-center}
 
@@ -24,7 +24,7 @@ Group stage public viewings:
 
 - Saturday June 13, vs. Qatar---Stout Irish Pub (221 Carlton St)
 - Thursday June 18, vs. Bosnia---The Fox & Fiddle Danforth (535 Danforth Ave)
-- **Wednesday June 24, vs. Canada---The Union Social Eatery (21 St Clair Ave W)**
+- **Wednesday June 24, vs. Canada---Gatherings Restobar (49 St Clair Ave W)**
 
 Space is limited, so please use the [RSVP form] to secure your spot and give
 us an accurate headcount for each match. You can also email {{ page.contact }}
