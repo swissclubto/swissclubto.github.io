@@ -20,7 +20,7 @@ Group stage public viewings:
 
 - Saturday June 13, vs. Qatar---Stout Irish Pub (221 Carlton St)
 - **Thursday June 18, vs. Bosnia---The Fox & Fiddle Danforth (535 Danforth Ave)**
-- Wednesday June 24, vs. Canada---The Union Social Eatery (21 St Clair Ave W)
+- Wednesday June 24, vs. Canada---Gatherings Restobar (49 St Clair Ave W)
 
 Please use the [RSVP form] so we have an accurate headcount for each match.
 You can also email {{ page.contact }} with any questions.
