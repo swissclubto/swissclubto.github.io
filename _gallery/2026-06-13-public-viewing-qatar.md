@@ -1,7 +1,7 @@
 ---
 title: World Cup public viewing Switzerland vs. Qatar
 header:
-  teaser: /assets/images/2026-06-13-public-viewing-001-th.webp
+  teaser: /assets/images/2026-06-13-public-viewing-041-th.webp
 gallery:
   - url: /assets/images/2026-06-13-public-viewing-001.webp
     image_path: /assets/images/2026-06-13-public-viewing-001-th.webp
@@ -123,6 +123,15 @@ gallery:
   - url: /assets/images/2026-06-13-public-viewing-040.webp
     image_path: /assets/images/2026-06-13-public-viewing-040-th.webp
     title: Photo by Philippe Moser
+  - url: /assets/images/2026-06-13-public-viewing-041.webp
+    image_path: /assets/images/2026-06-13-public-viewing-041-th.webp
+    title: Photo by @r03marchese on Instagram
+  - url: /assets/images/2026-06-13-public-viewing-042.webp
+    image_path: /assets/images/2026-06-13-public-viewing-042-th.webp
+    title: Photo by @r03marchese on Instagram
+  - url: /assets/images/2026-06-13-public-viewing-043.webp
+    image_path: /assets/images/2026-06-13-public-viewing-043-th.webp
+    title: Photo by @r03marchese on Instagram
 ---
 
 {% include video id="PjxJ8T-Cdxo" provider="youtube" %}
