@@ -45,6 +45,7 @@ Three custom collections in addition to standard `_posts`:
 ### Front Matter Conventions
 
 **Events** (`_events/YYYY-MM-DD-title.md`):
+
 ```yaml
 title: Event Name
 date: YYYY-MM-DD
@@ -57,6 +58,7 @@ section: men|bowling|canadysli|jass|theatre
 ```
 
 **Gallery** (`_gallery/YYYY-MM-DD-title.md`):
+
 ```yaml
 title: Gallery Title
 header:
