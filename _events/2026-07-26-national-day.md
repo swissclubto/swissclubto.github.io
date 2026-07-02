@@ -20,6 +20,14 @@ Come celebrate Switzerland's 735th birthday with the Swiss Club Toronto! There
 will be music, games, food and drink, our famous raffle, and an occasion to
 reconnect with Swiss friends from near and far!
 
+### Program
+
+| Time            | What                                                                                      |
+| --------------: | ----------------------------------------------------------------------------------------- |
+| 12:00&nbsp;p.m. | **Opening**---Explore the grounds and indulge in a Swiss lunch, coffee, drinks & more     |
+| 1:30 p.m.       | **Celebration and Entertainment**---Music, our famous raffle & more                       |
+| 5:00 p.m.       | Closing                                                                                   |
+
 Notice that after two years at the Willowgrove Farm, the event location has
 moved back to the Hansa Haus in Mississauga this year.
 
