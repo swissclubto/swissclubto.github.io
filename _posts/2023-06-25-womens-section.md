@@ -5,7 +5,7 @@ author:
   name: Paula Rico
   bio: Section Head
   avatar: /assets/images/officers/paula.webp
-  email: ricopaula420@gmail.com
+  email: ricopaula333@gmail.com
   links:
     - label: Phone
       icon: fas fa-fw fa-phone
