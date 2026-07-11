@@ -5,7 +5,7 @@ address: 2057B Danforth Ave, Toronto
 start_time: 8:30 pm
 contact: Celine
 date: 2026-07-11
-web_url: '#rsvp-form-placeholder'
+web_url: https://docs.google.com/forms/d/1zE4B4pk4FwAkp6E8Vrmlown6zURFCCzOvesQt2C9DIs/viewform
 web_url_name: RSVP form
 teaser: /assets/images/2026-06-13-soccer-teaser.webp
 ---
