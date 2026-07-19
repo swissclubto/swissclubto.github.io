@@ -134,4 +134,6 @@ gallery:
     title: Photo by @r03marchese on Instagram
 ---
 
+The game ended 1---1.
+
 {% include video id="PjxJ8T-Cdxo" provider="youtube" %}

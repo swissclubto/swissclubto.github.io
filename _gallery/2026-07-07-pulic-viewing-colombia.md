@@ -103,3 +103,5 @@ gallery:
     image_path: /assets/images/2026-07-07-public-viewing-033-th.webp
     title: Photo by Philippe Moser
 ---
+
+Switzerland won 4---3 after penalties (0---0 after 120 minutes).
