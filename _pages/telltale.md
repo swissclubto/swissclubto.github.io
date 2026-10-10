@@ -13,6 +13,11 @@ toc_sticky: true
     image_path: /assets/telltale/2026-07-issue-161-th.webp
     title: Tell Tale issue 161, July 2026
   - # placeholder
+  - url: /assets/telltale/2026-10-fall-events.pdf
+    image_path: /assets/telltale/2026-10-fall-events-th.webp
+    title: Tell Tale Fall Events, October 2026
+  - # placeholder
+  - # placeholder
 '2025':
   - url: /assets/telltale/2025-04-issue-157.pdf
     image_path: /assets/telltale/2025-04-issue-157-th.webp
@@ -249,7 +254,7 @@ toc_sticky: true
     image_path: /assets/telltale/2004-07-issue-082-th.webp
     title: Tell Tale issue 82, July 2004
 captions:
-  '2026': Issue 160--161
+  '2026': Issue 160--161 and Fall Events issue
   '2025': Issues 157--159
   '2024': Issues 154--156
   '2023': Issues 151--153
