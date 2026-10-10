@@ -38,6 +38,10 @@ membership:
         url: /membership/terms-and-conditions/
 
 events:
+  - title: Upcoming year
+    children:
+      - title: 2027 events
+        url: /events/2027/
   - title: Current year
     children:
       - title: 2026 events
