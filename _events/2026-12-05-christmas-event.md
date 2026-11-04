@@ -7,6 +7,8 @@ end_time: 5 pm
 contact: Philippe
 cost: Free!
 teaser: assets/images/2023-12-03-santa-claus.webp
+web_url: https://forms.gle/dbqyBHc2qv73yKRA7
+web_url_name: RSVP form
 date: 2026-12-05
 ---
 
@@ -23,4 +25,6 @@ music :musical_note:
 
 and a visit by the jolly old Saint Nick :santa:.
 
-Registration details will follow.
+Please use the [RSVP form][rsvp] to register.
+
+[rsvp]: <{{ page.web_url }}>
