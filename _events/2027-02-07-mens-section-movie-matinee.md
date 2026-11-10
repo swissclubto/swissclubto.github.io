@@ -35,8 +35,9 @@ Even if you don't understand Swiss German, it is still worthwhile to come!
 | 1:15 pm – 2:00 pm   | Coffee and snack intermission: mingle, chat, and maybe sing some Swiss songs |
 | 2:00 pm             | *Mein Name ist Eugen*                                 |
 
-As usual, baked goods are welcome! Please let us know if you will contribute,
-and please RSVP so we have an idea of how many people will attend.
+As usual, baked goods are welcome! Please call [647-466-0523](tel:+16474660523)
+to let us know if you will contribute, and to RSVP so we have an idea of how
+many people will attend.
 
 The York Woods Library is east of Jane Street, wheelchair accessible, and on
 the Finch West LRT line.
