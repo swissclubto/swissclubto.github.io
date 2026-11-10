@@ -9,6 +9,13 @@ date: 2027-02-07
 section: men
 ---
 
+<figure class="half">
+  <img src="/assets/images/2027-02-07-little-rascals-poster.webp"
+    alt="The Little Rascals movie poster">
+  <img src="/assets/images/2027-02-07-mein-name-ist-eugen-poster.webp"
+    alt="Mein Name ist Eugen movie poster">
+</figure>
+
 The Men's Section invites you, your family, and friends to a double feature
 comparing how the Swiss and the Americans tackled a similar subject:
 
