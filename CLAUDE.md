@@ -69,6 +69,20 @@ gallery:
     title: Photo caption
 ```
 
+## Adding a Tell Tale Issue
+
+Tell Tale newsletters live in `assets/telltale/` as `YYYY-MM-issue-NNN.pdf` plus a `-th.webp` thumbnail, listed in `_pages/telltale.md` front matter under the year key (rows of three; `- # placeholder` entries fill out the grid).
+
+New issues go in hidden first, then are published in a later commit:
+
+1. **Add (hidden):** copy the PDF in, then use the user's shell functions (run via `bash -ic` so they're loaded):
+   - `compresspdf file.pdf` → writes `file_small.pdf` (Ghostscript `/ebook`); move it over the original
+   - `dumppdfdata file.pdf` → writes `file.info`; edit it so Title is `Tell Tale Issue NNN, Month YYYY` and Author is the editor's full name (e.g. `Gabriel Hilty`); blank out junk like Canva keyword IDs
+   - `updatepdfdata file.pdf` → applies `file.info` in place; then delete the `.info` file
+   - `createpdfthumb file.pdf` → writes `file-th.webp` (375 px wide)
+2. In `_pages/telltale.md`, replace a placeholder with the new entry **commented out** (`# - url: ...`), and add the updated year caption commented out below the current one under `captions:`. Commit as e.g. "Add Tell Tale NNN".
+3. **Publish:** uncomment the entry, replace the old caption with the new one. Commit as e.g. "Publish Tell Tale NNN".
+
 ## Automation
 
 **GitHub Actions:**
