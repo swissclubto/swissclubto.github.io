@@ -1,6 +1,6 @@
 ---
 title: Canadysli's 2027 Dinner & Dance
-date: 2027-02-27
+date: 2027-02-20
 # start_time: 6 pm
 contact: Philippe
 # cost: |
